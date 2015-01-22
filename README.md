@@ -1,4 +1,4 @@
-开发资源总结 (总结中)
+开发资源总结 (持续整理中)
 ===============
 
 这是对自己这几年开发的一个总结，各种项目、资源、书籍、博客等
@@ -60,6 +60,10 @@
 + [request](https://github.com/request/request): 基于 Node.js 的用于网络请求的库，使用简单，功能强大
 + [hapi](https://github.com/hapijs/hapi): 一个配置优先的 web 框架，[hapijs.com](http://hapijs.com/)
 + [psi](https://github.com/addyosmani/psi): 用于分析页面速度的工具，支持命令行
++ [gulp](https://github.com/gulpjs/gulp): 基于 Node.js 的流式构建系统
++ [orchestrator](https://github.com/orchestrator/orchestrator): 一个可以并行执行任务和依赖的库
++ [johnny-five](https://github.com/rwaldron/johnny-five): 用 Javascript 控制机器人
++ [popcorn-js](https://github.com/mozilla/popcorn-js): Mozilla 的一个开源项目，允许开发者基于 HTML5 音视频的时间线添加互动元素，比如注释，字幕，甚至动画
 
 ###### Express
 

@@ -32,6 +32,7 @@
 + [angular-schema-form](https://github.com/Textalk/angular-schema-form): 根据 JSON 生成响应的 Form 表单
 + [restangular](https://github.com/mgonto/restangular): Angular 中用来处理 RESTful API 的插件，可替代 $resource
 + [ng-cordova](https://github.com/driftyco/ng-cordova): Cordova 常用组件的 Angular 版本
++ [angular-translate](https://github.com/angular-translate/angular-translate): Angular 的国际化 (I18n)
 
 #### CSS
 

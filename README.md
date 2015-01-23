@@ -15,7 +15,10 @@
 + [skrollr](https://github.com/Prinzhorn/skrollr): 另一款实现一步滚动的开源库，使用人数众多，可实现各种狂拽酷炫掉渣天的前端效果，[看真相](http://prinzhorn.github.io/skrollr/)
 + [Framework7](https://github.com/nolimits4web/Framework7): 前端框架，是开发人员可以基于 web 技术构建 IOS7 程序
 + [regulex](https://github.com/JexCheng/regulex): 用于生成 正则表达式 的可视化流程图
-
++ [markdown-it](https://github.com/markdown-it/markdown-it): 新型 Markdown 解析器，快速，支持插件
++ [multiline](https://github.com/sindresorhus/multiline): 用于 Javascript 中的多行文本，类似于 Ruby 的 HERE Doc
++ [screenfull.js](https://github.com/sindresorhus/screenfull.js): 全屏插件，支持各大浏览器
++ [lunr.js](https://github.com/olivernn/lunr.js): 类似于 Solr, 但是用于浏览器上的全文搜索引擎，可以为 JSON 创建索引，离线也可以使用
 
 ###### HTML5 相关
 
@@ -25,6 +28,8 @@
 + [FileAPI](https://github.com/mailru/FileAPI): 前端用户处理文件（拖放、多文件上传等）
 + [Sortable](https://github.com/RubaXa/Sortable): 现代浏览器上用于实现元素拖拽排序的功能，支持 Meteor, AngularJS, React，不依赖 jQuery
 + [Swiper](https://github.com/nolimits4web/Swiper): 用于实现浏览器上的滑动切换效果，支持硬件加速
++ [matter-js](https://github.com/liabru/matter-js): 2D 物理效果引擎，碰撞、弹跳等
++ [jQTouch](https://github.com/senchalabs/jQTouch): 用于辅助创建手机端的 Web 应用，支持主题、Zepto.js 等
 
 ###### AngularJS
 
@@ -65,6 +70,19 @@
 + [orchestrator](https://github.com/orchestrator/orchestrator): 一个可以并行执行任务和依赖的库
 + [johnny-five](https://github.com/rwaldron/johnny-five): 用 Javascript 控制机器人
 + [popcorn-js](https://github.com/mozilla/popcorn-js): Mozilla 的一个开源项目，允许开发者基于 HTML5 音视频的时间线添加互动元素，比如注释，字幕，甚至动画
++ [connect](https://github.com/senchalabs/connect): Node 中间件支持，注：Express 4 以下依赖此库，从 4 开始支持全新的 Router，类似于 Rails Engine
++ [faker.js](https://github.com/Marak/faker.js): Faker 的 Node 实现，用于生成假数据
++ [chart](https://github.com/jstrace/chart): 用于终端生成 ASCII 图表
++ [drawille](https://github.com/asciimoo/drawille): 用于终端生成 ASCII 图形
++ [sparkly](https://github.com/sindresorhus/sparkly): spark.sh 的一个 Javascript 实现，终端生成 sparklines
++ [node-inspector](https://github.com/node-inspector/node-inspector): Node 的调试神器，使用方法，用 `node-debug` 代替 `node` 启动服务，并在你想调试的地方输入 `debugger`
++ [NodeOS](https://github.com/NodeOS/NodeOS): 基于 Node 的操作系统
++ [js-git](https://github.com/creationix/js-git): Git 的 Javascript 实现
++ [pdfkit](https://github.com/devongovett/pdfkit): Node 和 浏览器均可以使用的，用于生成 PDF 的库
++ [empty-trash](https://github.com/sindresorhus/empty-trash): 清空垃圾桶
++ [trash](https://github.com/sindresorhus/trash): 安全删除文件 -> 将文件放入垃圾桶
++ [rabbit.js](https://github.com/squaremo/rabbit.js): RabbitMQ 的 Node 客户端
++ [htmlbars](https://github.com/tildeio/htmlbars): 基于 Handlebars 的一个变种，可以编写直接操作 DOM 的辅助方法
 
 ###### Express
 
@@ -93,7 +111,6 @@
 
 + [Slidr](https://github.com/r0adkll/Slidr): 一个用于给 Activity 添加滑动消隐效果的库
 
-
 ## 代码效率
 
 #### CoffeeScript
@@ -111,6 +128,7 @@
 #### Docker
 
 + [kubernetes](https://github.com/GoogleCloudPlatform/kubernetes): Google 开源的 Docker 集中管控系统
++ [weave](https://github.com/zettio/weave): 用于为基于不同主机的 Docker Containers 创建一个虚拟网络
 
 #### OS
 
@@ -145,3 +163,6 @@
 + [what-happens-when](https://github.com/alex/what-happens-when): 一篇文章，详细解释了从在浏览器中输入网址之后发生的一切
 + [ShadowVPN](https://github.com/clowwindy/ShadowVPN): 科学上网之 VPN
 + [gfwlist2pac](https://github.com/clowwindy/gfwlist2pac): 科学上网之 GFWlist to Pac
++ [uBlock](https://github.com/gorhill/uBlock): Chrome, Firefox, Safari 插件用来屏蔽内容（如广告等），可自定义
++ [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions): 各种前端面试问题
++ [rust](https://github.com/rust-lang/rust): Rust 语言源码

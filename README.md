@@ -22,6 +22,15 @@
 + [jquery.hotkeys](https://github.com/jeresig/jquery.hotkeys): jQuery 插件，用于绑定热键
 + [breach_core](https://github.com/breach/breach_core): Javascript 编写的 Browser (浏览器)
 + [octocard](https://github.com/zmmbreeze/octocard): 用于生成 Github 信息卡片的库
++ [github-cards](https://github.com/lepture/github-cards): 用于生成 Github 信息卡片的库
++ [money.js](https://github.com/openexchangerates/money.js): 轻量级货币转换库，web 和 node 皆可用
++ [accounting.js](https://github.com/openexchangerates/accounting.js): 轻量级的数字、货币转换库
++ [javascript-algorithms](https://github.com/mgechev/javascript-algorithms): Javascript 实现的各种算法集合
++ [lazy.js](https://github.com/dtao/lazy.js): 类似于 underscore, 但是会延迟执行，某些场景下，性能会有很大的提升
++ [seajs](https://github.com/seajs/seajs): 前端模块加载器，解决模块化、依赖等问题
++ [jQuery-One-Page-Nav](https://github.com/davist11/jQuery-One-Page-Nav): 单页应用中一个用于处理导航栏的库
++ [js.js](https://github.com/js-js/js.js): Javascript 实现的 javascript JIT
+
 
 ###### HTML5 相关
 
@@ -35,6 +44,15 @@
 + [jQTouch](https://github.com/senchalabs/jQTouch): 用于辅助创建手机端的 Web 应用，支持主题、Zepto.js 等
 + [snabbt.js](https://github.com/daniel-lundin/snabbt.js): 一个利用 Javascript 和 CSS transform 的 animation 库
 + [c3](https://github.com/masayuki0812/c3): 基于 D3 的图表库
++ [echarts](https://github.com/ecomfe/echarts): 企业级图表库，百度开发
++ [parallax.js](https://github.com/wagerfield/parallax): 一个用于响应智能手机 orientation 的库
++ [jQuery-Animate-Enhanced](https://github.com/benbarnett/jQuery-Animate-Enhanced): jQuery 动画库的一个增强，用于现代浏览器
++ [wysihtml](https://github.com/Voog/wysihtml): 富文本编辑器，适用于现代浏览器
++ [slip](https://github.com/pornel/slip): 一个通过滑动或者拖拽来操控列表的库
++ [evil-icons](https://github.com/outpunk/evil-icons): 一个矢量图库，提供 Ruby/Node 等支持
++ [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe): JS 的一个图片展示库
++ [focusable](https://github.com/zzarcon/focusable): 是页面上一个元素高亮的库，[有图有真相](http://zzarcon.github.io/focusable/)
++ [Skeleton](https://github.com/dhg/Skeleton): 一个 CSS 相关的库，用于构建对手机友好的网站
 
 ###### AngularJS
 
@@ -44,6 +62,8 @@
 + [ng-cordova](https://github.com/driftyco/ng-cordova): Cordova 常用组件的 Angular 版本
 + [angular-translate](https://github.com/angular-translate/angular-translate): Angular 的国际化 (I18n)
 + [ng-inspector](https://github.com/rev087/ng-inspector): Chrome 插件，用于调试 Angular
++ [angularjs-style-guide](https://github.com/mgechev/angularjs-style-guide): AngularJS 代码风格
++ [ngReact](https://github.com/davidchang/ngReact): React 的 Angular 插件，可以在 Angular 中使用 React Components
 
 #### CSS
 
@@ -67,11 +87,21 @@
 + [aasm](https://github.com/aasm/aasm): 另一款 Ruby 状态机
 + [paper_trail](https://github.com/airblade/paper_trail): 一款强大的用于记录 Model 变更的库，非常适合于 创建记录的版本和审查变更
 + [timers](https://github.com/celluloid/timers): Ruby 的一个 Timer 库，适合于配合事件使用
++ [gitlab-shell](https://github.com/gitlabhq/gitlab-shell): gitlab 的命令行工具，用于替换 gitolite
++ [money](https://github.com/RubyMoney/money): Ruby 的一个数字、货币转换库
++ [money-rails](https://github.com/RubyMoney/money-rails): Rails 的一个数字、货币转换库
++ [houston](https://github.com/nomad/houston): APN 的 Ruby 库
++ [devise_invitable](https://github.com/scambra/devise_invitable): Devise 的一个插件，用于邀请用户
++ [mail](https://github.com/mikel/mail): Ruby 的处理邮件的库
++ [commander](https://github.com/tj/commander): Ruby 的命令行辅助库
++ [helios](https://github.com/helios-framework/helios): 一个为 IOS 提供后端支撑的库
++ [middleman](https://github.com/middleman/middleman): 一个辅助制作静态网站的工具
++ [pundit](https://github.com/elabs/pundit): 一个处理认证的库
++ [refile](https://github.com/elabs/refile): 一个处理图片上传的库
 
 #### Python
 
 + [django](https://github.com/django/django): 一个全栈式的 web 框架, 类似于 Rails
-+ [pgcli](https://github.com/amjith/pgcli): PostgreSQL 命令行工具，提供高亮和自动补全
 + [wifiphisher](https://github.com/sophron/wifiphisher): WIFI 中间人钓鱼攻击工具，获取用户名密码
 
 #### PHP
@@ -101,6 +131,11 @@
 + [sharp](https://github.com/lovell/sharp): Node 的一个图像处理的库，基于 libvips
 + [debug](https://github.com/visionmedia/debug): 一个用于在 console 或者 浏览器输出日志，方便与 Debug 的工具
 + [github-contributions](https://github.com/IonicaBizau/github-contributions): 一个好玩的库，用于在 github 的 contribution calendar 上输出你想要的文字或者图案
++ [hexo](https://github.com/hexojs/hexo): 基于 Node 的静态博客，类似于 Octopress
++ [7-days-nodejs](https://github.com/nqdeng/7-days-nodejs): 七天学会 Node.js
++ [GhostScroll](https://github.com/grmmph/GhostScroll): Ghost 的一个主题
++ [ghost-themes](https://github.com/haydenbleasel/ghost-themes): 多个 Ghost 主题
++ [TermKit](https://github.com/unconed/TermKit): 一个基于 Chrome 和 Node 的终端应用
 
 ###### Express
 
@@ -116,9 +151,11 @@
 
 #### Java
 
-#### C++
+#### C/C++
 
 + [json](https://github.com/nlohmann/json): C++ 的 JSON 库
++ [simple-rtmp-server](https://github.com/winlinvip/simple-rtmp-server): 运营级的互联网直播服务器集群
++ [mozjpeg](https://github.com/mozilla/mozjpeg): JPEG 图片解码压缩，Mozilla 出品
 
 ## IOS 或 OSX
 
@@ -135,10 +172,20 @@
 + [RESideMenu](https://github.com/romaonthego/RESideMenu): IOS 中侧边栏的异步效果实现，类似于 QQ 中的侧边栏
 + [AwesomeMenu](https://github.com/levey/AwesomeMenu): IOS 中用于实现类似于 Path 应用菜单的效果，各种酷炫
 + [Alamofire](https://github.com/Alamofire/Alamofire): NFNetworking 的 Swift 版本
++ [Alcatraz](https://github.com/supermarin/Alcatraz): Xcode 的包管理工具
++ [JBChartView](https://github.com/Jawbone/JBChartView): IOS 的图表库
++ [PNChart](https://github.com/kevinzhow/PNChart): 基于 IOS 的强大图表库
++ [GPUImage](https://github.com/BradLarson/GPUImage): 基于 GPU 图片、视频处理库
++ [shenzhen](https://github.com/nomad/shenzhen): 一个用于构架和发布 IOS 的命令行工具
++ [ZXingObjC](https://github.com/TheLevelUp/ZXingObjC): ZXing(二维码、条形码扫描库) 的 Objective-C 实现
++ [PKRevealController](https://github.com/pkluz/PKRevealController): IOS 上一个非常优秀的，用于实现侧边栏的库
 
 ## Android
 
 + [Slidr](https://github.com/r0adkll/Slidr): 一个用于给 Activity 添加滑动消隐效果的库
++ [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries): Android 各种开源库的一个汇总
++ [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui): Android 各种开源UI/UX库的一个汇总
++ [material_design_zh](https://github.com/1sters/material_design_zh): Material Design 的中文协同翻译
 
 ## 代码效率
 
@@ -168,11 +215,14 @@
 ## 开源产品(论坛、在线教育、项目管理等)
 
 + [Edx](https://github.com/edx/edx-platform): 在线教育平台源代码，Edx
++ [alchemy_cms](https://github.com/AlchemyCMS/alchemy_cms): 开源 CMS 系统，基于 Rails
 
 ## Awesome 系列
 
 + [awesome](https://github.com/sindresorhus/awesome): awesome 汇总
 + [iOS 学习资料整理](https://github.com/Aufree/trip-to-iOS): IOS 的各种学习资料整理，初学者必备
++ [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries): Android 各种开源库的一个汇总
++ [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui): Android 各种开源UI/UX库的一个汇总
 
 ## 代码规范&设计模式
 
@@ -188,6 +238,11 @@
 
 + [java-design-patterns](https://github.com/iluwatar/java-design-patterns): Java 设计模式
 
+## 数据库
+
++ [postgrest](https://github.com/begriffs/postgrest): PostgreSQL 的 RESTful API
++ [pgcli](https://github.com/amjith/pgcli): PostgreSQL 命令行工具，提供高亮和自动补全
+
 ## 其他
 
 + [retter](https://github.com/maciejczyzewski/retter): 密码学相关的算法库
@@ -198,3 +253,7 @@
 + [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions): 各种前端面试问题
 + [rust](https://github.com/rust-lang/rust): Rust 语言源码
 + [http2-spec](https://github.com/http2/http2-spec): HTTP 2 草案
++ [tenant-point](https://github.com/soulteary/tenant-point): 租房要点，适用于北上广深杭
++ [gitolite](https://github.com/sitaramc/gitolite): 用于构建 Git 服务器
++ [font-spider](https://github.com/aui/font-spider): 中文 WebFont 自动化压缩工具
++ [30min_guides](https://github.com/qinjx/30min_guides): 覃健祥的学习笔记，各种几十分钟入门的文档

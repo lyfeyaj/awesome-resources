@@ -19,6 +19,9 @@
 + [multiline](https://github.com/sindresorhus/multiline): 用于 Javascript 中的多行文本，类似于 Ruby 的 HERE Doc
 + [screenfull.js](https://github.com/sindresorhus/screenfull.js): 全屏插件，支持各大浏览器
 + [lunr.js](https://github.com/olivernn/lunr.js): 类似于 Solr, 但是用于浏览器上的全文搜索引擎，可以为 JSON 创建索引，离线也可以使用
++ [jquery.hotkeys](https://github.com/jeresig/jquery.hotkeys): jQuery 插件，用于绑定热键
++ [breach_core](https://github.com/breach/breach_core): Javascript 编写的 Browser (浏览器)
++ [octocard](https://github.com/zmmbreeze/octocard): 用于生成 Github 信息卡片的库
 
 ###### HTML5 相关
 
@@ -30,6 +33,8 @@
 + [Swiper](https://github.com/nolimits4web/Swiper): 用于实现浏览器上的滑动切换效果，支持硬件加速
 + [matter-js](https://github.com/liabru/matter-js): 2D 物理效果引擎，碰撞、弹跳等
 + [jQTouch](https://github.com/senchalabs/jQTouch): 用于辅助创建手机端的 Web 应用，支持主题、Zepto.js 等
++ [snabbt.js](https://github.com/daniel-lundin/snabbt.js): 一个利用 Javascript 和 CSS transform 的 animation 库
++ [c3](https://github.com/masayuki0812/c3): 基于 D3 的图表库
 
 ###### AngularJS
 
@@ -38,6 +43,7 @@
 + [restangular](https://github.com/mgonto/restangular): Angular 中用来处理 RESTful API 的插件，可替代 $resource
 + [ng-cordova](https://github.com/driftyco/ng-cordova): Cordova 常用组件的 Angular 版本
 + [angular-translate](https://github.com/angular-translate/angular-translate): Angular 的国际化 (I18n)
++ [ng-inspector](https://github.com/rev087/ng-inspector): Chrome 插件，用于调试 Angular
 
 #### CSS
 
@@ -53,11 +59,20 @@
 + [reactive_record](https://github.com/twopoint718/reactive_record): 根据 ActiveRecord 的 数据库 Schema 来反向生成 Model
 + [eventmachine](https://github.com/eventmachine/eventmachine): Ruby 中著名的事件驱动库
 + [faker](https://github.com/stympy/faker): Perl 的 Data::Faker 库的一个 Ruby 实现，用于虚拟各种类型的数据
-
++ [amqp](https://github.com/ruby-amqp/amqp): RabbitMQ 的 Ruby 客户端，基于 EventMachine
++ [bunny](https://github.com/ruby-amqp/bunny): 另一个 RabbitMQ 的 Ruby 客户端
++ [thinking-sphinx](https://github.com/pat/thinking-sphinx): Sphinx 全文搜索的 ActiveRecord 插件
++ [ruby-vips](https://github.com/jcupitt/ruby-vips): Ruby 的一款图像处理库, 基于 libvips
++ [statesman](https://github.com/gocardless/statesman): Ruby 的一个状态机
++ [aasm](https://github.com/aasm/aasm): 另一款 Ruby 状态机
++ [paper_trail](https://github.com/airblade/paper_trail): 一款强大的用于记录 Model 变更的库，非常适合于 创建记录的版本和审查变更
++ [timers](https://github.com/celluloid/timers): Ruby 的一个 Timer 库，适合于配合事件使用
 
 #### Python
 
 + [django](https://github.com/django/django): 一个全栈式的 web 框架, 类似于 Rails
++ [pgcli](https://github.com/amjith/pgcli): PostgreSQL 命令行工具，提供高亮和自动补全
++ [wifiphisher](https://github.com/sophron/wifiphisher): WIFI 中间人钓鱼攻击工具，获取用户名密码
 
 #### PHP
 #### NodeJS
@@ -83,6 +98,9 @@
 + [trash](https://github.com/sindresorhus/trash): 安全删除文件 -> 将文件放入垃圾桶
 + [rabbit.js](https://github.com/squaremo/rabbit.js): RabbitMQ 的 Node 客户端
 + [htmlbars](https://github.com/tildeio/htmlbars): 基于 Handlebars 的一个变种，可以编写直接操作 DOM 的辅助方法
++ [sharp](https://github.com/lovell/sharp): Node 的一个图像处理的库，基于 libvips
++ [debug](https://github.com/visionmedia/debug): 一个用于在 console 或者 浏览器输出日志，方便与 Debug 的工具
++ [github-contributions](https://github.com/IonicaBizau/github-contributions): 一个好玩的库，用于在 github 的 contribution calendar 上输出你想要的文字或者图案
 
 ###### Express
 
@@ -90,7 +108,17 @@
 + [grant](https://github.com/simov/grant): Express 认证中间件(middleware)
 
 #### Erlang
+
++ [kerl](https://github.com/yrashk/kerl): 版本管理器, 用于管理 Erlang/OTP 实例, 类似于 RVM
++ [rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server): RabbitMQ 消息队列 源码
++ [rabbitmq-tutorials](https://github.com/rabbitmq/rabbitmq-tutorials): RabbitMQ 教程
+
+
 #### Java
+
+#### C++
+
++ [json](https://github.com/nlohmann/json): C++ 的 JSON 库
 
 ## IOS 或 OSX
 
@@ -106,6 +134,7 @@
 + [REMenu](https://github.com/romaonthego/REMenu): IOS 中用于实现下拉菜单效果
 + [RESideMenu](https://github.com/romaonthego/RESideMenu): IOS 中侧边栏的异步效果实现，类似于 QQ 中的侧边栏
 + [AwesomeMenu](https://github.com/levey/AwesomeMenu): IOS 中用于实现类似于 Path 应用菜单的效果，各种酷炫
++ [Alamofire](https://github.com/Alamofire/Alamofire): NFNetworking 的 Swift 版本
 
 ## Android
 
@@ -114,6 +143,8 @@
 ## 代码效率
 
 #### CoffeeScript
+
++ [coffeescript](https://github.com/jashkenas/coffeescript): Coffeescript 源码
 
 #### TypeScript
 
@@ -166,3 +197,4 @@
 + [uBlock](https://github.com/gorhill/uBlock): Chrome, Firefox, Safari 插件用来屏蔽内容（如广告等），可自定义
 + [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions): 各种前端面试问题
 + [rust](https://github.com/rust-lang/rust): Rust 语言源码
++ [http2-spec](https://github.com/http2/http2-spec): HTTP 2 草案

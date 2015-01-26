@@ -43,6 +43,7 @@
 + [flow](https://github.com/facebook/flow): 一个用来检测 Javascript 语法错误的库， Facebook 出品
 + [zoomooz](https://github.com/jaukia/zoomooz): jQuery 插件，用来处理浏览器缩放
 + [fancyBox](https://github.com/fancyapps/fancyBox): 一个用于放大缩小图片、Web 内容或者多媒体元素的库，优雅大方
++ [mithril.js](https://github.com/lhorie/mithril.js): 轻量型前端 MVC 框架，部分使用场景下性能优于 Angular.js 和 React
 
 ###### HTML5 相关
 
@@ -68,6 +69,8 @@
 + [jquery-mobile](https://github.com/jquery/jquery-mobile): jQuery 团队开发的用于辅助手机端 web app 开发的库，基于 HTML5
 + [interact.js](https://github.com/taye/interact.js): 一个适用于现代浏览器的，用于处理 手势、拖放、缩放等的库
 + [rebound-js](https://github.com/facebook/rebound-js): 实现部分物理效果，Facebook 出品
++ [basket.js](https://github.com/addyosmani/basket.js): 基于 LocalStorage 的资源加载器，可以用来缓存 script 和 css, 手机端使用速度快于浏览器直接缓存
++ [iscroll](https://github.com/cubiq/iscroll): 高性能的滚动(scroll)处理库，功能强大，支持各种事件，不依赖任何的库，且插件丰富
 
 ###### AngularJS
 
@@ -192,6 +195,8 @@
 + [prerender](https://github.com/prerender/prerender): 用于预解析网站，主要解决单页应用(angular.js ember.js backbone.js 等)的搜索引擎 SEO 支持
 + [spider](https://github.com/alongubkin/spider): 一种新语言，目标是编译成 Javascript
 + [jsdoc](https://github.com/jsdoc3/jsdoc): 用来生成 Javascript API 文档的库
++ [browser-sync](https://github.com/shakyShane/browser-sync): 多浏览器(多设备)同步库，监控 CSS/Javascript/HTML 的变更并通知到浏览器；监控浏览器的操作，如滚动、点击等事件，同步到所有的开发设备。前端开发利器！
+
 
 ###### Express
 
@@ -330,6 +335,8 @@
 + [postgrest](https://github.com/begriffs/postgrest): PostgreSQL 的 RESTful API
 + [pgcli](https://github.com/amjith/pgcli): PostgreSQL 命令行工具，提供高亮和自动补全
 + [mongo](https://github.com/mongodb/mongo): MongoDB 源代码
++ [nedb](https://github.com/louischatriot/nedb): 纯 Javascript 实现，类 MongoDB 的内存型数据库，API 基本和 MongoDB相同，可选同步写入磁盘，小项目数据不太多时性能很强乃至超过MongoDB
++ [TokuMX MongoDB](https://github.com/Tokutek/mongo): TokuMX 版的 MongoDB, MongoDB 的一个分支，支持更快的写速度，完整的事务支持等
 
 ## 博客 / 网站
 
@@ -384,3 +391,4 @@
 + [font-spider](https://github.com/aui/font-spider): 中文 WebFont 自动化压缩工具
 + [lolcommits](https://github.com/mroth/lolcommits): 给自己的 git commit 加一张杀马特的照片
 + [scm_breeze](https://github.com/ndbroadbent/scm_breeze): Git 流程的辅助简化工具
++ [gitlet](https://github.com/maryrosecook/gitlet): Javascript 实现的 Git

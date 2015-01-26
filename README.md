@@ -364,6 +364,7 @@
 + [30min_guides](https://github.com/qinjx/30min_guides): 覃健祥的学习笔记，各种几十分钟入门的文档
 + [tenant-point](https://github.com/soulteary/tenant-point): 租房要点，适用于北上广深杭
 + [http2-spec](https://github.com/http2/http2-spec): HTTP 2 草案
++ [The Swift Programming Language 中文版](http://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/): The Swift Programming Language 中文版, 苹果官方教程的中文翻译
 
 ## 科学上网
 

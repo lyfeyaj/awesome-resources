@@ -156,6 +156,7 @@
 + [immutable-js](https://github.com/facebook/immutable-js): 不可改变的集合, 前后端通用
 + [node-migrate](https://github.com/tj/node-migrate): Node 的数据库迁移框架
 + [pomelo](https://github.com/NetEase/pomelo): Node 游戏服务器框架，网易开发
++ [blessed-contrib](https://github.com/yaronn/blessed-contrib): 构建终端信息板 (Dashboard) 利器
 
 ###### Express
 
@@ -243,6 +244,7 @@
 + [Edx](https://github.com/edx/edx-platform): 在线教育平台源代码，Edx
 + [alchemy_cms](https://github.com/AlchemyCMS/alchemy_cms): 开源 CMS 系统，基于 Rails
 + [flynn](https://github.com/flynn/flynn): 下一代 PAAS 服务产品，用于管理主机或者 AWS 实例
++ [jsgen](https://github.com/zensh/jsgen): 开源论坛、博客系统, 基于 Node.js, AngularJS, MongoDB
 
 ## Awesome 系列
 

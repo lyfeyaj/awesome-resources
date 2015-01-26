@@ -30,7 +30,17 @@
 + [seajs](https://github.com/seajs/seajs): 前端模块加载器，解决模块化、依赖等问题
 + [jQuery-One-Page-Nav](https://github.com/davist11/jQuery-One-Page-Nav): 单页应用中一个用于处理导航栏的库
 + [js.js](https://github.com/js-js/js.js): Javascript 实现的 javascript JIT
-
++ [jquery-ui](https://github.com/jquery/jquery-ui): jQuery 团队开发的 UI 相关的前端库，功能强大
++ [todomvc](https://github.com/tastejs/todomvc): 分别基于 AngularJS/EmberJS/Backbone等实现的 TODO List, 帮助开发者选择前端 MVC 库
++ [localForage](https://github.com/mozilla/localForage): Mozilla 出品，用于离线存储，基于IndexedDB, WebSQL 或者 localStorage, 提供一致的接口
++ [EventEmitter](https://github.com/Wolfy87/EventEmitter): 浏览器版的 EventEmitter
++ [jquery.serializeJSON](https://github.com/marioizquierdo/jquery.serializeJSON): jQuery 插件，用于将 form 表单序列化成 JSON 数据
++ [knockout](https://github.com/knockout/knockout): 前端 MVVM 框架，用于开发富前端应用
++ [mermaid](https://github.com/knsv/mermaid): 可以根据文本生成流程图，类似于 Markdown 的语法
++ [js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams): 另一款可以根据文本生成流程图的库，类似于 Markdown 的语法
++ [flow](https://github.com/facebook/flow): 一个用来检测 Javascript 语法错误的库， Facebook 出品
++ [zoomooz](https://github.com/jaukia/zoomooz): jQuery 插件，用来处理浏览器缩放
++ [fancyBox](https://github.com/fancyapps/fancyBox): 一个用于放大缩小图片、Web 内容或者多媒体元素的库，优雅大方
 
 ###### HTML5 相关
 
@@ -52,7 +62,10 @@
 + [evil-icons](https://github.com/outpunk/evil-icons): 一个矢量图库，提供 Ruby/Node 等支持
 + [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe): JS 的一个图片展示库
 + [focusable](https://github.com/zzarcon/focusable): 是页面上一个元素高亮的库，[有图有真相](http://zzarcon.github.io/focusable/)
-+ [Skeleton](https://github.com/dhg/Skeleton): 一个 CSS 相关的库，用于构建对手机友好的网站
++ [firefox.html](https://github.com/paulrouget/firefox.html): Firefox 在浏览器端的实现 —— HTML 版的 Firefox
++ [jquery-mobile](https://github.com/jquery/jquery-mobile): jQuery 团队开发的用于辅助手机端 web app 开发的库，基于 HTML5
++ [interact.js](https://github.com/taye/interact.js): 一个适用于现代浏览器的，用于处理 手势、拖放、缩放等的库
++ [rebound-js](https://github.com/facebook/rebound-js): 实现部分物理效果，Facebook 出品
 
 ###### AngularJS
 
@@ -64,11 +77,14 @@
 + [ng-inspector](https://github.com/rev087/ng-inspector): Chrome 插件，用于调试 Angular
 + [angularjs-style-guide](https://github.com/mgechev/angularjs-style-guide): AngularJS 代码风格
 + [ngReact](https://github.com/davidchang/ngReact): React 的 Angular 插件，可以在 Angular 中使用 React Components
++ [material](https://github.com/angular/material): Google Material Design 效果的 Angular 实现
 
 #### CSS
 
 + [Hover](https://github.com/IanLunn/Hover): 基于 CSS3 的各种 鼠标悬停(hover)特效, [点击查看效果](http://ianlunn.github.io/Hover/)
 + [icono](https://github.com/saeedalipoor/icono): 一款用纯 CSS 实现的图标库
++ [normalize.css](https://github.com/necolas/normalize.css): 一个用于重置浏览器内置样式的库
++ [Skeleton](https://github.com/dhg/Skeleton): 一个 CSS 相关的库，用于构建对手机友好的网站
 
 ## Web 后端
 
@@ -110,12 +126,25 @@
 + [newrelic_moped](https://github.com/stevebartholomew/newrelic_moped): Moped 的 Newrelic 插件
 + [rack-attack](https://github.com/kickstarter/rack-attack): 基于 Rack 的防攻击中间件
 + [rack-utf8_sanitizer](https://github.com/whitequark/rack-utf8_sanitizer): Rack 的 UTF8 序列化中间件
++ [redis-stat](https://github.com/junegunn/redis-stat): Redis 监控工具
++ [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler): Rack 中间件，用于分析各个性能指标，如 SQL, View渲染等
++ [memory_profiler](https://github.com/SamSaffron/memory_profiler): 用于分析内存占用
++ [gctools](https://github.com/tmm1/gctools): 用于分析和优化 Ruby GC，可以配合 Unicorn 使用
++ [wicked_pdf](https://github.com/mileszs/wicked_pdf): Rails 插件，用于生成 PDF
++ [request_store](https://github.com/steveklabnik/request_store): Rack 中间件，用于保存仅单次请求有效的的全局变量，线程安全
++ [slim](https://github.com/slim-template/slim): 基于 Ruby 的前端模板引擎，类似于 Haml, 语法更简洁，据说相比于 Haml 会更快一些
++ [simplecov](https://github.com/colszowka/simplecov): Ruby 测试代码的覆盖率分析
++ [sass](https://github.com/sass/sass): CSS 框架，使得编写 CSS 更加容易和有趣，支持模块化、变量、运算、Mixin等
 
 #### Python
 
 + [django](https://github.com/django/django): 一个全栈式的 web 框架, 类似于 Rails
 + [wifiphisher](https://github.com/sophron/wifiphisher): WIFI 中间人钓鱼攻击工具，获取用户名密码
 + [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit): Python 的交互命令行工具，提供代码补全、高亮等
++ [redis-rdb-tools](https://github.com/sripathikrishnan/redis-rdb-tools): Redis 的 dump.rdb 文件解析器，用于分析内存使用、导出 JSON 以及 比较不同 rdb 文件差异
++ [supervisor](https://github.com/Supervisor/supervisor): 类UNIX下用于控制进程的一个开源库，通过配置可以监控、自动重启各种服务
++ [pyenv](https://github.com/yyuu/pyenv): Python 版本管理工具，类似于 RVM
++ [pyspider](https://github.com/binux/pyspider): 一个爬虫系统
 
 #### NodeJS
 
@@ -158,6 +187,9 @@
 + [pomelo](https://github.com/NetEase/pomelo): Node 游戏服务器框架，网易开发
 + [blessed-contrib](https://github.com/yaronn/blessed-contrib): 构建终端信息板 (Dashboard) 利器
 + [node-notifier](https://github.com/mikaelbr/node-notifier): Node 模块，可以发送本地通知，支持 Mac/Windows/Linux
++ [prerender](https://github.com/prerender/prerender): 用于预解析网站，主要解决单页应用(angular.js ember.js backbone.js 等)的搜索引擎 SEO 支持
++ [spider](https://github.com/alongubkin/spider): 一种新语言，目标是编译成 Javascript
++ [jsdoc](https://github.com/jsdoc3/jsdoc): 用来生成 Javascript API 文档的库
 
 ###### Express
 
@@ -169,7 +201,9 @@
 + [kerl](https://github.com/yrashk/kerl): 版本管理器, 用于管理 Erlang/OTP 实例, 类似于 RVM
 + [rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server): RabbitMQ 消息队列 源码
 + [rabbitmq-tutorials](https://github.com/rabbitmq/rabbitmq-tutorials): RabbitMQ 教程
-
++ [ejabberd](https://github.com/processone/ejabberd): XMPP 协议的开源实现，用于及时聊天软件，Whatsapp 的聊天核心就是这个软件
++ [elixir](https://github.com/elixir-lang/elixir): 基于 Erlang VM 的一个语言，语法类似于 Ruby
++ [phoenix](https://github.com/phoenixframework/phoenix): 基于 Elixir 语言的 web 框架
 
 #### Java
 
@@ -178,11 +212,15 @@
 + [json](https://github.com/nlohmann/json): C++ 的 JSON 库
 + [simple-rtmp-server](https://github.com/winlinvip/simple-rtmp-server): 运营级的互联网直播服务器集群
 + [mozjpeg](https://github.com/mozilla/mozjpeg): JPEG 图片解码压缩，Mozilla 出品
++ [libsass](https://github.com/sass/libsass): SASS 的 C++ 实现
++ [QQStars](https://github.com/AfterTheRainOfStars/QQStars): 基于 WebQQ 协议和 QT 开发的 QQ 客户端
++ [caffe](https://github.com/BVLC/caffe): 一个关于数据挖掘的库
 
 #### Go
 
 + [delve](https://github.com/derekparker/delve): Go 调试器
 + [go](https://github.com/golang/go): Go 源码
++ [beego](https://github.com/astaxie/beego): 国内大牛开发的 Web 框架
 
 ## IOS 或 OSX
 
@@ -207,6 +245,8 @@
 + [ZXingObjC](https://github.com/TheLevelUp/ZXingObjC): ZXing(二维码、条形码扫描库) 的 Objective-C 实现
 + [PKRevealController](https://github.com/pkluz/PKRevealController): IOS 上一个非常优秀的，用于实现侧边栏的库
 + [KIF](https://github.com/kif-framework/KIF): IOS 功能测试框架
++ [Bolts-iOS](https://github.com/BoltsFramework/Bolts-iOS): 为了加快开发速度的相对低层级的库集合， Parse 和 Facebook 出品
++ [MaterialKit](https://github.com/nghialv/MaterialKit): 基于 Swift 实现的 Google Material Design 效果
 
 ## Android
 
@@ -214,6 +254,7 @@
 + [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries): Android 各种开源库的一个汇总
 + [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui): Android 各种开源UI/UX库的一个汇总
 + [material_design_zh](https://github.com/1sters/material_design_zh): Material Design 的中文协同翻译
++ [galgo](https://github.com/inaka/galgo): Android 的日志工具，可以将日志显示在 Activity 的最上端，方便调试
 
 ## 代码效率
 
@@ -248,6 +289,9 @@
 + [jsgen](https://github.com/zensh/jsgen): 开源论坛、博客系统, 基于 Node.js, AngularJS, MongoDB
 + [libreboard](http://git.libreboard.com/libreboard/libreboard): [开源看板系统](https://github.com/libreboard/libreboard)，除了配色，长得几乎和 [Trello](https://trello.com) 一模一样
 + [paperwork](https://github.com/twostairs/paperwork): 开源笔记系统，类似于Evernote, Microsoft OneNote & Google Keep
++ [cabot](https://github.com/arachnys/cabot): 开源服务器监控服务
++ [firefox-ios](https://github.com/mozilla/firefox-ios): IOS 版 Firefox 源代码
++ [gogs](https://github.com/gogits/gogs): 一款开源 Git 托管服务，基于 GO 语言开发，类似于 Gitlab
 
 ## Awesome 系列
 
@@ -274,10 +318,15 @@
 
 + [bashstyle](https://github.com/progrium/bashstyle): Bash 代码编写规范
 
+#### Objective-C
+
++ [objective-c-style-guide](https://github.com/NYTimes/objective-c-style-guide): Objective-C 代码编写规范，New York Times 出品
+
 ## 数据库
 
 + [postgrest](https://github.com/begriffs/postgrest): PostgreSQL 的 RESTful API
 + [pgcli](https://github.com/amjith/pgcli): PostgreSQL 命令行工具，提供高亮和自动补全
++ [mongo](https://github.com/mongodb/mongo): MongoDB 源代码
 
 ## 博客 / 网站
 
@@ -303,20 +352,31 @@
 + [ruby-china](https://ruby-china.org/): 国内最大最火 Ruby 社区
 + [angularjs](http://angularjs.cn/): Angularjs 的国内中文社区
 
+## 书籍 / 阅读
+
++ [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions): 各种前端面试问题
++ [what-happens-when](https://github.com/alex/what-happens-when): 一篇文章，详细解释了从在浏览器中输入网址之后发生的一切
++ [backbone-fundamentals](https://github.com/addyosmani/backbone-fundamentals): 关于 Backbone 的一本书，初学和高级都适用
++ [fast-ruby](https://github.com/JuanitoFatas/fast-ruby): 怎样写出更快的 Ruby
++ [http-api-design](https://github.com/interagent/http-api-design): 从 Heroku 接口总结出的，如何更好地设计 API 接口
++ [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang): beego 作者写的关于怎么使用 Go 语言开发 web 应用的书
++ [til](https://github.com/thoughtbot/til): 今天我们学了什么，thoughtbot 出品，建议 watch
++ [30min_guides](https://github.com/qinjx/30min_guides): 覃健祥的学习笔记，各种几十分钟入门的文档
++ [tenant-point](https://github.com/soulteary/tenant-point): 租房要点，适用于北上广深杭
++ [http2-spec](https://github.com/http2/http2-spec): HTTP 2 草案
+
+## 科学上网
+
++ [ShadowVPN](https://github.com/clowwindy/ShadowVPN): 科学上网之 VPN
++ [shadowsocks](https://github.com/shadowsocks/shadowsocks): 科学上网利器(服务器端) ~ 墙外的世界丰富多彩
++ [gfwlist2pac](https://github.com/clowwindy/gfwlist2pac): 科学上网之 GFWlist to Pac
+
 ## 其他
 
 + [retter](https://github.com/maciejczyzewski/retter): 密码学相关的算法库
-+ [what-happens-when](https://github.com/alex/what-happens-when): 一篇文章，详细解释了从在浏览器中输入网址之后发生的一切
-+ [ShadowVPN](https://github.com/clowwindy/ShadowVPN): 科学上网之 VPN
-+ [gfwlist2pac](https://github.com/clowwindy/gfwlist2pac): 科学上网之 GFWlist to Pac
 + [uBlock](https://github.com/gorhill/uBlock): Chrome, Firefox, Safari 插件用来屏蔽内容（如广告等），可自定义
-+ [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions): 各种前端面试问题
 + [rust](https://github.com/rust-lang/rust): Rust 语言源码
-+ [http2-spec](https://github.com/http2/http2-spec): HTTP 2 草案
-+ [tenant-point](https://github.com/soulteary/tenant-point): 租房要点，适用于北上广深杭
 + [gitolite](https://github.com/sitaramc/gitolite): 用于构建 Git 服务器
 + [font-spider](https://github.com/aui/font-spider): 中文 WebFont 自动化压缩工具
-+ [30min_guides](https://github.com/qinjx/30min_guides): 覃健祥的学习笔记，各种几十分钟入门的文档
 + [lolcommits](https://github.com/mroth/lolcommits): 给自己的 git commit 加一张杀马特的照片
 + [scm_breeze](https://github.com/ndbroadbent/scm_breeze): Git 流程的辅助简化工具
-+ [til](https://github.com/thoughtbot/til): 今天我们学了什么，thoughtbot 出品，建议 watch

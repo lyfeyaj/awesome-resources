@@ -294,6 +294,9 @@
 + [rubyweekly](http://rubyweekly.com/): 提供各种各样关于 Ruby 的资讯和技巧
 + [javascriptweekly](http://javascriptweekly.com/): 提供各种各样关于 Javascript 的资讯和技巧
 + [ng-newsletter](http://www.ng-newsletter.com/): 提供各种各样关于 Angular 的资讯和技巧
++ [cnodejs](https://cnodejs.org/): 国内最大最火 Node.js 社区
++ [ruby-china](https://ruby-china.org/): 国内最大最火 Ruby 社区
++ [angularjs](http://angularjs.cn/): Angularjs 的国内中文社区
 
 ## 其他
 

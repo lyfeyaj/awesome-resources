@@ -3,7 +3,7 @@
 
 这是对自己这几年开发的一个总结，各种项目、资源、书籍、博客等
 
-如果对您有用, 或者您感觉还不错, 可以 Star 或者 Fork 一下
+喜欢么？或者对您有用？那就 Star 一下吧 ^_^
 
 ## Web 前端
 
@@ -52,6 +52,8 @@
 + [scrollMonitor](https://github.com/sakabako/scrollMonitor): 前端插件用来监控元素的滚动事件(进入、退出等)，性能很好
 + [ScrollMagic](https://github.com/janpaepke/ScrollMagic): 神奇的滚动交互效果插件，可以在滚动的过程中设置各种各样的动态效果
 + [infinite-scroll](https://github.com/paulirish/infinite-scroll): 滚动加载，滚动到最下到自动加载， Paul Irish 大神之作
++ [animatable](https://github.com/LeaVerou/animatable): 仅仅依靠 `border-width` 和 `background-position` 实现的各种动态效果，[看真相](http://leaverou.github.io/animatable/)
++ [Fluidbox](https://github.com/terrymun/Fluidbox): 页面上内嵌图片的放大缩小效果，类似于 [Medium](http://medium.com) 中的效果
 
 ###### HTML5 相关
 
@@ -80,6 +82,8 @@
 + [basket.js](https://github.com/addyosmani/basket.js): 基于 LocalStorage 的资源加载器，可以用来缓存 script 和 css, 手机端使用速度快于浏览器直接缓存
 + [iscroll](https://github.com/cubiq/iscroll): 高性能的滚动(scroll)处理库，功能强大，支持各种事件，不依赖任何的库，且插件丰富, 大众点评的手机端列表滚动就是用这个库处理的
 + [metrics-graphics](https://github.com/mozilla/metrics-graphics): 基于 D3 的图表库，简洁、高效，Mozilla 出品
++ [Placeholders.js](https://github.com/jamesallardice/Placeholders.js): 为不支持的 HTML5 的浏览器提供 Placeholder 支持
++ [prefixfree](https://github.com/LeaVerou/prefixfree): 自动为 CSS 添加 Vender Prefix，把你从不停添加浏览器前缀的噩梦中解放出来
 
 ###### AngularJS
 
@@ -150,6 +154,9 @@
 + [simplecov](https://github.com/colszowka/simplecov): Ruby 测试代码的覆盖率分析
 + [sass](https://github.com/sass/sass): CSS 框架，使得编写 CSS 更加容易和有趣，支持模块化、变量、运算、Mixin等
 + [slate](https://github.com/tripit/slate): 静态的 API 接口文档生成工具，干净、整洁、对手持设备友好、单页应用、代码高亮
++ [ruby-destroyed_at](https://github.com/dockyard/ruby-destroyed_at): ActiveRecord 扩展，支持安全删除
++ [taps](https://github.com/ricardochimal/taps): 支持数据库导入导出 -> 原理是，对导出目标数据库建立一个服务器提供数据接口，然后对目标导入数据库进行数据导入，依赖 Sinatra 启动数据库接口服务
++ [meta-tags](https://github.com/kpumuk/meta-tags): 为 Rails 应用提供 SEO 优化支持
 
 #### Python
 
@@ -268,6 +275,7 @@
 + [MaterialKit](https://github.com/nghialv/MaterialKit): 基于 Swift 实现的 Google Material Design 效果
 + [Carthage](https://github.com/Carthage/Carthage): 一个简单的、去中心化的 Cocoa 依赖管理库, Swift 编写，仅用于 IOS8.0 及 以后的系统
 + [JSONModel](https://github.com/icanzilb/JSONModel): 智能化的数据模型，有了它，再也不用手动解析JSON数据啦
++ [KZPlayground](https://github.com/krzysztofzablocki/KZPlayground): 提供对 Objective-C 的 Playground 支持，比 Swift 更快
 
 ## Android
 

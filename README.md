@@ -98,13 +98,25 @@
 + [middleman](https://github.com/middleman/middleman): 一个辅助制作静态网站的工具
 + [pundit](https://github.com/elabs/pundit): 一个处理认证的库
 + [refile](https://github.com/elabs/refile): 一个处理图片上传的库
++ [sharedrop](https://github.com/cowbell/sharedrop): Airdrop 的 HTTP5 实现，基于 WebRTC
++ [mailman](https://github.com/titanous/mailman): 处理接收邮件的库
++ [mruby](https://github.com/mruby/mruby): mini-ruby (light-weight ruby) 轻量级 Ruby 源代码
++ [sidekiq-status](https://github.com/utgarda/sidekiq-status): Sidekiq 插件，用来监控任务状态
++ [postgres_ext](https://github.com/dockyard/postgres_ext): ActiveRecord 的插件，扩展了 PostgreSQL 相关的一些功能
++ [prawn](https://github.com/prawnpdf/prawn): Ruby 的 PDF 编辑工具
++ [spring](https://github.com/rails/spring): Rails 的加载器，可以加速 Rails 开发
++ [rails](https://github.com/rails/rails): Rails 源代码
++ [newrelic-grape](https://github.com/xinminlabs/newrelic-grape): Grape 的 Newrelic 插件
++ [newrelic_moped](https://github.com/stevebartholomew/newrelic_moped): Moped 的 Newrelic 插件
++ [rack-attack](https://github.com/kickstarter/rack-attack): 基于 Rack 的防攻击中间件
++ [rack-utf8_sanitizer](https://github.com/whitequark/rack-utf8_sanitizer): Rack 的 UTF8 序列化中间件
 
 #### Python
 
 + [django](https://github.com/django/django): 一个全栈式的 web 框架, 类似于 Rails
 + [wifiphisher](https://github.com/sophron/wifiphisher): WIFI 中间人钓鱼攻击工具，获取用户名密码
++ [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit): Python 的交互命令行工具，提供代码补全、高亮等
 
-#### PHP
 #### NodeJS
 
 + [Node-Webkit.js](https://github.com/nwjs/nw.js): Node-Webkit 是基于Chromium 和 node.js的运行环境，可以用来创建桌面应用程序
@@ -136,6 +148,14 @@
 + [GhostScroll](https://github.com/grmmph/GhostScroll): Ghost 的一个主题
 + [ghost-themes](https://github.com/haydenbleasel/ghost-themes): 多个 Ghost 主题
 + [TermKit](https://github.com/unconed/TermKit): 一个基于 Chrome 和 Node 的终端应用
++ [h5ai](https://github.com/lrsjng/h5ai): 配置简单，美观的 http 静态目录，支持 Nginx、Apache 等
++ [http-server](https://github.com/nodeapps/http-server): Http 静态服务器，基于 Node, 配置简单
++ [node-apn](https://github.com/argon/node-apn): Node 的 APN (Apple Push Notification) 模块
++ [chai](https://github.com/chaijs/chai): Node 的 TDD/BDD 测试框架
++ [io.js](https://github.com/iojs/io.js): Node 的一个分支，更加活跃，开发更激进，最终的目的是合并入 Node.js
++ [immutable-js](https://github.com/facebook/immutable-js): 不可改变的集合, 前后端通用
++ [node-migrate](https://github.com/tj/node-migrate): Node 的数据库迁移框架
++ [pomelo](https://github.com/NetEase/pomelo): Node 游戏服务器框架，网易开发
 
 ###### Express
 
@@ -156,6 +176,11 @@
 + [json](https://github.com/nlohmann/json): C++ 的 JSON 库
 + [simple-rtmp-server](https://github.com/winlinvip/simple-rtmp-server): 运营级的互联网直播服务器集群
 + [mozjpeg](https://github.com/mozilla/mozjpeg): JPEG 图片解码压缩，Mozilla 出品
+
+#### Go
+
++ [delve](https://github.com/derekparker/delve): Go 调试器
++ [go](https://github.com/golang/go): Go 源码
 
 ## IOS 或 OSX
 
@@ -179,6 +204,7 @@
 + [shenzhen](https://github.com/nomad/shenzhen): 一个用于构架和发布 IOS 的命令行工具
 + [ZXingObjC](https://github.com/TheLevelUp/ZXingObjC): ZXing(二维码、条形码扫描库) 的 Objective-C 实现
 + [PKRevealController](https://github.com/pkluz/PKRevealController): IOS 上一个非常优秀的，用于实现侧边栏的库
++ [KIF](https://github.com/kif-framework/KIF): IOS 功能测试框架
 
 ## Android
 
@@ -216,6 +242,7 @@
 
 + [Edx](https://github.com/edx/edx-platform): 在线教育平台源代码，Edx
 + [alchemy_cms](https://github.com/AlchemyCMS/alchemy_cms): 开源 CMS 系统，基于 Rails
++ [flynn](https://github.com/flynn/flynn): 下一代 PAAS 服务产品，用于管理主机或者 AWS 实例
 
 ## Awesome 系列
 
@@ -238,6 +265,10 @@
 
 + [java-design-patterns](https://github.com/iluwatar/java-design-patterns): Java 设计模式
 
+#### Bash
+
++ [bashstyle](https://github.com/progrium/bashstyle): Bash 代码编写规范
+
 ## 数据库
 
 + [postgrest](https://github.com/begriffs/postgrest): PostgreSQL 的 RESTful API
@@ -257,3 +288,5 @@
 + [gitolite](https://github.com/sitaramc/gitolite): 用于构建 Git 服务器
 + [font-spider](https://github.com/aui/font-spider): 中文 WebFont 自动化压缩工具
 + [30min_guides](https://github.com/qinjx/30min_guides): 覃健祥的学习笔记，各种几十分钟入门的文档
++ [lolcommits](https://github.com/mroth/lolcommits): 给自己的 git commit 加一张杀马特的照片
++ [scm_breeze](https://github.com/ndbroadbent/scm_breeze): Git 流程的辅助简化工具

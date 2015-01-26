@@ -157,6 +157,7 @@
 + [node-migrate](https://github.com/tj/node-migrate): Node 的数据库迁移框架
 + [pomelo](https://github.com/NetEase/pomelo): Node 游戏服务器框架，网易开发
 + [blessed-contrib](https://github.com/yaronn/blessed-contrib): 构建终端信息板 (Dashboard) 利器
++ [node-notifier](https://github.com/mikaelbr/node-notifier): Node 模块，可以发送本地通知，支持 Mac/Windows/Linux
 
 ###### Express
 
@@ -245,6 +246,8 @@
 + [alchemy_cms](https://github.com/AlchemyCMS/alchemy_cms): 开源 CMS 系统，基于 Rails
 + [flynn](https://github.com/flynn/flynn): 下一代 PAAS 服务产品，用于管理主机或者 AWS 实例
 + [jsgen](https://github.com/zensh/jsgen): 开源论坛、博客系统, 基于 Node.js, AngularJS, MongoDB
++ [libreboard](http://git.libreboard.com/libreboard/libreboard): [开源看板系统](https://github.com/libreboard/libreboard)，除了配色，长得几乎和 [Trello](https://trello.com) 一模一样
++ [paperwork](https://github.com/twostairs/paperwork): 开源笔记系统，类似于Evernote, Microsoft OneNote & Google Keep
 
 ## Awesome 系列
 
@@ -316,3 +319,4 @@
 + [30min_guides](https://github.com/qinjx/30min_guides): 覃健祥的学习笔记，各种几十分钟入门的文档
 + [lolcommits](https://github.com/mroth/lolcommits): 给自己的 git commit 加一张杀马特的照片
 + [scm_breeze](https://github.com/ndbroadbent/scm_breeze): Git 流程的辅助简化工具
++ [til](https://github.com/thoughtbot/til): 今天我们学了什么，thoughtbot 出品，建议 watch

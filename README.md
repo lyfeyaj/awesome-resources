@@ -70,7 +70,7 @@
 + [interact.js](https://github.com/taye/interact.js): 一个适用于现代浏览器的，用于处理 手势、拖放、缩放等的库
 + [rebound-js](https://github.com/facebook/rebound-js): 实现部分物理效果，Facebook 出品
 + [basket.js](https://github.com/addyosmani/basket.js): 基于 LocalStorage 的资源加载器，可以用来缓存 script 和 css, 手机端使用速度快于浏览器直接缓存
-+ [iscroll](https://github.com/cubiq/iscroll): 高性能的滚动(scroll)处理库，功能强大，支持各种事件，不依赖任何的库，且插件丰富
++ [iscroll](https://github.com/cubiq/iscroll): 高性能的滚动(scroll)处理库，功能强大，支持各种事件，不依赖任何的库，且插件丰富, 大众点评的手机端列表滚动就是用这个库处理的
 
 ###### AngularJS
 

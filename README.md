@@ -44,6 +44,14 @@
 + [zoomooz](https://github.com/jaukia/zoomooz): jQuery 插件，用来处理浏览器缩放
 + [fancyBox](https://github.com/fancyapps/fancyBox): 一个用于放大缩小图片、Web 内容或者多媒体元素的库，优雅大方
 + [mithril.js](https://github.com/lhorie/mithril.js): 轻量型前端 MVC 框架，部分使用场景下性能优于 Angular.js 和 React
++ [backbone](https://github.com/jashkenas/backbone): 强大的前端 MVC 库，鼻祖级前端库，最初为了配合 Rails 来模块化前端应用，兼容性良好 (兼容到 IE6)，插件丰富，性能良好
++ [jquery.smartbanner](https://github.com/jasny/jquery.smartbanner): [smartbanner](http://developer.apple.com/library/ios/#documentation/AppleApplications/Reference/SafariWebContent/PromotingAppswithAppBanners/PromotingAppswithAppBanners.html) 是从 IOS6 开始支持的一个新特性, 这个插件提供了对早期 IOS4/5 和 Android 的支持
++ [jquery.scrollTo](https://github.com/flesler/jquery.scrollTo): 在页面上以一个元素为起始以动画的方式移动(ScrollTo)到另一个元素， 支持回退等
++ [jScrollPane](https://github.com/vitch/jScrollPane): 自定义的滚动条，让所有浏览器都显示一样的滚动条
++ [onepage-scroll](https://github.com/peachananr/onepage-scroll): 提供类似于 iPhone6 展示页类似的效果，适用于单页应用，兼容到 IE8
++ [scrollMonitor](https://github.com/sakabako/scrollMonitor): 前端插件用来监控元素的滚动事件(进入、退出等)，性能很好
++ [ScrollMagic](https://github.com/janpaepke/ScrollMagic): 神奇的滚动交互效果插件，可以在滚动的过程中设置各种各样的动态效果
++ [infinite-scroll](https://github.com/paulirish/infinite-scroll): 滚动加载，滚动到最下到自动加载， Paul Irish 大神之作
 
 ###### HTML5 相关
 
@@ -71,6 +79,7 @@
 + [rebound-js](https://github.com/facebook/rebound-js): 实现部分物理效果，Facebook 出品
 + [basket.js](https://github.com/addyosmani/basket.js): 基于 LocalStorage 的资源加载器，可以用来缓存 script 和 css, 手机端使用速度快于浏览器直接缓存
 + [iscroll](https://github.com/cubiq/iscroll): 高性能的滚动(scroll)处理库，功能强大，支持各种事件，不依赖任何的库，且插件丰富, 大众点评的手机端列表滚动就是用这个库处理的
++ [metrics-graphics](https://github.com/mozilla/metrics-graphics): 基于 D3 的图表库，简洁、高效，Mozilla 出品
 
 ###### AngularJS
 
@@ -140,6 +149,7 @@
 + [slim](https://github.com/slim-template/slim): 基于 Ruby 的前端模板引擎，类似于 Haml, 语法更简洁，据说相比于 Haml 会更快一些
 + [simplecov](https://github.com/colszowka/simplecov): Ruby 测试代码的覆盖率分析
 + [sass](https://github.com/sass/sass): CSS 框架，使得编写 CSS 更加容易和有趣，支持模块化、变量、运算、Mixin等
++ [slate](https://github.com/tripit/slate): 静态的 API 接口文档生成工具，干净、整洁、对手持设备友好、单页应用、代码高亮
 
 #### Python
 
@@ -196,6 +206,8 @@
 + [spider](https://github.com/alongubkin/spider): 一种新语言，目标是编译成 Javascript
 + [jsdoc](https://github.com/jsdoc3/jsdoc): 用来生成 Javascript API 文档的库
 + [browser-sync](https://github.com/shakyShane/browser-sync): 多浏览器(多设备)同步库，监控 CSS/Javascript/HTML 的变更并通知到浏览器；监控浏览器的操作，如滚动、点击等事件，同步到所有的开发设备。前端开发利器！
++ [tmi](https://github.com/addyosmani/tmi): 基于 Node 的命令行工具, 用于计算网站图片的权重，以及那些图片可以进一步优化
++ [6to5](https://github.com/6to5/6to5): 转换 ES6 代码为 ES5，提前使用 ES6 语法带来的各种畅快！
 
 
 ###### Express
@@ -263,6 +275,7 @@
 + [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui): Android 各种开源UI/UX库的一个汇总
 + [material_design_zh](https://github.com/1sters/material_design_zh): Material Design 的中文协同翻译
 + [galgo](https://github.com/inaka/galgo): Android 的日志工具，可以将日志显示在 Activity 的最上端，方便调试
++ [sweet-alert-dialog](https://github.com/pedant/sweet-alert-dialog): Sweet Alert Android 版本，用于应用内通知和提示
 
 ## 代码效率
 
@@ -307,6 +320,7 @@
 + [iOS 学习资料整理](https://github.com/Aufree/trip-to-iOS): IOS 的各种学习资料整理，初学者必备
 + [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries): Android 各种开源库的一个汇总
 + [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui): Android 各种开源UI/UX库的一个汇总
++ [awesome-courses](https://github.com/prakhar1989/awesome-courses): 关于计算机科学的各种大学教学课程
 
 ## 代码规范&设计模式
 
@@ -375,6 +389,8 @@
 + [tenant-point](https://github.com/soulteary/tenant-point): 租房要点，适用于北上广深杭
 + [http2-spec](https://github.com/http2/http2-spec): HTTP 2 草案
 + [The Swift Programming Language 中文版](http://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/): The Swift Programming Language 中文版, 苹果官方教程的中文翻译
++ [linux-insides](https://github.com/0xAX/linux-insides): 关于 Linux 内核的一些知识
++ [papers-we-love](https://github.com/papers-we-love/papers-we-love): 计算机科学学术论文的一个集合，内容丰富有深度
 
 ## 科学上网
 

@@ -249,7 +249,7 @@
 + [KIF](https://github.com/kif-framework/KIF): IOS 功能测试框架
 + [Bolts-iOS](https://github.com/BoltsFramework/Bolts-iOS): 为了加快开发速度的相对低层级的库集合， Parse 和 Facebook 出品
 + [MaterialKit](https://github.com/nghialv/MaterialKit): 基于 Swift 实现的 Google Material Design 效果
-+ [Carthage](https://github.com/Carthage/Carthage): 一个简单的、去中心化的 Cocoa 依赖管理库
++ [Carthage](https://github.com/Carthage/Carthage): 一个简单的、去中心化的 Cocoa 依赖管理库, Swift 编写，仅用于 IOS8.0 及 以后的系统
 
 ## Android
 

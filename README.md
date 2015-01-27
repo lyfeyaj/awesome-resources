@@ -394,7 +394,7 @@
 + [http-api-design](https://github.com/interagent/http-api-design): 从 Heroku 接口总结出的，如何更好地设计 API 接口
 + [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang): beego 作者写的关于怎么使用 Go 语言开发 web 应用的书
 + [til](https://github.com/thoughtbot/til): 今天我们学了什么，thoughtbot 出品，建议 watch
-+ [30min_guides](https://github.com/qinjx/30min_guides): 覃健祥的学习笔记，各种几十分钟入门的文档
++ [30min_guides](https://github.com/qinjx/30min_guides): 覃健祥的学习笔记，若干个几十分钟入门的文档
 + [tenant-point](https://github.com/soulteary/tenant-point): 租房要点，适用于北上广深杭
 + [http2-spec](https://github.com/http2/http2-spec): HTTP 2 草案
 + [The Swift Programming Language 中文版](http://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/): The Swift Programming Language 中文版, 苹果官方教程的中文翻译

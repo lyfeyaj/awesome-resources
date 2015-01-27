@@ -461,6 +461,7 @@
 + [http://nodeschool.io/](http://nodeschool.io/): 基于 Node.js 打造的、跑在终端上的开源教学课程。
 + [慕课网](http://www.imooc.com/): 在线学习平台，各种编程学习资源
 + [node-books](https://github.com/pana/node-books): 关于 Node.js 的一些书籍
++ [art-of-node](https://github.com/maxogden/art-of-node): Node的艺术, 一本简短的书，旨在介绍 Node
 
 ## 科学上网
 

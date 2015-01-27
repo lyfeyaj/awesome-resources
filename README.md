@@ -277,7 +277,6 @@
 + [JSONModel](https://github.com/icanzilb/JSONModel): 智能化的数据模型，有了它，再也不用手动解析JSON数据啦
 + [KZPlayground](https://github.com/krzysztofzablocki/KZPlayground): 提供对 Objective-C 的 Playground 支持，比 Swift 更快
 + [RMStore](https://github.com/robotmedia/RMStore): 轻量级应用内购买库，集成方便，使用简单，方便项目中快速支持应用内购买
-+ [FPPopover](https://github.com/50pixels/FPPopover): IOS 原生UIPopoverController的替代库，相比较与UIPopoverController还添加了对iPhone的支持
 + [pop](https://github.com/facebook/pop): Facebook开源出来的动画扩展库
 
 

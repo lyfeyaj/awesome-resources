@@ -334,6 +334,7 @@
 + [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries): Android 各种开源库的一个汇总
 + [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui): Android 各种开源UI/UX库的一个汇总
 + [awesome-courses](https://github.com/prakhar1989/awesome-courses): 关于计算机科学的各种大学教学课程
++ [awesome-ruby](https://github.com/markets/awesome-ruby): Ruby 资源集合
 
 ## 代码规范&设计模式
 

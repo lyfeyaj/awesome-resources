@@ -453,6 +453,8 @@
 + [linux-insides](https://github.com/0xAX/linux-insides): 关于 Linux 内核的一些知识
 + [papers-we-love](https://github.com/papers-we-love/papers-we-love): 计算机科学学术论文的一个集合，内容丰富有深度
 + [Node.js 实战](http://nodejs.ucdok.com/): 以实战开发中的应用为例的讲解
++ [http://nodeschool.io/](http://nodeschool.io/): 基于 Node.js 打造的、跑在终端上的开源教学课程。
++ [慕课网](http://www.imooc.com/): 在线学习平台，各种编程学习资源
 
 ## 科学上网
 

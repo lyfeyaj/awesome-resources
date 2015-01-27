@@ -280,6 +280,9 @@
 + [Carthage](https://github.com/Carthage/Carthage): 一个简单的、去中心化的 Cocoa 依赖管理库, Swift 编写，仅用于 IOS8.0 及 以后的系统
 + [JSONModel](https://github.com/icanzilb/JSONModel): 智能化的数据模型，有了它，再也不用手动解析JSON数据啦
 + [KZPlayground](https://github.com/krzysztofzablocki/KZPlayground): 提供对 Objective-C 的 Playground 支持，比 Swift 更快
++ [RMStore](https://github.com/robotmedia/RMStore): 轻量级应用内购买库，集成方便，使用简单，方便项目中快速支持应用内购买
++ [pop](https://github.com/facebook/pop): Facebook开源出来的动画扩展库
+
 
 ## Android
 

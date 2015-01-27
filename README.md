@@ -157,6 +157,7 @@
 + [ruby-destroyed_at](https://github.com/dockyard/ruby-destroyed_at): ActiveRecord 扩展，支持安全删除
 + [taps](https://github.com/ricardochimal/taps): 支持数据库导入导出 -> 原理是，对导出目标数据库建立一个服务器提供数据接口，然后对目标导入数据库进行数据导入，依赖 Sinatra 启动数据库接口服务
 + [meta-tags](https://github.com/kpumuk/meta-tags): 为 Rails 应用提供 SEO 优化支持
++ [logstash](https://github.com/elasticsearch/logstash): 日志、时间管理工具
 
 #### Python
 
@@ -233,6 +234,8 @@
 + [phoenix](https://github.com/phoenixframework/phoenix): 基于 Elixir 语言的 web 框架
 
 #### Java
+
++ [elasticsearch](https://github.com/elasticsearch/elasticsearch): 开源的分布式搜索引擎，社区活跃，支持强大
 
 #### C/C++
 

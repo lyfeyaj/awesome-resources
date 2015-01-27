@@ -215,6 +215,7 @@
 + [browser-sync](https://github.com/shakyShane/browser-sync): 多浏览器(多设备)同步库，监控 CSS/Javascript/HTML 的变更并通知到浏览器；监控浏览器的操作，如滚动、点击等事件，同步到所有的开发设备。前端开发利器！
 + [tmi](https://github.com/addyosmani/tmi): 基于 Node 的命令行工具, 用于计算网站图片的权重，以及那些图片可以进一步优化
 + [6to5](https://github.com/6to5/6to5): 转换 ES6 代码为 ES5，提前使用 ES6 语法带来的各种畅快！
++ [js-xss](https://github.com/leizongmin/js-xss): 根据白名单过滤HTML(防止XSS攻击)
 
 
 ###### Express
@@ -400,6 +401,7 @@
 + [The Swift Programming Language 中文版](http://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/): The Swift Programming Language 中文版, 苹果官方教程的中文翻译
 + [linux-insides](https://github.com/0xAX/linux-insides): 关于 Linux 内核的一些知识
 + [papers-we-love](https://github.com/papers-we-love/papers-we-love): 计算机科学学术论文的一个集合，内容丰富有深度
++ [Node.js 实战](http://nodejs.ucdok.com/): 以实战开发中的应用为例的讲解
 
 ## 科学上网
 

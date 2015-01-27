@@ -350,6 +350,11 @@
 #### Sublime Text
 
 + [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel): Sublime Text 的代码补全工具，支持多种语言
++ [Emmet](https://github.com/emmetio/emmet)：一个用于提高开发效率的编辑器插件，前身是Zen coding
++ [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3): 一个提供代码质量检测的插件
++ [SublimeTmpl](https://github.com/kairyou/SublimeTmpl)：快速新建指定的模版文件
++ [AutoFileName](AutoFileName)：自动补齐文件名插件
++ [Syntax-highlighting-for-Sass](https://github.com/P233/Syntax-highlighting-for-Sass)：sass代码高亮插件
 
 ## 云计算
 

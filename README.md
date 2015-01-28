@@ -137,6 +137,10 @@
 + [Placeholders.js](https://github.com/jamesallardice/Placeholders.js): 为不支持的 HTML5 的浏览器提供 Placeholder 支持
 + [prefixfree](https://github.com/LeaVerou/prefixfree): 自动为 CSS 添加 Vender Prefix，把你从不停添加浏览器前缀的噩梦中解放出来
 + [accessible-html5-video-player](https://github.com/paypal/accessible-html5-video-player): Paypal 出品的 Video 播放器
++ [loading](https://github.com/jxnblk/loading): 几种 Loading 效果，基于 SVG
++ [flippant.js](https://github.com/mintchaos/flippant.js): 一款能够漂亮的网页元素翻转效果库，代码许久不更新，不过作为源码学习还是不错的
++ [move.js](https://github.com/visionmedia/move.js): 基于 CSS3 的前端动画框架
++ [scrollReveal.js](https://github.com/julianlloyd/scrollReveal.js): 使元素以非常酷帅的方式进入画布 (Viewpoint)，看 [Demo](http://scrollrevealjs.org/)
 
 ###### AngularJS
 
@@ -213,6 +217,7 @@
 + [logstash](https://github.com/elasticsearch/logstash): 日志、时间管理工具
 + [rspec-rails](https://github.com/rspec/rspec-rails): Rspec 的 Rails 插件
 + [nokogiri](https://github.com/sparklemotion/nokogiri): 一个功能强大，性能良好的用于解析 HTML, XML 的工具，支持 XPath 和 CSS 选择器
++ [vcr](https://github.com/vcr/vcr): 一个测试辅助库，纪录一组 HTTP 请求交互，并作为测试重现
 
 #### Python
 
@@ -241,7 +246,6 @@
 + [sparkly](https://github.com/sindresorhus/sparkly): spark.sh 的一个 Javascript 实现，终端生成 sparklines
 + [node-inspector](https://github.com/node-inspector/node-inspector): Node 的调试神器，使用方法，用 `node-debug` 代替 `node` 启动服务，并在你想调试的地方输入 `debugger`
 + [NodeOS](https://github.com/NodeOS/NodeOS): 基于 Node 的操作系统
-+ [js-git](https://github.com/creationix/js-git): Git 的 Javascript 实现
 + [pdfkit](https://github.com/devongovett/pdfkit): Node 和 浏览器均可以使用的，用于生成 PDF 的库
 + [empty-trash](https://github.com/sindresorhus/empty-trash): 清空垃圾桶
 + [trash](https://github.com/sindresorhus/trash): 安全删除文件 -> 将文件放入垃圾桶
@@ -275,6 +279,9 @@
 + [PM2](https://github.com/Unitech/PM2): Node 进程管理，内置负载均衡，提供自动重启，热启动等功能，适合在生产环境下使用
 + [sinopia](https://github.com/rlidwka/sinopia): 私有 NPM 服务器
 + [validator.js](https://github.com/chriso/validator.js): 校验工具(url，邮箱，整数等), 内置几十种校验方法，前后端通用
++ [wechat](https://github.com/node-webot/wechat): 微信公共平台消息接口服务中间件
++ [superagent](https://github.com/visionmedia/superagent): 更 NB 的 Ajax 请求库，号称比 jQuery 更好用，前后端通用
++ [cheerio](https://github.com/cheeriojs/cheerio): Server 端的 jQuery, 相同的 API，支持 DOM 操作等
 
 ###### Express
 
@@ -302,6 +309,7 @@
 + [libsass](https://github.com/sass/libsass): SASS 的 C++ 实现
 + [QQStars](https://github.com/AfterTheRainOfStars/QQStars): 基于 WebQQ 协议和 QT 开发的 QQ 客户端
 + [caffe](https://github.com/BVLC/caffe): 一个关于数据挖掘的库
++ [fastsocket](https://github.com/fastos/fastsocket): 一个高扩展性的 Socket 库，在多核设备上有良好的表现，新浪出品
 
 #### Go
 
@@ -310,6 +318,7 @@
 + [beego](https://github.com/astaxie/beego): 国内大牛开发的 Web 框架
 + [revel](https://github.com/revel/revel): 全栈 Web 框架
 + [martini](https://github.com/go-martini/martini): 另一款 Web 框架
++ [pgweb](https://github.com/sosedoff/pgweb): PostgreSQL 的 Web 数据库浏览器
 
 ## IOS 或 OSX
 
@@ -344,6 +353,7 @@
 + [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController): 一个优美大方的即时聊天 UI 库
 + [realm-cocoa](https://github.com/realm/realm-cocoa): 一个移动端数据库，提供了丰富的数据支持，快速，且不依赖 SQLite
 + [Surge](https://github.com/mattt/Surge): Swift 的高效数学运算库，基于 [Accelerate](https://developer.apple.com/library/mac/documentation/Accelerate/Reference/AccelerateFWRef/_index.html)
++ [Masonry](https://github.com/Masonry/Masonry): OSX 和 IOS 上用来简化 Autolayout 约束的一个库
 
 
 ## Android
@@ -381,6 +391,7 @@
 
 #### OS
 
++ [linux](https://github.com/torvalds/linux): linux 源码，Linus 大神之作，只能膜拜了
 + [smartos-live](https://github.com/joyent/smartos-live): Joyent 出品的用于云平台的智能 OS
 
 ## 开源产品(论坛、在线教育、项目管理等)
@@ -395,6 +406,7 @@
 + [firefox-ios](https://github.com/mozilla/firefox-ios): IOS 版 Firefox 源代码
 + [gogs](https://github.com/gogits/gogs): 一款开源 Git 托管服务，基于 GO 语言开发，类似于 Gitlab
 + [huginn](https://github.com/cantino/huginn): 个人代理监控，可以监控天气、Twitter、网站等等，并按照预设的条件发送通知给自己，功能强大！
++ [nodeclub](https://github.com/cnodejs/nodeclub): 社区系统，基于Node.js 和 MongoDB 开发
 
 ## Awesome 系列
 
@@ -489,6 +501,8 @@
 + [art-of-node](https://github.com/maxogden/art-of-node): Node的艺术, 一本简短的书，旨在介绍 Node
 + [cocoacontrols](https://www.cocoacontrols.com/): 包含各种 OSX 或者 IOS 的开源 UI 库或者 商业库
 + [grid](https://github.com/aekaplan/grid): 响应式布局指南
++ [fks](https://github.com/JacksonTian/fks): 前端技能汇总
++ [node-lessons](https://github.com/alsotang/node-lessons): Node.js 包教不包会
 
 ## 科学上网
 
@@ -496,13 +510,19 @@
 + [shadowsocks](https://github.com/shadowsocks/shadowsocks): 科学上网利器(服务器端) ~ 墙外的世界丰富多彩
 + [gfwlist2pac](https://github.com/clowwindy/gfwlist2pac): 科学上网之 GFWlist to Pac
 
+## Git 相关
+
++ [gitolite](https://github.com/sitaramc/gitolite): 用于构建 Git 服务器 
++ [lolcommits](https://github.com/mroth/lolcommits): 给自己的 git commit 
++ [scm_breeze](https://github.com/ndbroadbent/scm_breeze): Git 流程的辅助简化工具
++ [gitlet](https://github.com/maryrosecook/gitlet): Javascript 实现的 Git
++ [js-git](https://github.com/creationix/js-git): Git 的 Javascript 实现
+
 ## 其他
 
 + [retter](https://github.com/maciejczyzewski/retter): 密码学相关的算法库
 + [uBlock](https://github.com/gorhill/uBlock): Chrome, Firefox, Safari 插件用来屏蔽内容（如广告等），可自定义
 + [rust](https://github.com/rust-lang/rust): Rust 语言源码
-+ [gitolite](https://github.com/sitaramc/gitolite): 用于构建 Git 服务器
 + [font-spider](https://github.com/aui/font-spider): 中文 WebFont 自动化压缩工具
-+ [lolcommits](https://github.com/mroth/lolcommits): 给自己的 git commit 加一张杀马特的照片
-+ [scm_breeze](https://github.com/ndbroadbent/scm_breeze): Git 流程的辅助简化工具
-+ [gitlet](https://github.com/maryrosecook/gitlet): Javascript 实现的 Git
+加一张杀马特的照片
+

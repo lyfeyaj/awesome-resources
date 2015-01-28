@@ -406,6 +406,7 @@
 + [awesome-ruby](https://github.com/markets/awesome-ruby): Ruby 资源集合
 + [awesome-go](https://github.com/avelino/awesome-go): Go 资源集合
 + [awesome-cpp](https://github.com/fffaraz/awesome-cpp): C++ 的资源集合
++ [awesome-elixir](https://github.com/h4cc/awesome-elixir): Elixir 资源集合
 
 ## 代码规范&设计模式
 

@@ -103,6 +103,9 @@
 + [emscripten](https://github.com/kripken/emscripten): 一款基于 LLVM, 可以将 C/C++ 转换成 Javascript 的工具，使得 Javascript 可以近乎 Native 的速度
 + [qrcode-generator](https://github.com/kazuhikoarase/qrcode-generator): 各种语言的二维码生成工具
 + [device.js](https://github.com/matthewhudson/device.js): 一个可以检测设备类型的工具，可以让我们根据不同的设备来为其定制响应的 Javascript 和 CSS
++ [jquery-qrcode](https://github.com/jeromeetienne/jquery-qrcode): jQuery 插件，用来生成二维码
++ [Wookmark-jQuery](https://github.com/GBKS/Wookmark-jQuery): jQuery 的一个插件，可以用来实现瀑布流的效果
++ [isotope](https://github.com/metafizzy/isotope): 可以用来过滤、排列布局，实现美观的动态布局切换效果，[Demo](http://isotope.metafizzy.co/)
 
 ###### HTML5 相关
 
@@ -344,8 +347,6 @@
 ## Android
 
 + [Slidr](https://github.com/r0adkll/Slidr): 一个用于给 Activity 添加滑动消隐效果的库
-+ [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries): Android 各种开源库的一个汇总
-+ [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui): Android 各种开源UI/UX库的一个汇总
 + [material_design_zh](https://github.com/1sters/material_design_zh): Material Design 的中文协同翻译
 + [galgo](https://github.com/inaka/galgo): Android 的日志工具，可以将日志显示在 Activity 的最上端，方便调试
 + [sweet-alert-dialog](https://github.com/pedant/sweet-alert-dialog): Sweet Alert Android 版本，用于应用内通知和提示
@@ -402,6 +403,7 @@
 + [awesome-courses](https://github.com/prakhar1989/awesome-courses): 关于计算机科学的各种大学教学课程
 + [awesome-ruby](https://github.com/markets/awesome-ruby): Ruby 资源集合
 + [awesome-go](https://github.com/avelino/awesome-go): Go 资源集合
++ [awesome-cpp](https://github.com/fffaraz/awesome-cpp): C++ 的资源集合
 
 ## 代码规范&设计模式
 
@@ -482,6 +484,7 @@
 + [node-books](https://github.com/pana/node-books): 关于 Node.js 的一些书籍
 + [art-of-node](https://github.com/maxogden/art-of-node): Node的艺术, 一本简短的书，旨在介绍 Node
 + [cocoacontrols](https://www.cocoacontrols.com/): 包含各种 OSX 或者 IOS 的开源 UI 库或者 商业库
++ [grid](https://github.com/aekaplan/grid): 响应式布局指南
 
 ## 科学上网
 

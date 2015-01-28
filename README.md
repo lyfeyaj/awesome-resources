@@ -212,6 +212,7 @@
 + [meta-tags](https://github.com/kpumuk/meta-tags): 为 Rails 应用提供 SEO 优化支持
 + [logstash](https://github.com/elasticsearch/logstash): 日志、时间管理工具
 + [rspec-rails](https://github.com/rspec/rspec-rails): Rspec 的 Rails 插件
++ [nokogiri](https://github.com/sparklemotion/nokogiri): 一个功能强大，性能良好的用于解析 HTML, XML 的工具，支持 XPath 和 CSS 选择器
 
 #### Python
 

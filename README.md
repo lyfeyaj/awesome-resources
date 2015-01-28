@@ -98,6 +98,11 @@
 + [infinite-scroll](https://github.com/paulirish/infinite-scroll): 滚动加载，滚动到最下到自动加载， Paul Irish 大神之作
 + [animatable](https://github.com/LeaVerou/animatable): 仅仅依靠 `border-width` 和 `background-position` 实现的各种动态效果，[看真相](http://leaverou.github.io/animatable/)
 + [Fluidbox](https://github.com/terrymun/Fluidbox): 页面上内嵌图片的放大缩小效果，类似于 [Medium](http://medium.com) 中的效果
++ [jquery-validation](https://github.com/jzaefferer/jquery-validation): jQuery 的一个插件，用于校验 Form 表单
++ [BigVideo.js](https://github.com/dfcb/BigVideo.js): jQuery 的一个插件, 用于实现大背景(视频、图片)效果
++ [emscripten](https://github.com/kripken/emscripten): 一款基于 LLVM, 可以将 C/C++ 转换成 Javascript 的工具，使得 Javascript 可以近乎 Native 的速度
++ [qrcode-generator](https://github.com/kazuhikoarase/qrcode-generator): 各种语言的二维码生成工具
++ [device.js](https://github.com/matthewhudson/device.js): 一个可以检测设备类型的工具，可以让我们根据不同的设备来为其定制响应的 Javascript 和 CSS
 
 ###### HTML5 相关
 
@@ -128,6 +133,7 @@
 + [metrics-graphics](https://github.com/mozilla/metrics-graphics): 基于 D3 的图表库，简洁、高效，Mozilla 出品
 + [Placeholders.js](https://github.com/jamesallardice/Placeholders.js): 为不支持的 HTML5 的浏览器提供 Placeholder 支持
 + [prefixfree](https://github.com/LeaVerou/prefixfree): 自动为 CSS 添加 Vender Prefix，把你从不停添加浏览器前缀的噩梦中解放出来
++ [accessible-html5-video-player](https://github.com/paypal/accessible-html5-video-player): Paypal 出品的 Video 播放器
 
 ###### AngularJS
 
@@ -202,6 +208,7 @@
 + [taps](https://github.com/ricardochimal/taps): 支持数据库导入导出 -> 原理是，对导出目标数据库建立一个服务器提供数据接口，然后对目标导入数据库进行数据导入，依赖 Sinatra 启动数据库接口服务
 + [meta-tags](https://github.com/kpumuk/meta-tags): 为 Rails 应用提供 SEO 优化支持
 + [logstash](https://github.com/elasticsearch/logstash): 日志、时间管理工具
++ [rspec-rails](https://github.com/rspec/rspec-rails): Rspec 的 Rails 插件
 
 #### Python
 
@@ -261,7 +268,9 @@
 + [tmi](https://github.com/addyosmani/tmi): 基于 Node 的命令行工具, 用于计算网站图片的权重，以及那些图片可以进一步优化
 + [6to5](https://github.com/6to5/6to5): 转换 ES6 代码为 ES5，提前使用 ES6 语法带来的各种畅快！
 + [js-xss](https://github.com/leizongmin/js-xss): 根据白名单过滤HTML(防止XSS攻击)
-
++ [PM2](https://github.com/Unitech/PM2): Node 进程管理，内置负载均衡，提供自动重启，热启动等功能，适合在生产环境下使用
++ [sinopia](https://github.com/rlidwka/sinopia): 私有 NPM 服务器
++ [validator.js](https://github.com/chriso/validator.js): 校验工具(url，邮箱，整数等), 内置几十种校验方法，前后端通用
 
 ###### Express
 
@@ -295,6 +304,8 @@
 + [delve](https://github.com/derekparker/delve): Go 调试器
 + [go](https://github.com/golang/go): Go 源码
 + [beego](https://github.com/astaxie/beego): 国内大牛开发的 Web 框架
++ [revel](https://github.com/revel/revel): 全栈 Web 框架
++ [martini](https://github.com/go-martini/martini): 另一款 Web 框架
 
 ## IOS 或 OSX
 
@@ -326,6 +337,8 @@
 + [KZPlayground](https://github.com/krzysztofzablocki/KZPlayground): 提供对 Objective-C 的 Playground 支持，比 Swift 更快
 + [RMStore](https://github.com/robotmedia/RMStore): 轻量级应用内购买库，集成方便，使用简单，方便项目中快速支持应用内购买
 + [pop](https://github.com/facebook/pop): Facebook开源出来的动画扩展库
++ [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController): 一个优美大方的即时聊天 UI 库
++ [realm-cocoa](https://github.com/realm/realm-cocoa): 一个移动端数据库，提供了丰富的数据支持，快速，且不依赖 SQLite
 
 
 ## Android
@@ -378,6 +391,7 @@
 + [cabot](https://github.com/arachnys/cabot): 开源服务器监控服务
 + [firefox-ios](https://github.com/mozilla/firefox-ios): IOS 版 Firefox 源代码
 + [gogs](https://github.com/gogits/gogs): 一款开源 Git 托管服务，基于 GO 语言开发，类似于 Gitlab
++ [huginn](https://github.com/cantino/huginn): 个人代理监控，可以监控天气、Twitter、网站等等，并按照预设的条件发送通知给自己，功能强大！
 
 ## Awesome 系列
 
@@ -387,6 +401,7 @@
 + [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui): Android 各种开源UI/UX库的一个汇总
 + [awesome-courses](https://github.com/prakhar1989/awesome-courses): 关于计算机科学的各种大学教学课程
 + [awesome-ruby](https://github.com/markets/awesome-ruby): Ruby 资源集合
++ [awesome-go](https://github.com/avelino/awesome-go): Go 资源集合
 
 ## 代码规范&设计模式
 
@@ -409,6 +424,10 @@
 #### Objective-C
 
 + [objective-c-style-guide](https://github.com/NYTimes/objective-c-style-guide): Objective-C 代码编写规范，New York Times 出品
+
+#### Swift
+
++ [swift-style-guide](https://github.com/raywenderlich/swift-style-guide): Swift 代码编写规范
 
 ## 数据库
 
@@ -462,6 +481,7 @@
 + [慕课网](http://www.imooc.com/): 在线学习平台，各种编程学习资源
 + [node-books](https://github.com/pana/node-books): 关于 Node.js 的一些书籍
 + [art-of-node](https://github.com/maxogden/art-of-node): Node的艺术, 一本简短的书，旨在介绍 Node
++ [cocoacontrols](https://www.cocoacontrols.com/): 包含各种 OSX 或者 IOS 的开源 UI 库或者 商业库
 
 ## 科学上网
 

@@ -342,6 +342,7 @@
 + [pop](https://github.com/facebook/pop): Facebook开源出来的动画扩展库
 + [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController): 一个优美大方的即时聊天 UI 库
 + [realm-cocoa](https://github.com/realm/realm-cocoa): 一个移动端数据库，提供了丰富的数据支持，快速，且不依赖 SQLite
++ [Surge](https://github.com/mattt/Surge): Swift 的高效数学运算库，基于 [Accelerate](https://developer.apple.com/library/mac/documentation/Accelerate/Reference/AccelerateFWRef/_index.html)
 
 
 ## Android

@@ -39,12 +39,14 @@
     - [Java](#java-1)
     - [Bash](#bash)
     - [Objective-C](#objective-c)
+    - [Swift](#swift)
 - [数据库](#数据库)
 - [博客 / 网站](#博客--网站)
     - [设计](#设计)
     - [技术](#技术)
 - [书籍 / 阅读](#书籍--阅读)
 - [科学上网](#科学上网)
+- [Git 相关](#git-相关)
 - [其他](#其他)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

@@ -220,6 +220,7 @@
 + [rspec-rails](https://github.com/rspec/rspec-rails): Rspec 的 Rails 插件
 + [nokogiri](https://github.com/sparklemotion/nokogiri): 一个功能强大，性能良好的用于解析 HTML, XML 的工具，支持 XPath 和 CSS 选择器
 + [vcr](https://github.com/vcr/vcr): 一个测试辅助库，纪录一组 HTTP 请求交互，并作为测试重现
++ [factory_girl](https://github.com/thoughtbot/factory_girl): 一个用来准备测试数据的库
 
 #### Python
 

@@ -143,6 +143,9 @@
 + [flippant.js](https://github.com/mintchaos/flippant.js): 一款能够漂亮的网页元素翻转效果库，代码许久不更新，不过作为源码学习还是不错的
 + [move.js](https://github.com/visionmedia/move.js): 基于 CSS3 的前端动画框架
 + [scrollReveal.js](https://github.com/julianlloyd/scrollReveal.js): 使元素以非常酷帅的方式进入画布 (Viewpoint)，看 [Demo](http://scrollrevealjs.org/)
++ [Modernizr](https://github.com/Modernizr/Modernizr): 一个用来检测 HTML5 和 CSS3 支持情况的库
++ [foundation](https://github.com/zurb/foundation): 另一款前端模版框架，类似于 Bootstrap
++ [Flat-UI](https://github.com/designmodo/Flat-UI): Bootstrap 的一款主题，简洁美观
 
 ###### AngularJS
 

@@ -261,7 +261,6 @@
 + [debug](https://github.com/visionmedia/debug): 一个用于在 console 或者 浏览器输出日志，方便与 Debug 的工具
 + [github-contributions](https://github.com/IonicaBizau/github-contributions): 一个好玩的库，用于在 github 的 contribution calendar 上输出你想要的文字或者图案
 + [hexo](https://github.com/hexojs/hexo): 基于 Node 的静态博客，类似于 Octopress
-+ [7-days-nodejs](https://github.com/nqdeng/7-days-nodejs): 七天学会 Node.js
 + [GhostScroll](https://github.com/grmmph/GhostScroll): Ghost 的一个主题
 + [ghost-themes](https://github.com/haydenbleasel/ghost-themes): 多个 Ghost 主题
 + [TermKit](https://github.com/unconed/TermKit): 一个基于 Chrome 和 Node 的终端应用
@@ -515,6 +514,7 @@
 + [ShadowVPN](https://github.com/clowwindy/ShadowVPN): 科学上网之 VPN
 + [shadowsocks](https://github.com/shadowsocks/shadowsocks): 科学上网利器(服务器端) ~ 墙外的世界丰富多彩
 + [gfwlist2pac](https://github.com/clowwindy/gfwlist2pac): 科学上网之 GFWlist to Pac
++ [7-days-nodejs](https://github.com/nqdeng/7-days-nodejs): 七天学会 Node.js
 
 ## Git 相关
 

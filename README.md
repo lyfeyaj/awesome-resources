@@ -287,6 +287,19 @@
 + [wechat](https://github.com/node-webot/wechat): 微信公共平台消息接口服务中间件
 + [superagent](https://github.com/visionmedia/superagent): 更 NB 的 Ajax 请求库，号称比 jQuery 更好用，前后端通用
 + [cheerio](https://github.com/cheeriojs/cheerio): Server 端的 jQuery, 相同的 API，支持 DOM 操作等
++ [node-restify](https://github.com/mcavage/node-restify): Node.js 的 REST API 框架，从 Express 中借鉴了很多，并去除了 render 等方法
++ [ejs](https://github.com/tj/ejs): Node.js 的前端模板引擎, 使用 <%=  %> 直接在 HTML中嵌入，简单易学
++ [Bluebird](https://github.com/petkaantonov/bluebird): 另一款实现 Promises/A+ 的库，相比于 Q，性能卓越
++ [node-amqp](https://github.com/postwait/node-amqp): RabbitMQ 的 Node 客户端
++ [Knex](https://github.com/tgriesser/knex): SQL 生成器，支持 PostgreSQL, MySQL 和 SQLite3， 用于和 Bookshelf 配合使用
++ [node_redis](https://github.com/mranney/node_redis): Node 的 Redis 客户端
++ [elasticsearch-js](https://github.com/elasticsearch/elasticsearch-js): ElasticSearch 的 Node 客户端
++ [Passport](http://passportjs.org/): Node 的认证中间件，支持 Express, 组件丰富, 支持多种认证策略，OAuth
++ [everyauth](https://github.com/bnoguchi/everyauth): 认证库，支持多种策略，OAuth，支持 Express
++ [node-oauth](https://github.com/ciaranj/node-oauth): Node 的 OAuth 支持
++ [restler](https://github.com/danwrong/restler): 一个 Node REST 客户端
++ [oauth2orize](https://github.com/jaredhanson/oauth2orize): Node 的服务端 OAuth支持
++ [Mocha](http://mochajs.org/): Node 的 TDD/BDD 测试框架
 
 ###### Express
 
@@ -412,6 +425,8 @@
 + [gogs](https://github.com/gogits/gogs): 一款开源 Git 托管服务，基于 GO 语言开发，类似于 Gitlab
 + [huginn](https://github.com/cantino/huginn): 个人代理监控，可以监控天气、Twitter、网站等等，并按照预设的条件发送通知给自己，功能强大！
 + [nodeclub](https://github.com/cnodejs/nodeclub): 社区系统，基于Node.js 和 MongoDB 开发
++ [keystone](https://github.com/keystonejs/keystone): 基于 Node.js 的 CMS 系统
++ [apostrophe](https://github.com/punkave/apostrophe): 基于 Node.js 的 CMS 系统
 
 ## Awesome 系列
 

@@ -508,6 +508,7 @@
 + [grid](https://github.com/aekaplan/grid): 响应式布局指南
 + [fks](https://github.com/JacksonTian/fks): 前端技能汇总
 + [node-lessons](https://github.com/alsotang/node-lessons): Node.js 包教不包会
++ [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning): AngularJS 的各种学习资源
 
 ## 科学上网
 

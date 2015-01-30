@@ -146,6 +146,7 @@
 + [Modernizr](https://github.com/Modernizr/Modernizr): 一个用来检测 HTML5 和 CSS3 支持情况的库
 + [foundation](https://github.com/zurb/foundation): 另一款前端模版框架，类似于 Bootstrap
 + [Flat-UI](https://github.com/designmodo/Flat-UI): Bootstrap 的一款主题，简洁美观
++ [iCheck](https://github.com/fronteed/iCheck): 一款漂亮的 Checkbox 插件
 
 ###### AngularJS
 
@@ -372,7 +373,7 @@
 + [realm-cocoa](https://github.com/realm/realm-cocoa): 一个移动端数据库，提供了丰富的数据支持，快速，且不依赖 SQLite
 + [Surge](https://github.com/mattt/Surge): Swift 的高效数学运算库，基于 [Accelerate](https://developer.apple.com/library/mac/documentation/Accelerate/Reference/AccelerateFWRef/_index.html)
 + [Masonry](https://github.com/Masonry/Masonry): OSX 和 IOS 上用来简化 Autolayout 约束的一个库
-
++ [Side-Menu.iOS](https://github.com/Yalantis/Side-Menu.iOS): 一款精美的侧边栏实现
 
 ## Android
 
@@ -380,6 +381,7 @@
 + [material_design_zh](https://github.com/1sters/material_design_zh): Material Design 的中文协同翻译
 + [galgo](https://github.com/inaka/galgo): Android 的日志工具，可以将日志显示在 Activity 的最上端，方便调试
 + [sweet-alert-dialog](https://github.com/pedant/sweet-alert-dialog): Sweet Alert Android 版本，用于应用内通知和提示
++ [Side-Menu.Android](https://github.com/Yalantis/Side-Menu.Android): 一款精美的侧边栏实现
 
 ## 代码效率
 

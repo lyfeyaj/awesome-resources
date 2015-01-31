@@ -108,6 +108,8 @@
 + [jquery-qrcode](https://github.com/jeromeetienne/jquery-qrcode): jQuery 插件，用来生成二维码
 + [Wookmark-jQuery](https://github.com/GBKS/Wookmark-jQuery): jQuery 的一个插件，可以用来实现瀑布流的效果
 + [isotope](https://github.com/metafizzy/isotope): 可以用来过滤、排列布局，实现美观的动态布局切换效果，[Demo](http://isotope.metafizzy.co/)
++ [lazysizes](https://github.com/aFarkas/lazysizes): 功能强大的图片延迟加载工具，可以首先加载一个低质量的图片，然后再加载高质量的图片
++ [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js): 简洁美观的进度条，扁平化
 
 ###### HTML5 相关
 

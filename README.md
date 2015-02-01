@@ -165,9 +165,13 @@
 #### CSS
 
 + [Hover](https://github.com/IanLunn/Hover): 基于 CSS3 的各种 鼠标悬停(hover)特效, [点击查看效果](http://ianlunn.github.io/Hover/)
-+ [icono](https://github.com/saeedalipoor/icono): 一款用纯 CSS 实现的图标库
 + [normalize.css](https://github.com/necolas/normalize.css): 一个用于重置浏览器内置样式的库
 + [Skeleton](https://github.com/dhg/Skeleton): 一个 CSS 相关的库，用于构建对手机友好的网站
+
+#### ICON
+
++ [icono](https://github.com/saeedalipoor/icono): 一款用纯 CSS 实现的图标库
++ [material-design-icons](https://github.com/google/material-design-icons): Google 为 Material Design 出品的 ICON
 
 ## Web 后端
 
@@ -227,6 +231,10 @@
 + [nokogiri](https://github.com/sparklemotion/nokogiri): 一个功能强大，性能良好的用于解析 HTML, XML 的工具，支持 XPath 和 CSS 选择器
 + [vcr](https://github.com/vcr/vcr): 一个测试辅助库，纪录一组 HTTP 请求交互，并作为测试重现
 + [factory_girl](https://github.com/thoughtbot/factory_girl): 一个用来准备测试数据的库
++ [mongoid_paranoia](https://github.com/simi/mongoid_paranoia): Mongoid 软删除功能, 通过添加一个 destroyed_at
++ [treat](https://github.com/louismullie/treat): Ruby的自然语言处理
++ [MacGap1](https://github.com/MacGapProject/MacGap1): 一款工具可以将 HTML/CSS/JS 网络应用打包成 Mac App
++ [ffi](https://github.com/ffi/ffi): 可以帮助 Rubyer 开发基于 C 的 ruby 库, 提供了一套接口
 
 #### Python
 
@@ -376,6 +384,8 @@
 + [Surge](https://github.com/mattt/Surge): Swift 的高效数学运算库，基于 [Accelerate](https://developer.apple.com/library/mac/documentation/Accelerate/Reference/AccelerateFWRef/_index.html)
 + [Masonry](https://github.com/Masonry/Masonry): OSX 和 IOS 上用来简化 Autolayout 约束的一个库
 + [Side-Menu.iOS](https://github.com/Yalantis/Side-Menu.iOS): 一款精美的侧边栏实现
++ [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit): IOS 上的一款异步界面引擎, 非常流畅, Facebook 出品
++ [Kiwi](https://github.com/kiwi-bdd/Kiwi): IOS 的 BDD 测试框架
 
 ## Android
 
@@ -431,6 +441,7 @@
 + [nodeclub](https://github.com/cnodejs/nodeclub): 社区系统，基于Node.js 和 MongoDB 开发
 + [keystone](https://github.com/keystonejs/keystone): 基于 Node.js 的 CMS 系统
 + [apostrophe](https://github.com/punkave/apostrophe): 基于 Node.js 的 CMS 系统
++ [reddit](https://github.com/reddit/reddit): Reddit 的源代码
 
 ## Awesome 系列
 
@@ -443,6 +454,7 @@
 + [awesome-go](https://github.com/avelino/awesome-go): Go 资源集合
 + [awesome-cpp](https://github.com/fffaraz/awesome-cpp): C++ 的资源集合
 + [awesome-elixir](https://github.com/h4cc/awesome-elixir): Elixir 资源集合
++ [awesome-emacs](https://github.com/emacs-tw/awesome-emacs): Emacs 资源整合
 
 ## 代码规范&设计模式
 
@@ -528,6 +540,8 @@
 + [fks](https://github.com/JacksonTian/fks): 前端技能汇总
 + [node-lessons](https://github.com/alsotang/node-lessons): Node.js 包教不包会
 + [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning): AngularJS 的各种学习资源
++ [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS): 一个 Javascript 系列图书，主要讲述 JS 的核心概念和机制
++ [alternative-internet](https://github.com/redecentralize/alternative-internet): 一些有趣的新型互联网和技术,主要目的是去中心化
 
 ## 科学上网
 

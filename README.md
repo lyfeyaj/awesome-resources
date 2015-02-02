@@ -13,6 +13,7 @@
         - [HTML5 相关](#html5-相关)
         - [AngularJS](#angularjs)
     - [CSS](#css)
+    - [ICON](#icon)
 - [Web 后端](#web-后端)
     - [Ruby](#ruby)
     - [Python](#python)
@@ -45,9 +46,18 @@
     - [设计](#设计)
     - [技术](#技术)
 - [书籍 / 阅读](#书籍--阅读)
+    - [前端](#前端)
+        - [Web](#web)
+        - [IOS](#ios)
+    - [后端](#后端)
+        - [Node.js](#nodejs)
+        - [Ruby](#ruby-2)
+        - [Go](#go-1)
+        - [接口](#接口)
+    - [其他](#其他)
 - [科学上网](#科学上网)
 - [Git 相关](#git-相关)
-- [其他](#其他)
+- [其他](#其他-1)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -519,32 +529,54 @@
 
 ## 书籍 / 阅读
 
+#### 前端
+
+###### Web
 + [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions): 各种前端面试问题
 + [what-happens-when](https://github.com/alex/what-happens-when): 一篇文章，详细解释了从在浏览器中输入网址之后发生的一切
 + [backbone-fundamentals](https://github.com/addyosmani/backbone-fundamentals): 关于 Backbone 的一本书，初学和高级都适用
-+ [fast-ruby](https://github.com/JuanitoFatas/fast-ruby): 怎样写出更快的 Ruby
-+ [http-api-design](https://github.com/interagent/http-api-design): 从 Heroku 接口总结出的，如何更好地设计 API 接口
-+ [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang): beego 作者写的关于怎么使用 Go 语言开发 web 应用的书
-+ [til](https://github.com/thoughtbot/til): 今天我们学了什么，thoughtbot 出品，建议 watch
-+ [30min_guides](https://github.com/qinjx/30min_guides): 覃健祥的学习笔记，若干个几十分钟入门的文档
-+ [tenant-point](https://github.com/soulteary/tenant-point): 租房要点，适用于北上广深杭
 + [http2-spec](https://github.com/http2/http2-spec): HTTP 2 草案
-+ [The Swift Programming Language 中文版](http://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/): The Swift Programming Language 中文版, 苹果官方教程的中文翻译
-+ [linux-insides](https://github.com/0xAX/linux-insides): 关于 Linux 内核的一些知识
-+ [papers-we-love](https://github.com/papers-we-love/papers-we-love): 计算机科学学术论文的一个集合，内容丰富有深度
-+ [Node.js 实战](http://nodejs.ucdok.com/): 以实战开发中的应用为例的讲解
-+ [http://nodeschool.io/](http://nodeschool.io/): 基于 Node.js 打造的、跑在终端上的开源教学课程。
-+ [慕课网](http://www.imooc.com/): 在线学习平台，各种编程学习资源
-+ [node-books](https://github.com/pana/node-books): 关于 Node.js 的一些书籍
-+ [art-of-node](https://github.com/maxogden/art-of-node): Node的艺术, 一本简短的书，旨在介绍 Node
-+ [cocoacontrols](https://www.cocoacontrols.com/): 包含各种 OSX 或者 IOS 的开源 UI 库或者 商业库
 + [grid](https://github.com/aekaplan/grid): 响应式布局指南
 + [fks](https://github.com/JacksonTian/fks): 前端技能汇总
-+ [node-lessons](https://github.com/alsotang/node-lessons): Node.js 包教不包会
 + [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning): AngularJS 的各种学习资源
 + [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS): 一个 Javascript 系列图书，主要讲述 JS 的核心概念和机制
-+ [alternative-internet](https://github.com/redecentralize/alternative-internet): 一些有趣的新型互联网和技术,主要目的是去中心化
 + [JavaScript-Garden](https://github.com/BonsaiDen/JavaScript-Garden): 一个关于 Javascript 的诡异特性集合
+
+###### IOS
++ [30min_guides](https://github.com/qinjx/30min_guides): 覃健祥的学习笔记，若干个几十分钟入门的文档
++ [The Swift Programming Language 中文版](http://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/): The Swift Programming Language 中文版, 苹果官方教程的中文翻译
++ [cocoacontrols](https://www.cocoacontrols.com/): 包含各种 OSX 或者 IOS 的开源 UI 库或者 商业库
+
+#### 后端
+
+###### Node.js
+
++ [node-lessons](https://github.com/alsotang/node-lessons): Node.js 包教不包会
++ [node-books](https://github.com/pana/node-books): 关于 Node.js 的一些书籍
++ [art-of-node](https://github.com/maxogden/art-of-node): Node的艺术, 一本简短的书，旨在介绍 Node
++ [Node.js 实战](http://nodejs.ucdok.com/): 以实战开发中的应用为例的讲解
++ [http://nodeschool.io/](http://nodeschool.io/): 基于 Node.js 打造的、跑在终端上的开源教学课程。
+
+###### Ruby
+
++ [fast-ruby](https://github.com/JuanitoFatas/fast-ruby): 怎样写出更快的 Ruby
+
+###### Go
+
++ [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang): beego 作者写的关于怎么使用 Go 语言开发 web 应用的书
+
+###### 接口
+
++ [http-api-design](https://github.com/interagent/http-api-design): 从 Heroku 接口总结出的，如何更好地设计 API 接口
+
+#### 其他
+
++ [til](https://github.com/thoughtbot/til): 今天我们学了什么，thoughtbot 出品，建议 watch
++ [tenant-point](https://github.com/soulteary/tenant-point): 租房要点，适用于北上广深杭
++ [linux-insides](https://github.com/0xAX/linux-insides): 关于 Linux 内核的一些知识
++ [papers-we-love](https://github.com/papers-we-love/papers-we-love): 计算机科学学术论文的一个集合，内容丰富有深度
++ [慕课网](http://www.imooc.com/): 在线学习平台，各种编程学习资源
++ [alternative-internet](https://github.com/redecentralize/alternative-internet): 一些有趣的新型互联网和技术,主要目的是去中心化
 
 ## 科学上网
 

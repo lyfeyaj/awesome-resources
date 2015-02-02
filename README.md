@@ -17,7 +17,7 @@
 - [Web 后端](#web-后端)
     - [Ruby](#ruby)
     - [Python](#python)
-    - [NodeJS](#nodejs)
+    - [Node.js](#node.js)
         - [Express](#express)
     - [Erlang](#erlang)
     - [Java](#java)
@@ -256,7 +256,7 @@
 + [pyenv](https://github.com/yyuu/pyenv): Python 版本管理工具，类似于 RVM
 + [pyspider](https://github.com/binux/pyspider): 一个爬虫系统
 
-#### NodeJS
+#### Node.js
 
 + [Node-Webkit.js](https://github.com/nwjs/nw.js): Node-Webkit 是基于Chromium 和 node.js的运行环境，可以用来创建桌面应用程序
 + [request](https://github.com/request/request): 基于 Node.js 的用于网络请求的库，使用简单，功能强大
@@ -321,6 +321,7 @@
 + [restler](https://github.com/danwrong/restler): 一个 Node REST 客户端
 + [oauth2orize](https://github.com/jaredhanson/oauth2orize): Node 的服务端 OAuth支持
 + [Mocha](http://mochajs.org/): Node 的 TDD/BDD 测试框架
++ [nodemon](https://github.com/remy/nodemon): 开发时使用, 自动检测文件变更, 并重启服务
 
 ###### Express
 

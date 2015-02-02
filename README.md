@@ -544,6 +544,7 @@
 + [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning): AngularJS 的各种学习资源
 + [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS): 一个 Javascript 系列图书，主要讲述 JS 的核心概念和机制
 + [alternative-internet](https://github.com/redecentralize/alternative-internet): 一些有趣的新型互联网和技术,主要目的是去中心化
++ [JavaScript-Garden](https://github.com/BonsaiDen/JavaScript-Garden): 一个关于 Javascript 的诡异特性集合
 
 ## 科学上网
 

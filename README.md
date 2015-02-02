@@ -570,12 +570,16 @@
 
 + [http-api-design](https://github.com/interagent/http-api-design): 从 Heroku 接口总结出的，如何更好地设计 API 接口
 
+#### 算法 & 论文
+
++ [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July): 程序员编程艺术：面试和算法心得
++ [papers-we-love](https://github.com/papers-we-love/papers-we-love): 计算机科学学术论文的一个集合，内容丰富有深度
+
 #### 其他
 
 + [til](https://github.com/thoughtbot/til): 今天我们学了什么，thoughtbot 出品，建议 watch
 + [tenant-point](https://github.com/soulteary/tenant-point): 租房要点，适用于北上广深杭
 + [linux-insides](https://github.com/0xAX/linux-insides): 关于 Linux 内核的一些知识
-+ [papers-we-love](https://github.com/papers-we-love/papers-we-love): 计算机科学学术论文的一个集合，内容丰富有深度
 + [慕课网](http://www.imooc.com/): 在线学习平台，各种编程学习资源
 + [alternative-internet](https://github.com/redecentralize/alternative-internet): 一些有趣的新型互联网和技术,主要目的是去中心化
 

@@ -411,8 +411,10 @@
 + [Emmet](https://github.com/emmetio/emmet)：一个用于提高开发效率的编辑器插件，前身是Zen coding
 + [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3): 一个提供代码质量检测的插件
 + [SublimeTmpl](https://github.com/kairyou/SublimeTmpl)：快速新建指定的模版文件
-+ [AutoFileName](AutoFileName)：自动补齐文件名插件
 + [Syntax-highlighting-for-Sass](https://github.com/P233/Syntax-highlighting-for-Sass)：sass代码高亮插件
++ [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing): Sublime Text 强大的 Markdown 扩展, 提供快捷键, 主题等
++ [ApplySyntax](https://github.com/facelessuser/ApplySyntax/): 辅助检测语法插件
++ [CTags](https://github.com/SublimeText/CTags/): Sublime Text Ctags 支持插件, 需要安装 ctags
 
 ## 云计算
 
@@ -565,4 +567,4 @@
 + [rust](https://github.com/rust-lang/rust): Rust 语言源码
 + [font-spider](https://github.com/aui/font-spider): 中文 WebFont 自动化压缩工具
 加一张杀马特的照片
-
++ [github-awesome-autocomplete](https://github.com/algolia/github-awesome-autocomplete): Github 的浏览器插件, 用于辅助搜索, 更加人性化的搜索结果

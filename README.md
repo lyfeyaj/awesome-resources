@@ -159,6 +159,8 @@
 + [foundation](https://github.com/zurb/foundation): 另一款前端模版框架，类似于 Bootstrap
 + [Flat-UI](https://github.com/designmodo/Flat-UI): Bootstrap 的一款主题，简洁美观
 + [iCheck](https://github.com/fronteed/iCheck): 一款漂亮的 Checkbox 插件
++ [Swipe](https://github.com/thebird/Swipe): 非常轻量级的一个图片滑动切换效果库, 性能良好
++ [slick](https://github.com/kenwheeler/slick): 功能异常强大的一个图片滑动切换效果库
 
 ###### AngularJS
 

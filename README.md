@@ -604,6 +604,7 @@
 + [shadowsocks](https://github.com/shadowsocks/shadowsocks): 科学上网利器(服务器端) ~ 墙外的世界丰富多彩
 + [gfwlist2pac](https://github.com/clowwindy/gfwlist2pac): 科学上网之 GFWlist to Pac
 + [7-days-nodejs](https://github.com/nqdeng/7-days-nodejs): 七天学会 Node.js
++ [PPTP VPN 搭建](https://edgepeek.com/articles/144-ubuntu-12-dot-04-shang-pptp-vpn-da-jian): PPTP VPN 搭建教程
 
 ## Git 相关
 

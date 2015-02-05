@@ -557,6 +557,7 @@
 + [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning): AngularJS 的各种学习资源
 + [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS): 一个 Javascript 系列图书，主要讲述 JS 的核心概念和机制
 + [JavaScript-Garden](https://github.com/BonsaiDen/JavaScript-Garden): 一个关于 Javascript 的诡异特性集合
++ [在控制台中调试 AngularJS 应用](http://lyfeyaj.com/2015/01/07/debugging-angularjs-apps-from-the-console/): 在控制台中调试 AngularJS 应用的几种方法
 
 ###### IOS
 + [30min_guides](https://github.com/qinjx/30min_guides): 覃健祥的学习笔记，若干个几十分钟入门的文档

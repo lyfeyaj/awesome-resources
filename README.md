@@ -1,6 +1,8 @@
 开发资源总结 (持续整理中)
 ===============
 
+*就像开发一样, 这篇文档如果没有人关心和维护, 里面的内容就会变得老旧, 过时而不再具有参考价值. 所以, 我希望所有看到并喜欢这篇文档的人都来一起维护它. 放心大胆的提交 Pull Request 和 Issue 吧!!*
+
 这是对自己这几年开发的一个总结，各种项目、资源、书籍、博客等
 
 喜欢么？或者对您有用？那就 Star 一下吧 ^_^
@@ -488,6 +490,10 @@
 
 + [java-design-patterns](https://github.com/iluwatar/java-design-patterns): Java 设计模式
 
+###### Android
+
++ [android-best-practices](https://github.com/futurice/android-best-practices): Android 开发最佳实践
+
 #### Bash
 
 + [bashstyle](https://github.com/progrium/bashstyle): Bash 代码编写规范
@@ -495,6 +501,10 @@
 #### Objective-C
 
 + [objective-c-style-guide](https://github.com/NYTimes/objective-c-style-guide): Objective-C 代码编写规范，New York Times 出品
+
+###### IOS
+
++ [ios-good-practices](https://github.com/futurice/ios-good-practices): IOS 开发最佳实践
 
 #### Swift
 

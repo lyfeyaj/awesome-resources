@@ -475,6 +475,7 @@
 + [awesome-cpp](https://github.com/fffaraz/awesome-cpp): C++ 的资源集合
 + [awesome-elixir](https://github.com/h4cc/awesome-elixir): Elixir 资源集合
 + [awesome-emacs](https://github.com/emacs-tw/awesome-emacs): Emacs 资源整合
++ [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks): 前端开发资源的集合, 内容极多
 
 ## 代码规范&设计模式
 

@@ -402,6 +402,7 @@
 + [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit): IOS 上的一款异步界面引擎, 非常流畅, Facebook 出品
 + [Kiwi](https://github.com/kiwi-bdd/Kiwi): IOS 的 BDD 测试框架
 + [PonyDebugger](https://github.com/square/PonyDebugger): IOS 的远程调试工具, 允许开发者在 Chrome Developer Tool 中调试 IOS 应用
++ [ObjectiveSugar](https://github.com/supermarin/ObjectiveSugar): 提供一些 Objective-C 的语法糖, 类似于 Ruby 的语法
 
 ## Android
 

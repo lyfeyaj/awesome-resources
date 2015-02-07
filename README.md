@@ -122,6 +122,8 @@
 + [isotope](https://github.com/metafizzy/isotope): 可以用来过滤、排列布局，实现美观的动态布局切换效果，[Demo](http://isotope.metafizzy.co/)
 + [lazysizes](https://github.com/aFarkas/lazysizes): 功能强大的图片延迟加载工具，可以首先加载一个低质量的图片，然后再加载高质量的图片
 + [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js): 简洁美观的进度条，扁平化
++ [pigshell](https://github.com/pigshell/pigshell): 一个由 Javascript 实现的Shell, 将互联网当做一个大的文件系统, 通过 cd/ls/cat.....等命令, 可以访问 Facebook
+/Twitter/Google Drive 等网络服务
 
 ###### HTML5 相关
 
@@ -163,6 +165,8 @@
 + [iCheck](https://github.com/fronteed/iCheck): 一款漂亮的 Checkbox 插件
 + [Swipe](https://github.com/lyfeyaj/Swipe): 非常轻量级的一个图片滑动切换效果库, 性能良好, 尤其是对手机的支持, 压缩后的大小约 5kb
 + [slick](https://github.com/kenwheeler/slick): 功能异常强大的一个图片滑动切换效果库
++ [SocialButtons](https://github.com/t4t5/SocialButtons): 漂亮的社交按钮
++ [sweetalert](https://github.com/t4t5/sweetalert): 一个非常美观的用于替换浏览器默认 alert 的库
 
 ###### AngularJS
 
@@ -175,6 +179,8 @@
 + [angularjs-style-guide](https://github.com/mgechev/angularjs-style-guide): AngularJS 代码风格
 + [ngReact](https://github.com/davidchang/ngReact): React 的 Angular 插件，可以在 Angular 中使用 React Components
 + [material](https://github.com/angular/material): Google Material Design 效果的 Angular 实现
++ [angular-local-storage](https://github.com/grevory/angular-local-storage): Angular 插件, 提供了对 localStorage 的友好支持, 并对不支持的浏览器使用 cookie 优雅降级
++ [angular-filter](https://github.com/a8m/angular-filter): 一组有用的 Angular Filters
 
 #### CSS
 
@@ -249,6 +255,9 @@
 + [treat](https://github.com/louismullie/treat): Ruby的自然语言处理
 + [MacGap1](https://github.com/MacGapProject/MacGap1): 一款工具可以将 HTML/CSS/JS 网络应用打包成 Mac App
 + [ffi](https://github.com/ffi/ffi): 可以帮助 Rubyer 开发基于 C 的 ruby 库, 提供了一套接口
++ [api_cache](https://github.com/mloughran/api_cache): 可以为外部接口添加缓存的工具
++ [ckeditor](https://github.com/galetahub/ckeditor): Rails 的 Ckeditor 插件
++ [mailboxer](https://github.com/mailboxer/mailboxer): Rails 插件, 可以发送消息/邮件
 
 #### Python
 
@@ -363,6 +372,10 @@
 + [revel](https://github.com/revel/revel): 全栈 Web 框架
 + [martini](https://github.com/go-martini/martini): 另一款 Web 框架
 + [pgweb](https://github.com/sosedoff/pgweb): PostgreSQL 的 Web 数据库浏览器
+
+#### Lua
+
++ [lua-nginx-module](https://github.com/openresty/lua-nginx-module): 一个 Nginx 组件包, 可以使用 Lua 来开发 Nginx 插件, 将之变成一个全功能的 Web 应用服务器
 
 ## IOS 或 OSX
 
@@ -600,6 +613,7 @@
 + [linux-insides](https://github.com/0xAX/linux-insides): 关于 Linux 内核的一些知识
 + [慕课网](http://www.imooc.com/): 在线学习平台，各种编程学习资源
 + [alternative-internet](https://github.com/redecentralize/alternative-internet): 一些有趣的新型互联网和技术,主要目的是去中心化
++ [cocktails_for_programmers](https://github.com/the-teacher/cocktails_for_programmers): 程序员鸡尾酒, 一个特意为专业节日“程序员日”而建立的鸡尾酒项目！“程序员日”在每年的第256天。
 
 ## 科学上网
 

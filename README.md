@@ -416,6 +416,9 @@
 + [Kiwi](https://github.com/kiwi-bdd/Kiwi): IOS 的 BDD 测试框架
 + [PonyDebugger](https://github.com/square/PonyDebugger): IOS 的远程调试工具, 允许开发者在 Chrome Developer Tool 中调试 IOS 应用
 + [ObjectiveSugar](https://github.com/supermarin/ObjectiveSugar): 提供一些 Objective-C 的语法糖, 类似于 Ruby 的语法
++ [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON): Swift 的一个处理 JSON 的库
++ [Cartography](https://github.com/robb/Cartography): 在 Swift 中 声明式的使用 Autolayout
++ [HanekeSwift](https://github.com/Haneke/HanekeSwift): Swift 中可用来做缓存的库,对图片的支持尤佳
 
 ## Android
 

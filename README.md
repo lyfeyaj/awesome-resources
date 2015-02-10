@@ -335,6 +335,7 @@
 + [oauth2orize](https://github.com/jaredhanson/oauth2orize): Node 的服务端 OAuth支持
 + [Mocha](http://mochajs.org/): Node 的 TDD/BDD 测试框架
 + [nodemon](https://github.com/remy/nodemon): 开发时使用, 自动检测文件变更, 并重启服务
++ [hiredis-node](https://github.com/redis/hiredis-node): hiredis 的 Node 模块
 
 ###### Express
 
@@ -592,6 +593,7 @@
 + [art-of-node](https://github.com/maxogden/art-of-node): Node的艺术, 一本简短的书，旨在介绍 Node
 + [Node.js 实战](http://nodejs.ucdok.com/): 以实战开发中的应用为例的讲解
 + [http://nodeschool.io/](http://nodeschool.io/): 基于 Node.js 打造的、跑在终端上的开源教学课程。
++ [stream-handbook](https://github.com/jabez128/stream-handbook): 讲解 Node Stream(流) 的详细教程,中文版
 
 ###### Ruby
 

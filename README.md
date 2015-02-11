@@ -494,6 +494,7 @@
 + [awesome-elixir](https://github.com/h4cc/awesome-elixir): Elixir 资源集合
 + [awesome-emacs](https://github.com/emacs-tw/awesome-emacs): Emacs 资源整合
 + [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks): 前端开发资源的集合, 内容极多
++ [awesome-apple](https://github.com/joeljfischer/awesome-apple): 关于苹果开发的插件/库/文章等资源
 
 ## 代码规范&设计模式
 

@@ -124,6 +124,8 @@
 + [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js): 简洁美观的进度条，扁平化
 + [pigshell](https://github.com/pigshell/pigshell): 一个由 Javascript 实现的Shell, 将互联网当做一个大的文件系统, 通过 cd/ls/cat.....等命令, 可以访问 Facebook
 /Twitter/Google Drive 等网络服务
++ [spectrum](https://github.com/bgrins/spectrum): Js实现的颜色选择器 (Colorpicker)
++ [jQuery.countdown](https://github.com/hilios/jQuery.countdown): jQuery 倒计时插件
 
 ###### HTML5 相关
 
@@ -258,6 +260,11 @@
 + [api_cache](https://github.com/mloughran/api_cache): 可以为外部接口添加缓存的工具
 + [ckeditor](https://github.com/galetahub/ckeditor): Rails 的 Ckeditor 插件
 + [mailboxer](https://github.com/mailboxer/mailboxer): Rails 插件, 可以发送消息/邮件
++ [gc_tracer](https://github.com/ko1/gc_tracer): Ruby GC 跟踪器
++ [carrierwave-qiniu](https://github.com/huobazi/carrierwave-qiniu): Carrierwave 的 七牛 插件
++ [mongoid-ancestry](https://github.com/skyeagle/mongoid-ancestry): Mongoid Ancestry 实现
++ [countries](https://github.com/hexorx/countries): 一个库包含全球各个国家的信息 (ISO 3166 (countries and states/subdivisions ), ISO 4217 (currency), and E.164 (phone numbers))
++ [chruby](https://github.com/capistrano/chruby): capistrano 的 chruby 支持
 
 #### Python
 
@@ -420,6 +427,8 @@
 + [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON): Swift 的一个处理 JSON 的库
 + [Cartography](https://github.com/robb/Cartography): 在 Swift 中 声明式的使用 Autolayout
 + [HanekeSwift](https://github.com/Haneke/HanekeSwift): Swift 中可用来做缓存的库,对图片的支持尤佳
++ [RuntimeBrowser](https://github.com/nst/RuntimeBrowser): IOS 和 OSX 的运行时类浏览器, 可以查看运行时的头文件, 允许动态加载新模块
++ [iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers): IOS 运行时头文件, 从RuntimeBrowser抽出
 
 ## Android
 
@@ -629,6 +638,7 @@
 + [gfwlist2pac](https://github.com/clowwindy/gfwlist2pac): 科学上网之 GFWlist to Pac
 + [7-days-nodejs](https://github.com/nqdeng/7-days-nodejs): 七天学会 Node.js
 + [PPTP VPN 搭建](https://edgepeek.com/articles/144-ubuntu-12-dot-04-shang-pptp-vpn-da-jian): PPTP VPN 搭建教程
++ [Google-IPs](https://github.com/justjavac/Google-IPs): Google 全球 IP 地址库
 
 ## Git 相关
 

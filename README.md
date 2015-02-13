@@ -630,6 +630,7 @@
 + [慕课网](http://www.imooc.com/): 在线学习平台，各种编程学习资源
 + [alternative-internet](https://github.com/redecentralize/alternative-internet): 一些有趣的新型互联网和技术,主要目的是去中心化
 + [cocktails_for_programmers](https://github.com/the-teacher/cocktails_for_programmers): 程序员鸡尾酒, 一个特意为专业节日“程序员日”而建立的鸡尾酒项目！“程序员日”在每年的第256天。
++ [Wait but Why?](http://waitbutwhy.com/): 非常有意思的一个网站, 会有一些有趣的观点和文章
 
 ## 科学上网
 

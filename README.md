@@ -169,6 +169,7 @@
 + [slick](https://github.com/kenwheeler/slick): 功能异常强大的一个图片滑动切换效果库
 + [SocialButtons](https://github.com/t4t5/SocialButtons): 漂亮的社交按钮
 + [sweetalert](https://github.com/t4t5/sweetalert): 一个非常美观的用于替换浏览器默认 alert 的库
++ [web-animations-js](https://github.com/web-animations/web-animations-js): Javascript 实现的 Web Animation API
 
 ###### AngularJS
 
@@ -343,6 +344,7 @@
 + [Mocha](http://mochajs.org/): Node 的 TDD/BDD 测试框架
 + [nodemon](https://github.com/remy/nodemon): 开发时使用, 自动检测文件变更, 并重启服务
 + [hiredis-node](https://github.com/redis/hiredis-node): hiredis 的 Node 模块
++ [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken): JsonWebToken 的 Node.js 实现
 
 ###### Express
 
@@ -489,6 +491,7 @@
 + [keystone](https://github.com/keystonejs/keystone): 基于 Node.js 的 CMS 系统
 + [apostrophe](https://github.com/punkave/apostrophe): 基于 Node.js 的 CMS 系统
 + [reddit](https://github.com/reddit/reddit): Reddit 的源代码
++ [lets-chat](https://github.com/sdelements/lets-chat): 适合小团队的聊天服务, 可以自己搭建, 基于 Node.js 支持 Restful API, XMPP 等
 
 ## Awesome 系列
 
@@ -594,6 +597,10 @@
 + [The Swift Programming Language 中文版](http://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/): The Swift Programming Language 中文版, 苹果官方教程的中文翻译
 + [cocoacontrols](https://www.cocoacontrols.com/): 包含各种 OSX 或者 IOS 的开源 UI 库或者 商业库
 
+###### Android
+
++ [android-training-course-in-chinese](https://github.com/kesenhoo/android-training-course-in-chinese): Google Android官方培训课程中文版
+
 #### 后端
 
 ###### Node.js
@@ -636,6 +643,7 @@
 
 + [ShadowVPN](https://github.com/clowwindy/ShadowVPN): 科学上网之 VPN
 + [shadowsocks](https://github.com/shadowsocks/shadowsocks): 科学上网利器(服务器端) ~ 墙外的世界丰富多彩
++ [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android): shadowsocks 安卓客户端
 + [gfwlist2pac](https://github.com/clowwindy/gfwlist2pac): 科学上网之 GFWlist to Pac
 + [7-days-nodejs](https://github.com/nqdeng/7-days-nodejs): 七天学会 Node.js
 + [PPTP VPN 搭建](https://edgepeek.com/articles/144-ubuntu-12-dot-04-shang-pptp-vpn-da-jian): PPTP VPN 搭建教程

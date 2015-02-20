@@ -126,6 +126,7 @@
 /Twitter/Google Drive 等网络服务
 + [spectrum](https://github.com/bgrins/spectrum): Js实现的颜色选择器 (Colorpicker)
 + [jQuery.countdown](https://github.com/hilios/jQuery.countdown): jQuery 倒计时插件
++ [summernote](https://github.com/summernote/summernote): WYSIWYG 富文本编辑器
 
 ###### HTML5 相关
 
@@ -345,6 +346,9 @@
 + [nodemon](https://github.com/remy/nodemon): 开发时使用, 自动检测文件变更, 并重启服务
 + [hiredis-node](https://github.com/redis/hiredis-node): hiredis 的 Node 模块
 + [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken): JsonWebToken 的 Node.js 实现
++ [chruby](https://github.com/postmodern/chruby): 切换 Ruby 的版本 和 可以和 ruby-install 配合
++ [ruby-install](https://github.com/postmodern/ruby-install): 用来安装 Ruby, JRuby, Rubinius, MagLev 或者 MRuby 环境
++ [caphub](https://github.com/railsware/caphub): 基于 capistrano 的集中发布管理实例
 
 ###### Express
 
@@ -492,6 +496,7 @@
 + [apostrophe](https://github.com/punkave/apostrophe): 基于 Node.js 的 CMS 系统
 + [reddit](https://github.com/reddit/reddit): Reddit 的源代码
 + [lets-chat](https://github.com/sdelements/lets-chat): 适合小团队的聊天服务, 可以自己搭建, 基于 Node.js 支持 Restful API, XMPP 等
++ [dokku](https://github.com/progrium/dokku): 基于 Docker 的 Mini-Heroku, 最小型的 PAAS 实现
 
 ## Awesome 系列
 
@@ -549,6 +554,7 @@
 + [mongo](https://github.com/mongodb/mongo): MongoDB 源代码
 + [nedb](https://github.com/louischatriot/nedb): 纯 Javascript 实现，类 MongoDB 的内存型数据库，API 基本和 MongoDB相同，可选同步写入磁盘，小项目数据不太多时性能很强乃至超过MongoDB
 + [TokuMX MongoDB](https://github.com/Tokutek/mongo): TokuMX 版的 MongoDB, MongoDB 的一个分支，支持更快的写速度，完整的事务支持等
++ [sequelpro](https://github.com/sequelpro/sequelpro): Mac OSX 的 MySQL 数据库管理软件
 
 ## 博客 / 网站
 

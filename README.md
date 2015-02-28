@@ -35,7 +35,6 @@
     - [Docker](#docker)
     - [OS](#os)
 - [开源产品(论坛、在线教育、项目管理等)](#开源产品论坛、在线教育、项目管理等)
-- [Awesome 系列](#awesome-系列)
 - [代码规范&设计模式](#代码规范&设计模式)
     - [Ruby](#ruby-1)
         - [Rails](#rails)
@@ -47,7 +46,8 @@
 - [博客 / 网站](#博客--网站)
     - [设计](#设计)
     - [技术](#技术)
-- [书籍 / 阅读](#书籍--阅读)
+- [书籍 / 阅读 / 学习](#书籍--阅读)
+    - [Awesome 系列](#awesome-系列)
     - [前端](#前端)
         - [Web](#web)
         - [IOS](#ios)
@@ -498,21 +498,6 @@
 + [lets-chat](https://github.com/sdelements/lets-chat): 适合小团队的聊天服务, 可以自己搭建, 基于 Node.js 支持 Restful API, XMPP 等
 + [dokku](https://github.com/progrium/dokku): 基于 Docker 的 Mini-Heroku, 最小型的 PAAS 实现
 
-## Awesome 系列
-
-+ [awesome](https://github.com/sindresorhus/awesome): awesome 汇总
-+ [iOS 学习资料整理](https://github.com/Aufree/trip-to-iOS): IOS 的各种学习资料整理，初学者必备
-+ [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries): Android 各种开源库的一个汇总
-+ [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui): Android 各种开源UI/UX库的一个汇总
-+ [awesome-courses](https://github.com/prakhar1989/awesome-courses): 关于计算机科学的各种大学教学课程
-+ [awesome-ruby](https://github.com/markets/awesome-ruby): Ruby 资源集合
-+ [awesome-go](https://github.com/avelino/awesome-go): Go 资源集合
-+ [awesome-cpp](https://github.com/fffaraz/awesome-cpp): C++ 的资源集合
-+ [awesome-elixir](https://github.com/h4cc/awesome-elixir): Elixir 资源集合
-+ [awesome-emacs](https://github.com/emacs-tw/awesome-emacs): Emacs 资源整合
-+ [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks): 前端开发资源的集合, 内容极多
-+ [awesome-apple](https://github.com/joeljfischer/awesome-apple): 关于苹果开发的插件/库/文章等资源
-
 ## 代码规范&设计模式
 
 #### Ruby
@@ -581,7 +566,22 @@
 + [ruby-china](https://ruby-china.org/): 国内最大最火 Ruby 社区
 + [angularjs](http://angularjs.cn/): Angularjs 的国内中文社区
 
-## 书籍 / 阅读
+## 书籍 / 阅读 / 学习
+
+#### Awesome 系列
+
++ [awesome](https://github.com/sindresorhus/awesome): awesome 汇总
++ [iOS 学习资料整理](https://github.com/Aufree/trip-to-iOS): IOS 的各种学习资料整理，初学者必备
++ [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries): Android 各种开源库的一个汇总
++ [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui): Android 各种开源UI/UX库的一个汇总
++ [awesome-courses](https://github.com/prakhar1989/awesome-courses): 关于计算机科学的各种大学教学课程
++ [awesome-ruby](https://github.com/markets/awesome-ruby): Ruby 资源集合
++ [awesome-go](https://github.co m/avelino/awesome-go): Go 资源集合
++ [awesome-cpp](https://github.com/fffaraz/awesome-cpp): C++ 的资源集合
++ [awesome-elixir](https://github.com/h4cc/awesome-elixir): Elixir 资源集合
++ [awesome-emacs](https://github.com/emacs-tw/awesome-emacs): Emacs 资源整合
++ [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks): 前端开发资源的集合, 内容极多
++ [awesome-apple](https://github.com/joeljfischer/awesome-apple): 关于苹果开发的插件/库/文章等资源
 
 #### 前端
 
@@ -597,6 +597,8 @@
 + [JavaScript-Garden](https://github.com/BonsaiDen/JavaScript-Garden): 一个关于 Javascript 的诡异特性集合
 + [在控制台中调试 AngularJS 应用](http://lyfeyaj.com/2015/01/07/debugging-angularjs-apps-from-the-console/): 在控制台中调试 AngularJS 应用的几种方法
 + [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/): 学习 Javascript 设计模式
++ [es6features](https://github.com/lukehoban/es6features): ECMAScript 6 特性概览
++ [es6-tools](https://github.com/addyosmani/es6-tools): ECMAScript 6 工具集合
 
 ###### IOS
 + [30min_guides](https://github.com/qinjx/30min_guides): 覃健祥的学习笔记，若干个几十分钟入门的文档

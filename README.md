@@ -127,6 +127,7 @@
 + [spectrum](https://github.com/bgrins/spectrum): Js实现的颜色选择器 (Colorpicker)
 + [jQuery.countdown](https://github.com/hilios/jQuery.countdown): jQuery 倒计时插件
 + [summernote](https://github.com/summernote/summernote): WYSIWYG 富文本编辑器
++ [awesomplete](https://github.com/LeaVerou/awesomplete): 非常轻型的一个自动补全 JS 库, 没有任何依赖, 配置简单, 美观
 
 ###### HTML5 相关
 
@@ -171,6 +172,7 @@
 + [SocialButtons](https://github.com/t4t5/SocialButtons): 漂亮的社交按钮
 + [sweetalert](https://github.com/t4t5/sweetalert): 一个非常美观的用于替换浏览器默认 alert 的库
 + [web-animations-js](https://github.com/web-animations/web-animations-js): Javascript 实现的 Web Animation API
++ [vivus](https://github.com/maxwellito/vivus): 可以动态描绘 SVG 的 JS 库, 支持多种动画
 
 ###### AngularJS
 
@@ -582,6 +584,7 @@
 + [awesome-emacs](https://github.com/emacs-tw/awesome-emacs): Emacs 资源整合
 + [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks): 前端开发资源的集合, 内容极多
 + [awesome-apple](https://github.com/joeljfischer/awesome-apple): 关于苹果开发的插件/库/文章等资源
++ [frontend-stuff](https://github.com/moklick/frontend-stuff): 前端相关的各种资源, JS 内容居多
 
 #### 前端
 
@@ -599,6 +602,7 @@
 + [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/): 学习 Javascript 设计模式
 + [es6features](https://github.com/lukehoban/es6features): ECMAScript 6 特性概览
 + [es6-tools](https://github.com/addyosmani/es6-tools): ECMAScript 6 工具集合
++ [frontend-guidelines](https://github.com/bendc/frontend-guidelines): 前端指南, 主要讲述 HTML, CSS 和 JS 的最佳实践
 
 ###### IOS
 + [30min_guides](https://github.com/qinjx/30min_guides): 覃健祥的学习笔记，若干个几十分钟入门的文档

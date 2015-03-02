@@ -173,6 +173,7 @@
 + [sweetalert](https://github.com/t4t5/sweetalert): 一个非常美观的用于替换浏览器默认 alert 的库
 + [web-animations-js](https://github.com/web-animations/web-animations-js): Javascript 实现的 Web Animation API
 + [vivus](https://github.com/maxwellito/vivus): 可以动态描绘 SVG 的 JS 库, 支持多种动画
++ [plyr](https://github.com/Selz/plyr): 轻量, 小巧, 美观的 HTML5 视频播放器
 
 ###### AngularJS
 
@@ -437,6 +438,7 @@
 + [HanekeSwift](https://github.com/Haneke/HanekeSwift): Swift 中可用来做缓存的库,对图片的支持尤佳
 + [RuntimeBrowser](https://github.com/nst/RuntimeBrowser): IOS 和 OSX 的运行时类浏览器, 可以查看运行时的头文件, 允许动态加载新模块
 + [iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers): IOS 运行时头文件, 从RuntimeBrowser抽出
++ [WBWebViewConsole](https://github.com/Naituw/WBWebViewConsole): 应用内置用于 Debug 的控制台, 支持 UIWebView & WKWebView
 
 ## Android
 
@@ -447,6 +449,8 @@
 + [Side-Menu.Android](https://github.com/Yalantis/Side-Menu.Android): 一款精美的侧边栏实现
 + [dagger](https://github.com/square/dagger): Android 和 Java 的依赖注入库
 + [picasso](https://github.com/square/picasso): 一款用于下载并缓存图片的库
++ [ArcAnimator](https://github.com/asyl/ArcAnimator): 实现 ARC 动画的库
++ [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart): 强大的图表工具
 
 ## 代码效率
 
@@ -585,6 +589,7 @@
 + [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks): 前端开发资源的集合, 内容极多
 + [awesome-apple](https://github.com/joeljfischer/awesome-apple): 关于苹果开发的插件/库/文章等资源
 + [frontend-stuff](https://github.com/moklick/frontend-stuff): 前端相关的各种资源, JS 内容居多
++ [awesome-swift)](https://github.com/matteocrippa/awesome-swift): Swift 资源整合
 
 #### 前端
 

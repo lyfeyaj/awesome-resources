@@ -609,6 +609,7 @@
 + [es6features](https://github.com/lukehoban/es6features): ECMAScript 6 特性概览
 + [es6-tools](https://github.com/addyosmani/es6-tools): ECMAScript 6 工具集合
 + [frontend-guidelines](https://github.com/bendc/frontend-guidelines): 前端指南, 主要讲述 HTML, CSS 和 JS 的最佳实践
++ [es6tutorial](https://github.com/ruanyf/es6tutorial): 《ECMAScript 6入门》是一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性。
 
 ###### IOS
 + [30min_guides](https://github.com/qinjx/30min_guides): 覃健祥的学习笔记，若干个几十分钟入门的文档

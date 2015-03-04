@@ -630,6 +630,7 @@
 + [Node.js 实战](http://nodejs.ucdok.com/): 以实战开发中的应用为例的讲解
 + [http://nodeschool.io/](http://nodeschool.io/): 基于 Node.js 打造的、跑在终端上的开源教学课程。
 + [stream-handbook](https://github.com/jabez128/stream-handbook): 讲解 Node Stream(流) 的详细教程,中文版
++ [7-days-nodejs](https://github.com/nqdeng/7-days-nodejs): 七天学会 Node.js
 
 ###### Ruby
 
@@ -664,7 +665,6 @@
 + [shadowsocks](https://github.com/shadowsocks/shadowsocks): 科学上网利器(服务器端) ~ 墙外的世界丰富多彩
 + [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android): shadowsocks 安卓客户端
 + [gfwlist2pac](https://github.com/clowwindy/gfwlist2pac): 科学上网之 GFWlist to Pac
-+ [7-days-nodejs](https://github.com/nqdeng/7-days-nodejs): 七天学会 Node.js
 + [PPTP VPN 搭建](https://edgepeek.com/articles/144-ubuntu-12-dot-04-shang-pptp-vpn-da-jian): PPTP VPN 搭建教程
 + [Google-IPs](https://github.com/justjavac/Google-IPs): Google 全球 IP 地址库
 

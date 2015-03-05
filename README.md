@@ -271,6 +271,7 @@
 + [mongoid-ancestry](https://github.com/skyeagle/mongoid-ancestry): Mongoid Ancestry 实现
 + [countries](https://github.com/hexorx/countries): 一个库包含全球各个国家的信息 (ISO 3166 (countries and states/subdivisions ), ISO 4217 (currency), and E.164 (phone numbers))
 + [chruby](https://github.com/capistrano/chruby): capistrano 的 chruby 支持
++ [byebug](https://github.com/deivid-rodriguez/byebug): Ruby 2 的一个调试器
 
 #### Python
 

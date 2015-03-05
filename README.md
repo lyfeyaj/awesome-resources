@@ -19,12 +19,13 @@
 - [Web 后端](#web-后端)
     - [Ruby](#ruby)
     - [Python](#python)
-    - [Node.js](#node.js)
+    - [Node.js](#nodejs)
         - [Express](#express)
     - [Erlang](#erlang)
     - [Java](#java)
     - [C/C++](#cc)
     - [Go](#go)
+    - [Lua](#lua)
 - [IOS 或 OSX](#ios-或-osx)
 - [Android](#android)
 - [代码效率](#代码效率)
@@ -38,24 +39,30 @@
 - [代码规范&设计模式](#代码规范&设计模式)
     - [Ruby](#ruby-1)
         - [Rails](#rails)
+    - [Javascript](#javascript-1)
+        - [AngularJS](#angularjs-1)
     - [Java](#java-1)
+        - [Android](#android-1)
     - [Bash](#bash)
     - [Objective-C](#objective-c)
+        - [IOS](#ios)
     - [Swift](#swift)
 - [数据库](#数据库)
 - [博客 / 网站](#博客--网站)
     - [设计](#设计)
     - [技术](#技术)
-- [书籍 / 阅读 / 学习](#书籍--阅读)
+- [书籍 / 阅读 / 学习](#书籍--阅读--学习)
     - [Awesome 系列](#awesome-系列)
     - [前端](#前端)
         - [Web](#web)
-        - [IOS](#ios)
+        - [IOS](#ios-1)
+        - [Android](#android-2)
     - [后端](#后端)
-        - [Node.js](#nodejs)
+        - [Node.js](#nodejs-1)
         - [Ruby](#ruby-2)
         - [Go](#go-1)
         - [接口](#接口)
+    - [算法 & 论文](#算法-&-论文)
     - [其他](#其他)
 - [科学上网](#科学上网)
 - [Git 相关](#git-相关)
@@ -516,6 +523,12 @@
 
 + [Rails 代码编写规范](https://github.com/bbatsov/rails-style-guide): Rails 代码编写规范
 
+#### Javascript
+
+###### AngularJS
+
++ [angularjs-styleguide](https://github.com/toddmotto/angularjs-styleguide): AngularJS 代码规范
+
 #### Java
 
 + [java-design-patterns](https://github.com/iluwatar/java-design-patterns): Java 设计模式
@@ -611,6 +624,7 @@
 + [es6-tools](https://github.com/addyosmani/es6-tools): ECMAScript 6 工具集合
 + [frontend-guidelines](https://github.com/bendc/frontend-guidelines): 前端指南, 主要讲述 HTML, CSS 和 JS 的最佳实践
 + [es6tutorial](https://github.com/ruanyf/es6tutorial): 《ECMAScript 6入门》是一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性。
++ [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning): AngularJS 学习资源
 
 ###### IOS
 + [30min_guides](https://github.com/qinjx/30min_guides): 覃健祥的学习笔记，若干个几十分钟入门的文档

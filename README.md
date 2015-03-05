@@ -270,6 +270,9 @@
 + [carrierwave-qiniu](https://github.com/huobazi/carrierwave-qiniu): Carrierwave 的 七牛 插件
 + [mongoid-ancestry](https://github.com/skyeagle/mongoid-ancestry): Mongoid Ancestry 实现
 + [countries](https://github.com/hexorx/countries): 一个库包含全球各个国家的信息 (ISO 3166 (countries and states/subdivisions ), ISO 4217 (currency), and E.164 (phone numbers))
++ [chruby](https://github.com/postmodern/chruby): 切换 Ruby 的版本 和 可以和 ruby-install 配合
++ [ruby-install](https://github.com/postmodern/ruby-install): 用来安装 Ruby, JRuby, Rubinius, MagLev 或者 MRuby 环境
++ [caphub](https://github.com/railsware/caphub): 基于 capistrano 的集中发布管理实例
 + [chruby](https://github.com/capistrano/chruby): capistrano 的 chruby 支持
 + [byebug](https://github.com/deivid-rodriguez/byebug): Ruby 2 的一个调试器
 
@@ -351,10 +354,7 @@
 + [nodemon](https://github.com/remy/nodemon): 开发时使用, 自动检测文件变更, 并重启服务
 + [hiredis-node](https://github.com/redis/hiredis-node): hiredis 的 Node 模块
 + [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken): JsonWebToken 的 Node.js 实现
-+ [chruby](https://github.com/postmodern/chruby): 切换 Ruby 的版本 和 可以和 ruby-install 配合
-+ [ruby-install](https://github.com/postmodern/ruby-install): 用来安装 Ruby, JRuby, Rubinius, MagLev 或者 MRuby 环境
-+ [caphub](https://github.com/railsware/caphub): 基于 capistrano 的集中发布管理实例
-
++ [js2coffee](https://github.com/js2coffee/js2coffee): 将 Javascript 转换成 CoffeeScript 的一个工具
 ###### Express
 
 + [express-admin](https://github.com/simov/express-admin): Express 的后端，支持(MySQL, MariaDB, SQLite, PostgreSQL)

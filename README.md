@@ -389,6 +389,7 @@
 + [QQStars](https://github.com/AfterTheRainOfStars/QQStars): 基于 WebQQ 协议和 QT 开发的 QQ 客户端
 + [caffe](https://github.com/BVLC/caffe): 一个关于数据挖掘的库
 + [fastsocket](https://github.com/fastos/fastsocket): 一个高扩展性的 Socket 库，在多核设备上有良好的表现，新浪出品
++ [C](https://github.com/ryanmjacobs/c): 将 C 语言校本化的一个工具, 可以直接编写 C 语言作为脚本使用
 
 #### Go
 

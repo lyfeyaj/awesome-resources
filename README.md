@@ -182,6 +182,7 @@
 + [vivus](https://github.com/maxwellito/vivus): 可以动态描绘 SVG 的 JS 库, 支持多种动画
 + [plyr](https://github.com/Selz/plyr): 轻量, 小巧, 美观的 HTML5 视频播放器
 + [timesheet.js](https://github.com/sbstjn/timesheet.js): 基于  HTML5 & CSS3 时间表
++ [slideout](https://github.com/Mango/slideout): 一个非常美观的侧滑菜单
 
 ###### AngularJS
 

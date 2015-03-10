@@ -60,6 +60,7 @@
     - [后端](#后端)
         - [Node.js](#nodejs-1)
         - [Ruby](#ruby-2)
+        - [PHP](#php)
         - [Go](#go-1)
         - [接口](#接口)
     - [算法 & 论文](#算法-&-论文)
@@ -652,6 +653,12 @@
 ###### Ruby
 
 + [fast-ruby](https://github.com/JuanitoFatas/fast-ruby): 怎样写出更快的 Ruby
+
+###### PHP
+
++ [phpbook](https://github.com/walu/phpbook): PHP扩展开发及内核应用
++ [tipi](https://github.com/reeze/tipi): 深入理解PHP内核
++ [php-the-right-way](https://github.com/wulijun/php-the-right-way): PHP之道
 
 ###### Go
 

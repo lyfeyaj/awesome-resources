@@ -159,6 +159,7 @@
 + [focusable](https://github.com/zzarcon/focusable): 是页面上一个元素高亮的库，[有图有真相](http://zzarcon.github.io/focusable/)
 + [firefox.html](https://github.com/paulrouget/firefox.html): Firefox 在浏览器端的实现 —— HTML 版的 Firefox
 + [jquery-mobile](https://github.com/jquery/jquery-mobile): jQuery 团队开发的用于辅助手机端 web app 开发的库，基于 HTML5
++ [mobile-angular-ui](https://github.com/mcasimir/mobile-angular-ui): 基于angularjs和bootstarp的web app开发框架
 + [interact.js](https://github.com/taye/interact.js): 一个适用于现代浏览器的，用于处理 手势、拖放、缩放等的库
 + [rebound-js](https://github.com/facebook/rebound-js): 实现部分物理效果，Facebook 出品
 + [basket.js](https://github.com/addyosmani/basket.js): 基于 LocalStorage 的资源加载器，可以用来缓存 script 和 css, 手机端使用速度快于浏览器直接缓存

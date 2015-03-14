@@ -283,6 +283,11 @@
 + [caphub](https://github.com/railsware/caphub): 基于 capistrano 的集中发布管理实例
 + [chruby](https://github.com/capistrano/chruby): capistrano 的 chruby 支持
 + [byebug](https://github.com/deivid-rodriguez/byebug): Ruby 2 的一个调试器
++ [opal](https://github.com/opal/opal): Ruby -> Javascript 代码转换工具
++ [volt](https://github.com/voltrb/volt): Ruby 的 一个 Web 框架, 使用 opal 使得前后端均可以用 Ruby 编写
++ [tunemygc](https://github.com/bear-metal/tunemygc): 用于分析 Ruby 的 GC, 并给出最合适的配置
++ [parallel](https://github.com/grosser/parallel): Ruby 的一个并行运算库
++ [http.rb](https://github.com/httprb/http.rb): Ruby 的一个 HTTP 库, 提供了链式的语法和完全的 Streaming 支持
 
 #### Python
 
@@ -363,6 +368,7 @@
 + [hiredis-node](https://github.com/redis/hiredis-node): hiredis 的 Node 模块
 + [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken): JsonWebToken 的 Node.js 实现
 + [js2coffee](https://github.com/js2coffee/js2coffee): 将 Javascript 转换成 CoffeeScript 的一个工具
+
 ###### Express
 
 + [express-admin](https://github.com/simov/express-admin): Express 的后端，支持(MySQL, MariaDB, SQLite, PostgreSQL)
@@ -527,9 +533,12 @@
 
 #### Javascript
 
++ [umd](https://github.com/umdjs/umd): 全局模块定义, 提供了几种模块定义规则和模式, 使其可以支持 AMD/CMD/浏览器全局/jQuery插件等
+
 ###### AngularJS
 
 + [angularjs-styleguide](https://github.com/toddmotto/angularjs-styleguide): AngularJS 代码规范
++ [Angular-Design-Patterns-Best-Practices](https://github.com/trochette/Angular-Design-Patterns-Best-Practices): Angular 设计模式的最佳实现
 
 #### Java
 

@@ -199,6 +199,7 @@
 + [material](https://github.com/angular/material): Google Material Design 效果的 Angular 实现
 + [angular-local-storage](https://github.com/grevory/angular-local-storage): Angular 插件, 提供了对 localStorage 的友好支持, 并对不支持的浏览器使用 cookie 优雅降级
 + [angular-filter](https://github.com/a8m/angular-filter): 一组有用的 Angular Filters
++ [bindonce](https://github.com/Pasvaz/bindonce): Angular 插件, 用于减少 Watch 的数量, 提升性能
 
 #### CSS
 
@@ -370,6 +371,8 @@
 + [hiredis-node](https://github.com/redis/hiredis-node): hiredis 的 Node 模块
 + [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken): JsonWebToken 的 Node.js 实现
 + [js2coffee](https://github.com/js2coffee/js2coffee): 将 Javascript 转换成 CoffeeScript 的一个工具
++ [grunt-injector](https://github.com/klei/grunt-injector): Grunt 的 JS/CSS 自动注入工具, 可以自动将 JS/CSS 的引用注入到 HTML 文件中
++ [NativeScript](https://github.com/NativeScript/NativeScript): 使用 Javascript 来编写 IOS / Android 以及更多平台原生软件的库
 
 ###### Express
 
@@ -522,6 +525,7 @@
 + [reddit](https://github.com/reddit/reddit): Reddit 的源代码
 + [lets-chat](https://github.com/sdelements/lets-chat): 适合小团队的聊天服务, 可以自己搭建, 基于 Node.js 支持 Restful API, XMPP 等
 + [dokku](https://github.com/progrium/dokku): 基于 Docker 的 Mini-Heroku, 最小型的 PAAS 实现
++ [VLC](https://github.com/videolan/vlc): VLC 视频播放器源代码
 
 ## 代码规范&设计模式
 
@@ -692,6 +696,7 @@
 + [alternative-internet](https://github.com/redecentralize/alternative-internet): 一些有趣的新型互联网和技术,主要目的是去中心化
 + [cocktails_for_programmers](https://github.com/the-teacher/cocktails_for_programmers): 程序员鸡尾酒, 一个特意为专业节日“程序员日”而建立的鸡尾酒项目！“程序员日”在每年的第256天。
 + [Wait but Why?](http://waitbutwhy.com/): 非常有意思的一个网站, 会有一些有趣的观点和文章
++ [ideas](https://github.com/samsquire/ideas): 有趣的想法, 更多是一个作者对于编程/软件/工具 的思考和整理
 
 ## 科学上网
 

@@ -199,7 +199,7 @@
 + [material](https://github.com/angular/material): Google Material Design 效果的 Angular 实现
 + [angular-local-storage](https://github.com/grevory/angular-local-storage): Angular 插件, 提供了对 localStorage 的友好支持, 并对不支持的浏览器使用 cookie 优雅降级
 + [angular-filter](https://github.com/a8m/angular-filter): 一组有用的 Angular Filters
-+ [bindonce](https://github.com/Pasvaz/bindonce): Angular 插件, 用于减少 Watch 的数量, 提升性能
++ [bindonce](https://github.com/Pasvaz/bindonce): Angular 插件, 用于减少 Watcher 的数量, 提升性能
 
 #### CSS
 

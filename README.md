@@ -461,6 +461,8 @@
 + [RuntimeBrowser](https://github.com/nst/RuntimeBrowser): IOS 和 OSX 的运行时类浏览器, 可以查看运行时的头文件, 允许动态加载新模块
 + [iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers): IOS 运行时头文件, 从RuntimeBrowser抽出
 + [WBWebViewConsole](https://github.com/Naituw/WBWebViewConsole): 应用内置用于 Debug 的控制台, 支持 UIWebView & WKWebView
++ [DBCamera](https://github.com/danielebogo/DBCamera): 方便高度自定义相机UI的库
++ [UIImage-Helpers](https://github.com/NZN/UIImage-Helpers): 截图、模糊化图片、生成特定颜色的图片，都可以由这个库完成
 
 ## Android
 

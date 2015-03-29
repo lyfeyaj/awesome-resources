@@ -291,10 +291,12 @@
 + [tunemygc](https://github.com/bear-metal/tunemygc): 用于分析 Ruby 的 GC, 并给出最合适的配置
 + [parallel](https://github.com/grosser/parallel): Ruby 的一个并行运算库
 + [http.rb](https://github.com/httprb/http.rb): Ruby 的一个 HTTP 库, 提供了链式的语法和完全的 Streaming 支持
++ [has_scope](https://github.com/plataformatec/has_scope): 用于在控制器中钩子中使用Scope
 
 #### Python
 
 + [django](https://github.com/django/django): 一个全栈式的 web 框架, 类似于 Rails
++ [django-rest-framework](https://github.com/tomchristie/django-rest-framework): django 的 一个  Rest API 框架
 + [wifiphisher](https://github.com/sophron/wifiphisher): WIFI 中间人钓鱼攻击工具，获取用户名密码
 + [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit): Python 的交互命令行工具，提供代码补全、高亮等
 + [redis-rdb-tools](https://github.com/sripathikrishnan/redis-rdb-tools): Redis 的 dump.rdb 文件解析器，用于分析内存使用、导出 JSON 以及 比较不同 rdb 文件差异
@@ -373,6 +375,8 @@
 + [js2coffee](https://github.com/js2coffee/js2coffee): 将 Javascript 转换成 CoffeeScript 的一个工具
 + [grunt-injector](https://github.com/klei/grunt-injector): Grunt 的 JS/CSS 自动注入工具, 可以自动将 JS/CSS 的引用注入到 HTML 文件中
 + [NativeScript](https://github.com/NativeScript/NativeScript): 使用 Javascript 来编写 IOS / Android 以及更多平台原生软件的库
++ [rosie](https://github.com/bkeepers/rosie): 用于生成 Javascript 对象, 方便测试, 类似于 factory_girl
++ [jsduck](https://github.com/senchalabs/jsduck): javascript 文档生成工具
 
 ###### Express
 
@@ -463,6 +467,8 @@
 + [WBWebViewConsole](https://github.com/Naituw/WBWebViewConsole): 应用内置用于 Debug 的控制台, 支持 UIWebView & WKWebView
 + [DBCamera](https://github.com/danielebogo/DBCamera): 方便高度自定义相机UI的库
 + [UIImage-Helpers](https://github.com/NZN/UIImage-Helpers): 截图、模糊化图片、生成特定颜色的图片，都可以由这个库完成
++ [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP): Swift 的 HTTP 封装
++ [react-native](https://github.com/facebook/react-native): Facebook 出品的使用 React 开发 IOS 原生应用的框架
 
 ## Android
 
@@ -528,6 +534,7 @@
 + [lets-chat](https://github.com/sdelements/lets-chat): 适合小团队的聊天服务, 可以自己搭建, 基于 Node.js 支持 Restful API, XMPP 等
 + [dokku](https://github.com/progrium/dokku): 基于 Docker 的 Mini-Heroku, 最小型的 PAAS 实现
 + [VLC](https://github.com/videolan/vlc): VLC 视频播放器源代码
++ [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native): HackerNews 基于 React Native 实现
 
 ## 代码规范&设计模式
 
@@ -708,6 +715,7 @@
 + [gfwlist2pac](https://github.com/clowwindy/gfwlist2pac): 科学上网之 GFWlist to Pac
 + [PPTP VPN 搭建](https://edgepeek.com/articles/144-ubuntu-12-dot-04-shang-pptp-vpn-da-jian): PPTP VPN 搭建教程
 + [Google-IPs](https://github.com/justjavac/Google-IPs): Google 全球 IP 地址库
++ [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts): 一次性删除所有 CNNIC 证书的工具
 
 ## Git 相关
 
@@ -725,3 +733,4 @@
 + [font-spider](https://github.com/aui/font-spider): 中文 WebFont 自动化压缩工具
 加一张杀马特的照片
 + [github-awesome-autocomplete](https://github.com/algolia/github-awesome-autocomplete): Github 的浏览器插件, 用于辅助搜索, 更加人性化的搜索结果
++ [dotenv](https://github.com/bkeepers/dotenv): 用于配置本地环境, 可以为不同的文件夹设置不同的环境

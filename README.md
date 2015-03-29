@@ -469,6 +469,7 @@
 + [UIImage-Helpers](https://github.com/NZN/UIImage-Helpers): 截图、模糊化图片、生成特定颜色的图片，都可以由这个库完成
 + [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP): Swift 的 HTTP 封装
 + [react-native](https://github.com/facebook/react-native): Facebook 出品的使用 React 开发 IOS 原生应用的框架
++ [VKVideoPlayer](https://github.com/viki-org/VKVideoPlayer): 方便高度自定义视频播放器的库
 
 ## Android
 

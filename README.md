@@ -201,6 +201,16 @@
 + [angular-filter](https://github.com/a8m/angular-filter): 一组有用的 Angular Filters
 + [bindonce](https://github.com/Pasvaz/bindonce): Angular 插件, 用于减少 Watcher 的数量, 提升性能
 
+###### React
+
++ [react](https://github.com/facebook/react): React 框架源代码
++ [react-native](https://github.com/facebook/react-native): Facebook 出品的使用 React 开发 IOS 原生应用的框架
++ [react-hot-loader](https://github.com/gaearon/react-hot-loader): 实时调整 React 组件效果
++ [grunt-react](https://github.com/ericclemmons/grunt-react): React 的 Grunt 组件, 用于将 JSX 编译成 JS
++ [touchstonejs](https://github.com/JedWatson/touchstonejs): 基于 React 的手机应用前端框架
++ [essential-react](https://github.com/pheuter/essential-react): 基于 React, ES6, React-Router的一个应用脚手架
++ [react-router](https://github.com/rackt/react-router): React 路由解决方案
+
 #### CSS
 
 + [Hover](https://github.com/IanLunn/Hover): 基于 CSS3 的各种 鼠标悬停(hover)特效, [点击查看效果](http://ianlunn.github.io/Hover/)
@@ -468,7 +478,6 @@
 + [DBCamera](https://github.com/danielebogo/DBCamera): 方便高度自定义相机UI的库
 + [UIImage-Helpers](https://github.com/NZN/UIImage-Helpers): 截图、模糊化图片、生成特定颜色的图片，都可以由这个库完成
 + [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP): Swift 的 HTTP 封装
-+ [react-native](https://github.com/facebook/react-native): Facebook 出品的使用 React 开发 IOS 原生应用的框架
 + [VKVideoPlayer](https://github.com/viki-org/VKVideoPlayer): 方便高度自定义视频播放器的库
 
 ## Android
@@ -503,6 +512,7 @@
 + [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing): Sublime Text 强大的 Markdown 扩展, 提供快捷键, 主题等
 + [ApplySyntax](https://github.com/facelessuser/ApplySyntax/): 辅助检测语法插件
 + [CTags](https://github.com/SublimeText/CTags/): Sublime Text Ctags 支持插件, 需要安装 ctags
++ [sublime-react](https://github.com/reactjs/sublime-react): React 代码高亮
 
 ## 云计算
 
@@ -632,6 +642,7 @@
 + [awesome-apple](https://github.com/joeljfischer/awesome-apple): 关于苹果开发的插件/库/文章等资源
 + [frontend-stuff](https://github.com/moklick/frontend-stuff): 前端相关的各种资源, JS 内容居多
 + [awesome-swift)](https://github.com/matteocrippa/awesome-swift): Swift 资源整合
++ [awesome-react](https://github.com/enaqx/awesome-react): React 资源整合
 
 #### 前端
 

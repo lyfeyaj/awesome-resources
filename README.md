@@ -12,8 +12,10 @@
 
 - [Web 前端](#web-前端)
     - [Javascript](#javascript)
+        - [Polyfills](#polyfills)
         - [HTML5 相关](#html5-相关)
         - [AngularJS](#angularjs)
+        - [React](#react)
     - [CSS](#css)
     - [ICON](#icon)
 - [Web 后端](#web-后端)
@@ -137,6 +139,18 @@
 + [summernote](https://github.com/summernote/summernote): WYSIWYG 富文本编辑器
 + [awesomplete](https://github.com/LeaVerou/awesomplete): 非常轻型的一个自动补全 JS 库, 没有任何依赖, 配置简单, 美观
 
+###### Polyfills
+
++ [picturefill](https://github.com/scottjehl/picturefill): 响应式的图片 `<picture>` polyfill, 支持srcset, sizes等
++ [Placeholders.js](https://github.com/jamesallardice/Placeholders.js): 为不支持的 HTML5 的浏览器提供 Placeholder 支持
++ [prefixfree](https://github.com/LeaVerou/prefixfree): 自动为 CSS 添加 Vender Prefix，把你从不停添加浏览器前缀的噩梦中解放出来
++ [history.js](https://github.com/browserstate/history.js): History 接口的功能实现
++ [html5shiv](https://github.com/aFarkas/html5shiv): 为 IE 等老旧浏览器添加 HTML5 标签支持
++ [es6-shim](https://github.com/paulmillr/es6-shim): 为浏览器添加 ES6 支持
++ [es5-shim](https://github.com/es-shims/es5-shim): 为浏览器添加 ES5 支持
++ [Respond](https://github.com/scottjehl/Respond): 为IE浏览器添加 media query 支持
++ [json3](https://github.com/bestiejs/json3): 为旧浏览器添加 JSON 支持
+
 ###### HTML5 相关
 
 + [sensor.js](https://github.com/branding-fe/sensor): 在智能移动设备浏览器上，通过HTML5的api使用移动设备的功能。定位、运动、倾斜等
@@ -165,8 +179,6 @@
 + [basket.js](https://github.com/addyosmani/basket.js): 基于 LocalStorage 的资源加载器，可以用来缓存 script 和 css, 手机端使用速度快于浏览器直接缓存
 + [iscroll](https://github.com/cubiq/iscroll): 高性能的滚动(scroll)处理库，功能强大，支持各种事件，不依赖任何的库，且插件丰富, 大众点评的手机端列表滚动就是用这个库处理的
 + [metrics-graphics](https://github.com/mozilla/metrics-graphics): 基于 D3 的图表库，简洁、高效，Mozilla 出品
-+ [Placeholders.js](https://github.com/jamesallardice/Placeholders.js): 为不支持的 HTML5 的浏览器提供 Placeholder 支持
-+ [prefixfree](https://github.com/LeaVerou/prefixfree): 自动为 CSS 添加 Vender Prefix，把你从不停添加浏览器前缀的噩梦中解放出来
 + [accessible-html5-video-player](https://github.com/paypal/accessible-html5-video-player): Paypal 出品的 Video 播放器
 + [loading](https://github.com/jxnblk/loading): 几种 Loading 效果，基于 SVG
 + [flippant.js](https://github.com/mintchaos/flippant.js): 一款能够漂亮的网页元素翻转效果库，代码许久不更新，不过作为源码学习还是不错的
@@ -216,6 +228,7 @@
 + [Hover](https://github.com/IanLunn/Hover): 基于 CSS3 的各种 鼠标悬停(hover)特效, [点击查看效果](http://ianlunn.github.io/Hover/)
 + [normalize.css](https://github.com/necolas/normalize.css): 一个用于重置浏览器内置样式的库
 + [Skeleton](https://github.com/dhg/Skeleton): 一个 CSS 相关的库，用于构建对手机友好的网站
++ [pure](https://github.com/yahoo/pure): Yahoo 出品的前端样式框架, 支持响应式
 
 #### ICON
 
@@ -643,6 +656,7 @@
 + [frontend-stuff](https://github.com/moklick/frontend-stuff): 前端相关的各种资源, JS 内容居多
 + [awesome-swift)](https://github.com/matteocrippa/awesome-swift): Swift 资源整合
 + [awesome-react](https://github.com/enaqx/awesome-react): React 资源整合
++ [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo): 一系列前端性能优化集合
 
 #### 前端
 

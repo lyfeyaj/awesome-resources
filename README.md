@@ -108,6 +108,8 @@
 + [jquery-qrcode](https://github.com/jeromeetienne/jquery-qrcode): jQuery 插件，用来生成二维码
 + [Wookmark-jQuery](https://github.com/GBKS/Wookmark-jQuery): jQuery 的一个插件，可以用来实现瀑布流的效果
 + [isotope](https://github.com/metafizzy/isotope): 可以用来过滤、排列布局，实现美观的动态布局切换效果，[Demo](http://isotope.metafizzy.co/)
++ [panelslider](https://github.com/eduardomb/jquery-panelslider): jQuery 插件，网页两侧滑菜单
++ [TableOfContents](https://github.com/Dongss/TableOfContents) : jQuery 插件，自动生成目录，支持中文标题生成目录
 
 ###### HTML5 相关
 

@@ -7,71 +7,8 @@
 
 喜欢么？或者对您有用？那就 Star 一下吧 ^_^
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+[TOC]
 
-- [Web 前端](#web-前端)
-    - [Javascript](#javascript)
-        - [Polyfills](#polyfills)
-        - [HTML5 相关](#html5-相关)
-        - [AngularJS](#angularjs)
-        - [React](#react)
-    - [CSS](#css)
-    - [ICON](#icon)
-- [Web 后端](#web-后端)
-    - [Ruby](#ruby)
-    - [Python](#python)
-    - [Node.js](#nodejs)
-        - [Express](#express)
-    - [Erlang](#erlang)
-    - [Java](#java)
-    - [C/C++](#cc)
-    - [Go](#go)
-    - [Lua](#lua)
-- [IOS 或 OSX](#ios-或-osx)
-- [Android](#android)
-- [代码效率](#代码效率)
-    - [CoffeeScript](#coffeescript)
-    - [TypeScript](#typescript)
-    - [Sublime Text](#sublime-text)
-- [云计算](#云计算)
-    - [Docker](#docker)
-    - [OS](#os)
-- [开源产品(论坛、在线教育、项目管理等)](#开源产品论坛、在线教育、项目管理等)
-- [代码规范&设计模式](#代码规范&设计模式)
-    - [Ruby](#ruby-1)
-        - [Rails](#rails)
-    - [Javascript](#javascript-1)
-        - [AngularJS](#angularjs-1)
-    - [Java](#java-1)
-        - [Android](#android-1)
-    - [Bash](#bash)
-    - [Objective-C](#objective-c)
-        - [IOS](#ios)
-    - [Swift](#swift)
-- [数据库](#数据库)
-- [博客 / 网站](#博客--网站)
-    - [设计](#设计)
-    - [技术](#技术)
-- [书籍 / 阅读 / 学习](#书籍--阅读--学习)
-    - [Awesome 系列](#awesome-系列)
-    - [前端](#前端)
-        - [Web](#web)
-        - [IOS](#ios-1)
-        - [Android](#android-2)
-    - [后端](#后端)
-        - [Node.js](#nodejs-1)
-        - [Ruby](#ruby-2)
-        - [PHP](#php)
-        - [Go](#go-1)
-        - [接口](#接口)
-    - [算法 & 论文](#算法-&-论文)
-    - [其他](#其他)
-- [科学上网](#科学上网)
-- [Git 相关](#git-相关)
-- [其他](#其他-1)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Web 前端
 
@@ -235,12 +172,13 @@
 + [icono](https://github.com/saeedalipoor/icono): 一款用纯 CSS 实现的图标库
 + [material-design-icons](https://github.com/google/material-design-icons): Google 为 Material Design 出品的 ICON
 
+
 ## Web 后端
 
 #### Ruby
 
 + [ruby](https://github.com/ruby/ruby): Ruby 源代码
-+ [spyke](https://github.com/balvig/spyke): 像使用 ActiveRecord 一样使用 RESTful API 
++ [spyke](https://github.com/balvig/spyke): 像使用 ActiveRecord 一样使用 RESTful API
 + [reactive_record](https://github.com/twopoint718/reactive_record): 根据 ActiveRecord 的 数据库 Schema 来反向生成 Model
 + [eventmachine](https://github.com/eventmachine/eventmachine): Ruby 中著名的事件驱动库
 + [faker](https://github.com/stympy/faker): Perl 的 Data::Faker 库的一个 Ruby 实现，用于虚拟各种类型的数据
@@ -443,6 +381,7 @@
 
 + [lua-nginx-module](https://github.com/openresty/lua-nginx-module): 一个 Nginx 组件包, 可以使用 Lua 来开发 Nginx 插件, 将之变成一个全功能的 Web 应用服务器
 
+
 ## IOS 或 OSX
 
 + [Harpy](https://github.com/ArtSabintsev/Harpy): 用于检测应用更新
@@ -493,6 +432,7 @@
 + [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP): Swift 的 HTTP 封装
 + [VKVideoPlayer](https://github.com/viki-org/VKVideoPlayer): 方便高度自定义视频播放器的库
 
+
 ## Android
 
 + [Slidr](https://github.com/r0adkll/Slidr): 一个用于给 Activity 添加滑动消隐效果的库
@@ -504,6 +444,7 @@
 + [picasso](https://github.com/square/picasso): 一款用于下载并缓存图片的库
 + [ArcAnimator](https://github.com/asyl/ArcAnimator): 实现 ARC 动画的库
 + [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart): 强大的图表工具
+
 
 ## 代码效率
 
@@ -527,6 +468,7 @@
 + [CTags](https://github.com/SublimeText/CTags/): Sublime Text Ctags 支持插件, 需要安装 ctags
 + [sublime-react](https://github.com/reactjs/sublime-react): React 代码高亮
 
+
 ## 云计算
 
 #### Docker
@@ -538,6 +480,7 @@
 
 + [linux](https://github.com/torvalds/linux): linux 源码，Linus 大神之作，只能膜拜了
 + [smartos-live](https://github.com/joyent/smartos-live): Joyent 出品的用于云平台的智能 OS
+
 
 ## 开源产品(论坛、在线教育、项目管理等)
 
@@ -559,6 +502,7 @@
 + [dokku](https://github.com/progrium/dokku): 基于 Docker 的 Mini-Heroku, 最小型的 PAAS 实现
 + [VLC](https://github.com/videolan/vlc): VLC 视频播放器源代码
 + [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native): HackerNews 基于 React Native 实现
+
 
 ## 代码规范&设计模式
 
@@ -603,6 +547,7 @@
 
 + [swift-style-guide](https://github.com/raywenderlich/swift-style-guide): Swift 代码编写规范
 
+
 ## 数据库
 
 + [postgrest](https://github.com/begriffs/postgrest): PostgreSQL 的 RESTful API
@@ -611,6 +556,7 @@
 + [nedb](https://github.com/louischatriot/nedb): 纯 Javascript 实现，类 MongoDB 的内存型数据库，API 基本和 MongoDB相同，可选同步写入磁盘，小项目数据不太多时性能很强乃至超过MongoDB
 + [TokuMX MongoDB](https://github.com/Tokutek/mongo): TokuMX 版的 MongoDB, MongoDB 的一个分支，支持更快的写速度，完整的事务支持等
 + [sequelpro](https://github.com/sequelpro/sequelpro): Mac OSX 的 MySQL 数据库管理软件
+
 
 ## 博客 / 网站
 
@@ -636,6 +582,7 @@
 + [cnodejs](https://cnodejs.org/): 国内最大最火 Node.js 社区
 + [ruby-china](https://ruby-china.org/): 国内最大最火 Ruby 社区
 + [angularjs](http://angularjs.cn/): Angularjs 的国内中文社区
+
 
 ## 书籍 / 阅读 / 学习
 
@@ -733,6 +680,7 @@
 + [Wait but Why?](http://waitbutwhy.com/): 非常有意思的一个网站, 会有一些有趣的观点和文章
 + [ideas](https://github.com/samsquire/ideas): 有趣的想法, 更多是一个作者对于编程/软件/工具 的思考和整理
 
+
 ## 科学上网
 
 + [ShadowVPN](https://github.com/clowwindy/ShadowVPN): 科学上网之 VPN
@@ -743,13 +691,15 @@
 + [Google-IPs](https://github.com/justjavac/Google-IPs): Google 全球 IP 地址库
 + [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts): 一次性删除所有 CNNIC 证书的工具
 
+
 ## Git 相关
 
-+ [gitolite](https://github.com/sitaramc/gitolite): 用于构建 Git 服务器 
-+ [lolcommits](https://github.com/mroth/lolcommits): 给自己的 git commit 
++ [gitolite](https://github.com/sitaramc/gitolite): 用于构建 Git 服务器
++ [lolcommits](https://github.com/mroth/lolcommits): 给自己的 git commit
 + [scm_breeze](https://github.com/ndbroadbent/scm_breeze): Git 流程的辅助简化工具
 + [gitlet](https://github.com/maryrosecook/gitlet): Javascript 实现的 Git
 + [js-git](https://github.com/creationix/js-git): Git 的 Javascript 实现
+
 
 ## 其他
 
@@ -760,3 +710,5 @@
 加一张杀马特的照片
 + [github-awesome-autocomplete](https://github.com/algolia/github-awesome-autocomplete): Github 的浏览器插件, 用于辅助搜索, 更加人性化的搜索结果
 + [dotenv](https://github.com/bkeepers/dotenv): 用于配置本地环境, 可以为不同的文件夹设置不同的环境
+
+

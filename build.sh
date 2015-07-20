@@ -5,7 +5,7 @@ BASE_PATH=$(pwd);
 ZH_CN_README="$BASE_PATH/README.md"
 EN_README="$BASE_PATH/README.en.md"
 
-# Empty Readme files
+# Remove Readme files
 rm "$ZH_CN_README"
 rm "$EN_README"
 

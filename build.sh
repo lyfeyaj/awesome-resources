@@ -19,6 +19,11 @@ for file in ./docs/zh-CN/*.md; do
   echo '\n' >> "$ZH_CN_README";
 done;
 
+pretty_doc
+
+mv README.html index.html
+mv README.en.html index.en.html
+
 sed -i "" "s/{:.no_toc}//g" README.md
 sed -i "" "s/+ toc-list/<!-- START doctoc -->/g" README.md
 sed -i "" "s/{:toc}/<!-- END doctoc -->/g" README.md

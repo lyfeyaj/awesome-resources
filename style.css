@@ -1,9 +1,607 @@
-/* line 1, ../../templates/parallel/style.scss */
+/* normalize-scss 3.0.2+normalize.3.0.2 | MIT/GPLv2 License | bit.ly/normalize-scss */
+/**
+ * Establish a vertical rhythm unit using $base-font-size, $base-line-height,
+ * and $rhythm-unit variables. Also, correct text resizing oddly in IE 6/7 when
+ * body `font-size` is set using `em` units.
+ */
+/* line 106, ../../../compass-core-1.0.3/stylesheets/compass/typography/_vertical_rhythm.scss */
+html {
+  font-size: 100%;
+  line-height: 1.5em;
+}
+
+/**
+ * 1. Set default font family to sans-serif.
+ * 2. Prevent iOS text size adjust after orientation change, without disabling
+ *    user zoom.
+ */
+/* line 67, ../../templates/parallel/_normalize.scss */
+html {
+  font-family: sans-serif;
+  /* 1 */
+  -ms-text-size-adjust: 100%;
+  /* 2 */
+  -webkit-text-size-adjust: 100%;
+  /* 2 */
+}
+
+/**
+ * Remove default margin.
+ */
+/* line 79, ../../templates/parallel/_normalize.scss */
+body {
+  margin: 0;
+}
+
+/* HTML5 display definitions
+   ========================================================================== */
+/**
+ * Correct `block` display not defined for any HTML5 element in IE 8/9.
+ * Correct `block` display not defined for `details` or `summary` in IE 10/11
+ * and Firefox.
+ * Correct `block` display not defined for `main` in IE 11.
+ */
+/* line 93, ../../templates/parallel/_normalize.scss */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+section,
+summary {
+  display: block;
+}
+
+/**
+ * 1. Correct `inline-block` display not defined in IE 8/9.
+ * 2. Normalize vertical alignment of `progress` in Chrome, Firefox, and Opera.
+ */
+/* line 114, ../../templates/parallel/_normalize.scss */
+audio,
+canvas,
+progress,
+video {
+  display: inline-block;
+  /* 1 */
+  *display: inline;
+  *zoom: 1;
+  vertical-align: baseline;
+  /* 2 */
+}
+
+/**
+ * Prevent modern browsers from displaying `audio` without controls.
+ * Remove excess height in iOS 5 devices.
+ */
+/* line 133, ../../templates/parallel/_normalize.scss */
+audio:not([controls]) {
+  display: none;
+  height: 0;
+}
+
+/**
+ * Address `[hidden]` styling not present in IE 8/9/10.
+ */
+/* line 143, ../../templates/parallel/_normalize.scss */
+[hidden] {
+  display: none;
+}
+
+/**
+ * Hide the `template` element in IE 8/9/11, Safari, and Firefox < 22.
+ */
+/* line 152, ../../templates/parallel/_normalize.scss */
+template {
+  display: none;
+}
+
+/* Links
+   ========================================================================== */
+/**
+ * Remove the gray background color from active links in IE 10.
+ */
+/* line 164, ../../templates/parallel/_normalize.scss */
+a {
+  background-color: transparent;
+}
+
+/**
+ * Improve readability when focused and also mouse hovered in all browsers.
+ */
+/* line 173, ../../templates/parallel/_normalize.scss */
+a:active,
+a:hover {
+  outline: 0;
+}
+
+/* Text-level semantics
+   ========================================================================== */
+/**
+ * Address styling not present in IE 8/9/10/11, Safari, and Chrome.
+ */
+/* line 185, ../../templates/parallel/_normalize.scss */
+abbr[title] {
+  border-bottom: 1px dotted;
+}
+
+/**
+ * Address style set to `bolder` in Firefox 4+, Safari, and Chrome.
+ */
+/* line 193, ../../templates/parallel/_normalize.scss */
+b,
+strong {
+  font-weight: bold;
+}
+
+/**
+ * Set 1 unit of vertical rhythm on the top and bottom margin.
+ */
+/* line 203, ../../templates/parallel/_normalize.scss */
+blockquote {
+  margin: 1.5em 40px;
+}
+
+/**
+ * Address styling not present in Safari and Chrome.
+ */
+/* line 212, ../../templates/parallel/_normalize.scss */
+dfn {
+  font-style: italic;
+}
+
+/**
+ * Address variable `h1` font-size and margin within `section` and `article`
+ * contexts in Firefox 4+, Safari, and Chrome.
+ */
+/* line 221, ../../templates/parallel/_normalize.scss */
+h1 {
+  /* Set the font-size and line-height while keeping a proper vertical rhythm. */
+  font-size: 2em;
+  line-height: 1.5em;
+  /* Set 1 unit of vertical rhythm on the top and bottom margins. */
+  margin-top: 0.75em;
+  margin-bottom: 0.75em;
+}
+
+/* line 236, ../../templates/parallel/_normalize.scss */
+h2 {
+  font-size: 1.5em;
+  line-height: 2em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+/* line 242, ../../templates/parallel/_normalize.scss */
+h3 {
+  font-size: 1.17em;
+  line-height: 1.28205em;
+  margin-top: 1.28205em;
+  margin-bottom: 1.28205em;
+}
+
+/* line 248, ../../templates/parallel/_normalize.scss */
+h4 {
+  font-size: 1em;
+  line-height: 1.5em;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+/* line 254, ../../templates/parallel/_normalize.scss */
+h5 {
+  font-size: 0.83em;
+  line-height: 1.80723em;
+  margin-top: 1.80723em;
+  margin-bottom: 1.80723em;
+}
+
+/* line 260, ../../templates/parallel/_normalize.scss */
+h6 {
+  font-size: 0.67em;
+  line-height: 2.23881em;
+  margin-top: 2.23881em;
+  margin-bottom: 2.23881em;
+}
+
+/**
+ * Address styling not present in IE 8/9.
+ */
+/* line 272, ../../templates/parallel/_normalize.scss */
+mark {
+  background: #ff0;
+  color: #000;
+}
+
+/**
+ * Set 1 unit of vertical rhythm on the top and bottom margin.
+ */
+/* line 283, ../../templates/parallel/_normalize.scss */
+p,
+pre {
+  margin: 1.5em 0;
+}
+
+/**
+ * Address inconsistent and variable font size in all browsers.
+ */
+/* line 293, ../../templates/parallel/_normalize.scss */
+small {
+  font-size: 80%;
+}
+
+/**
+ * Prevent `sub` and `sup` affecting `line-height` in all browsers.
+ */
+/* line 301, ../../templates/parallel/_normalize.scss */
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+/* line 309, ../../templates/parallel/_normalize.scss */
+sup {
+  top: -0.5em;
+}
+
+/* line 313, ../../templates/parallel/_normalize.scss */
+sub {
+  bottom: -0.25em;
+}
+
+/* Lists
+   ========================================================================== */
+/**
+ * Address margins set differently in IE 6/7.
+ */
+/* line 325, ../../templates/parallel/_normalize.scss */
+dl,
+menu,
+ol,
+ul {
+  margin: 1.5em 0;
+}
+
+/* line 346, ../../templates/parallel/_normalize.scss */
+dd {
+  margin: 0 0 0 40px;
+}
+
+/**
+ * Address paddings set differently in IE 6/7.
+ */
+/* line 354, ../../templates/parallel/_normalize.scss */
+menu,
+ol,
+ul {
+  padding: 0 0 0 40px;
+}
+
+/**
+ * Correct list images handled incorrectly in IE 7.
+ */
+/* line 366, ../../templates/parallel/_normalize.scss */
+nav ul,
+nav ol {
+  list-style: none;
+  list-style-image: none;
+}
+
+/* Embedded content
+   ========================================================================== */
+/**
+ * Remove border when inside `a` element in IE 8/9/10.
+ */
+/* line 381, ../../templates/parallel/_normalize.scss */
+img {
+  border: 0;
+  /* Improve image quality when scaled in IE 7. */
+  -ms-interpolation-mode: bicubic;
+}
+
+/**
+ * Correct overflow not hidden in IE 9/10/11.
+ */
+/* line 394, ../../templates/parallel/_normalize.scss */
+svg:not(:root) {
+  overflow: hidden;
+}
+
+/* Grouping content
+   ========================================================================== */
+/**
+ * Address margin not present in IE 8/9 and Safari.
+ */
+/* line 406, ../../templates/parallel/_normalize.scss */
+figure {
+  margin: 1.5em 40px;
+}
+
+/**
+ * Address differences between Firefox and other browsers.
+ */
+/* line 415, ../../templates/parallel/_normalize.scss */
+hr {
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0;
+}
+
+/**
+ * Contain overflow in all browsers.
+ */
+/* line 424, ../../templates/parallel/_normalize.scss */
+pre {
+  overflow: auto;
+}
+
+/**
+ * Address odd `em`-unit font size rendering in all browsers.
+ */
+/* line 432, ../../templates/parallel/_normalize.scss */
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+
+/* Forms
+   ========================================================================== */
+/**
+ * Known limitation: by default, Chrome and Safari on OS X allow very limited
+ * styling of `select`, unless a `border` property is set.
+ */
+/**
+ * Correct margin displayed oddly in IE 6/7.
+ */
+/* line 456, ../../templates/parallel/_normalize.scss */
+form {
+  margin: 0;
+}
+
+/**
+ * 1. Correct color not being inherited.
+ *    Known issue: affects color of disabled elements.
+ * 2. Correct font properties not being inherited.
+ * 3. Address margins set differently in Firefox 4+, Safari, and Chrome.
+ * 4. Address `font-family` inconsistency between `textarea` and other form in IE 7
+ * 5. Improve appearance and consistency with IE 6/7.
+ */
+/* line 470, ../../templates/parallel/_normalize.scss */
+button,
+input,
+optgroup,
+select,
+textarea {
+  color: inherit;
+  /* 1 */
+  font: inherit;
+  /* 2 */
+  margin: 0;
+  /* 3 */
+  *font-family: sans-serif;
+  /* 4 */
+  *vertical-align: middle;
+  /* 5 */
+}
+
+/**
+ * Address `overflow` set to `hidden` in IE 8/9/10/11.
+ */
+/* line 488, ../../templates/parallel/_normalize.scss */
+button {
+  overflow: visible;
+}
+
+/**
+ * Address inconsistent `text-transform` inheritance for `button` and `select`.
+ * All other form control elements do not inherit `text-transform` values.
+ * Correct `button` style inheritance in Firefox, IE 8/9/10/11, and Opera.
+ * Correct `select` style inheritance in Firefox.
+ */
+/* line 499, ../../templates/parallel/_normalize.scss */
+button,
+select {
+  text-transform: none;
+}
+
+/**
+ * 1. Avoid the WebKit bug in Android 4.0.* where (2) destroys native `audio`
+ *    and `video` controls.
+ * 2. Correct inability to style clickable `input` types in iOS.
+ * 3. Improve usability and consistency of cursor style between image-type
+ *    `input` and others.
+ * 4. Remove inner spacing in IE 7 without affecting normal text inputs.
+ *    Known issue: inner spacing remains in IE 6.
+ */
+/* line 514, ../../templates/parallel/_normalize.scss */
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  -webkit-appearance: button;
+  /* 2 */
+  cursor: pointer;
+  /* 3 */
+  *overflow: visible;
+  /* 4 */
+}
+
+/**
+ * Re-set default cursor for disabled elements.
+ */
+/* line 529, ../../templates/parallel/_normalize.scss */
+button[disabled],
+html input[disabled] {
+  cursor: default;
+}
+
+/**
+ * Remove inner padding and border in Firefox 4+.
+ */
+/* line 538, ../../templates/parallel/_normalize.scss */
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+
+/**
+ * Address Firefox 4+ setting `line-height` on `input` using `!important` in
+ * the UA stylesheet.
+ */
+/* line 549, ../../templates/parallel/_normalize.scss */
+input {
+  line-height: normal;
+}
+
+/**
+ * It's recommended that you don't attempt to style these elements.
+ * Firefox's implementation doesn't respect box-sizing, padding, or width.
+ *
+ * 1. Address box sizing set to `content-box` in IE 8/9/10.
+ * 2. Remove excess padding in IE 8/9/10.
+ * 3. Remove excess padding in IE 7.
+ *    Known issue: excess padding remains in IE 6.
+ */
+/* line 564, ../../templates/parallel/_normalize.scss */
+input[type="checkbox"],
+input[type="radio"] {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  /* 1 */
+  padding: 0;
+  /* 2 */
+  *height: 13px;
+  /* 3 */
+  *width: 13px;
+  /* 3 */
+}
+
+/**
+ * Fix the cursor style for Chrome's increment/decrement buttons. For certain
+ * `font-size` values of the `input`, it causes the cursor style of the
+ * decrement button to change from `default` to `text`.
+ */
+/* line 581, ../../templates/parallel/_normalize.scss */
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  height: auto;
+}
+
+/**
+ * 1. Address `appearance` set to `searchfield` in Safari and Chrome.
+ * 2. Address `box-sizing` set to `border-box` in Safari and Chrome
+ *    (include `-moz` to future-proof).
+ */
+/* line 592, ../../templates/parallel/_normalize.scss */
+input[type="search"] {
+  -webkit-appearance: textfield;
+  /* 1 */
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
+  /* 2 */
+  /**
+   * Remove inner padding and search cancel button in Safari and Chrome on OS X.
+   * Safari (but not Chrome) clips the cancel button when the search input has
+   * padding (and `textfield` appearance).
+   */
+}
+/* line 602, ../../templates/parallel/_normalize.scss */
+input[type="search"]::-webkit-search-cancel-button, input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+/**
+ * Define consistent border, margin, and padding.
+ */
+/* line 612, ../../templates/parallel/_normalize.scss */
+fieldset {
+  margin: 0 2px;
+  /* Apply borders and padding that keep the vertical rhythm. */
+  border-color: #c0c0c0;
+  border-top-width: 0.0625em;
+  border-top-style: solid;
+  padding-top: 0.4625em;
+  border-bottom-width: 0.0625em;
+  border-bottom-style: solid;
+  padding-bottom: 0.9125em;
+  border-left-width: 0.0625em;
+  border-left-style: solid;
+  padding-left: 0.875em;
+  border-right-width: 0.0625em;
+  border-right-style: solid;
+  padding-right: 0.875em;
+}
+
+/**
+ * 1. Correct `color` not being inherited in IE 8/9/10/11.
+ * 2. Remove padding so people aren't caught out if they zero out fieldsets.
+ * 3. Correct alignment displayed oddly in IE 6/7.
+ */
+/* line 628, ../../templates/parallel/_normalize.scss */
+legend {
+  border: 0;
+  /* 1 */
+  padding: 0;
+  /* 2 */
+  *margin-left: -7px;
+  /* 3 */
+}
+
+/**
+ * Remove default vertical scrollbar in IE 8/9/10/11.
+ */
+/* line 642, ../../templates/parallel/_normalize.scss */
+textarea {
+  overflow: auto;
+}
+
+/**
+ * Don't inherit the `font-weight` (applied by a rule above).
+ * NOTE: the default cannot safely be changed in Chrome and Safari on OS X.
+ */
+/* line 651, ../../templates/parallel/_normalize.scss */
+optgroup {
+  font-weight: bold;
+}
+
+/* Tables
+   ========================================================================== */
+/**
+ * Remove most spacing between table cells.
+ */
+/* line 662, ../../templates/parallel/_normalize.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 667, ../../templates/parallel/_normalize.scss */
+td,
+th {
+  padding: 0;
+}
+
+/* line 4, ../../templates/parallel/style.scss */
 html {
   height: 100%;
 }
 
-/* line 2, ../../templates/parallel/style.scss */
+/* line 5, ../../templates/parallel/style.scss */
 body {
   font-family: Menlo, Consolas, Monaco, monospace;
   font-size: 14px;
@@ -15,7 +613,7 @@ body {
   overflow: hidden;
 }
 
-/* line 12, ../../templates/parallel/style.scss */
+/* line 15, ../../templates/parallel/style.scss */
 #container {
   position: absolute;
   display: block;
@@ -23,44 +621,89 @@ body {
   overflow-y: auto;
 }
 
-/* line 19, ../../templates/parallel/style.scss */
+/* line 22, ../../templates/parallel/style.scss */
+.highlight {
+  width: 96%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: inline-block;
+  overflow: hidden;
+}
+/* line 29, ../../templates/parallel/style.scss */
+.highlight table {
+  width: 100%;
+  overflow-x: auto;
+  display: block;
+  table-layout: fixed;
+}
+/* line 35, ../../templates/parallel/style.scss */
+.highlight table tbody {
+  width: 100%;
+}
+/* line 38, ../../templates/parallel/style.scss */
+.highlight table tbody tr {
+  width: 100%;
+}
+/* line 41, ../../templates/parallel/style.scss */
+.highlight table tbody tr td {
+  -moz-box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1);
+  -webkit-box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1);
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 7px 10px;
+  background: #fcfcfc;
+}
+/* line 49, ../../templates/parallel/style.scss */
+.highlight table tbody tr .lines {
+  width: 5%;
+  text-align: right;
+}
+/* line 55, ../../templates/parallel/style.scss */
+.highlight table tbody tr pre {
+  width: 100%;
+}
+/* line 58, ../../templates/parallel/style.scss */
+.highlight table tbody tr pre code {
+  width: 100%;
+}
+
+/* line 68, ../../templates/parallel/style.scss */
 li {
   list-style: none;
 }
 
-/* line 23, ../../templates/parallel/style.scss */
+/* line 72, ../../templates/parallel/style.scss */
 a {
   text-decoration: none;
   color: #4484C2;
 }
-/* line 27, ../../templates/parallel/style.scss */
+/* line 76, ../../templates/parallel/style.scss */
 a:hover {
   color: #48D848;
 }
 
-/* line 32, ../../templates/parallel/style.scss */
+/* line 81, ../../templates/parallel/style.scss */
 b, strong {
   font-weight: normal;
 }
 
-/* line 36, ../../templates/parallel/style.scss */
+/* line 85, ../../templates/parallel/style.scss */
 p {
   margin: 15px 0 0px;
 }
 
-/* line 39, ../../templates/parallel/style.scss */
+/* line 88, ../../templates/parallel/style.scss */
 .annotation ul, .annotation ol {
   margin: 25px 0;
 }
 
-/* line 42, ../../templates/parallel/style.scss */
+/* line 91, ../../templates/parallel/style.scss */
 .annotation ul li, .annotation ol li {
   font-size: 14px;
   line-height: 18px;
   margin: 10px 0;
 }
 
-/* line 48, ../../templates/parallel/style.scss */
+/* line 97, ../../templates/parallel/style.scss */
 h1, h2, h3, h4, h5, h6 {
   padding-top: 10px;
   color: #112233;
@@ -70,39 +713,39 @@ h1, h2, h3, h4, h5, h6 {
   margin: 30px 0 15px 0;
 }
 
-/* line 59, ../../templates/parallel/style.scss */
+/* line 108, ../../templates/parallel/style.scss */
 h1 {
   margin-top: 40px;
   margin-bottom: 40px;
   font-size: 1.54em;
 }
 
-/* line 65, ../../templates/parallel/style.scss */
+/* line 114, ../../templates/parallel/style.scss */
 h2 {
   font-size: 1.4em;
 }
 
-/* line 69, ../../templates/parallel/style.scss */
+/* line 118, ../../templates/parallel/style.scss */
 h3 {
   font-size: 1.26em;
 }
 
-/* line 73, ../../templates/parallel/style.scss */
+/* line 122, ../../templates/parallel/style.scss */
 h4 {
   font-size: 1.12em;
 }
 
-/* line 77, ../../templates/parallel/style.scss */
+/* line 126, ../../templates/parallel/style.scss */
 h5 {
   font-size: 0.98em;
 }
 
-/* line 81, ../../templates/parallel/style.scss */
+/* line 130, ../../templates/parallel/style.scss */
 h6 {
   font-size: 0.84em;
 }
 
-/* line 85, ../../templates/parallel/style.scss */
+/* line 134, ../../templates/parallel/style.scss */
 hr {
   border: 0;
   background: 1px #ddd;
@@ -110,42 +753,37 @@ hr {
   margin: 20px 0;
 }
 
-/* line 92, ../../templates/parallel/style.scss */
+/* line 141, ../../templates/parallel/style.scss */
 pre, tt, code {
   font-size: 12px;
   line-height: 16px;
   margin: 0;
   padding: 0;
-  overflow-x: auto;
 }
 
-/* line 97, ../../templates/parallel/style.scss */
-.annotation pre {
+/* line 146, ../../templates/parallel/style.scss */
+pre {
   display: block;
   margin: 0;
-  padding: 7px 10px;
-  background: #fcfcfc;
-  -moz-box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1);
-  -webkit-box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1);
-  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1);
-  overflow-x: auto;
+  padding: 4px;
 }
-
-/* line 107, ../../templates/parallel/style.scss */
-.annotation pre code {
+/* line 151, ../../templates/parallel/style.scss */
+pre code {
   border: 0;
   padding: 0;
   background: transparent;
+  display: block;
+  color: #000;
 }
 
-/* line 114, ../../templates/parallel/style.scss */
+/* line 160, ../../templates/parallel/style.scss */
 blockquote {
   border-left: 5px solid #ccc;
   margin: 0;
   padding: 1px 0 1px 1em;
 }
 
-/* line 119, ../../templates/parallel/style.scss */
+/* line 165, ../../templates/parallel/style.scss */
 .sections blockquote p {
   font-family: Menlo, Consolas, Monaco, monospace;
   font-size: 12px;
@@ -155,7 +793,7 @@ blockquote {
   white-space: pre-wrap;
 }
 
-/* line 127, ../../templates/parallel/style.scss */
+/* line 173, ../../templates/parallel/style.scss */
 ul.sections {
   list-style: none;
   padding: 0 0 5px 0;
@@ -168,7 +806,7 @@ ul.sections {
 
   More Info : http://www.quirksmode.org/css/box.html
 */
-/* line 139, ../../templates/parallel/style.scss */
+/* line 185, ../../templates/parallel/style.scss */
 ul.sections > li > div {
   -moz-box-sizing: border-box;
   /* firefox */
@@ -182,7 +820,7 @@ ul.sections > li > div {
   /* css3 */
 }
 
-/* line 147, ../../templates/parallel/style.scss */
+/* line 193, ../../templates/parallel/style.scss */
 #markdown-toc {
   z-index: 1000;
   position: fixed;
@@ -198,61 +836,74 @@ ul.sections > li > div {
   -webkit-border-bottom-left-radius: 5px;
   -moz-border-radius-bottomleft: 5px;
 }
-/* line 160, ../../templates/parallel/style.scss */
+/* line 208, ../../templates/parallel/style.scss */
 #markdown-toc li {
   list-style: none;
 }
-/* line 164, ../../templates/parallel/style.scss */
+/* line 212, ../../templates/parallel/style.scss */
 #markdown-toc a {
   color: #333;
   text-decoration: none;
 }
-/* line 167, ../../templates/parallel/style.scss */
+/* line 215, ../../templates/parallel/style.scss */
 #markdown-toc a:hover {
   font-weight: 900;
   color: black;
 }
-/* line 173, ../../templates/parallel/style.scss */
+/* line 221, ../../templates/parallel/style.scss */
 #markdown-toc a.large {
   display: none;
 }
-/* line 177, ../../templates/parallel/style.scss */
+/* line 225, ../../templates/parallel/style.scss */
 #markdown-toc a.active {
   font-weight: 900;
   color: black;
 }
-/* line 182, ../../templates/parallel/style.scss */
+/* line 230, ../../templates/parallel/style.scss */
 #markdown-toc a.small {
   font-size: 22px;
   font-weight: bold;
   color: #676767;
 }
 
-/*---------------------- Low resolutions (> 320px) ---------------------*/
-@media only screen and (min-width: 320px) {
-  /* line 192, ../../templates/parallel/style.scss */
+@media only screen and (max-width: 320px) {
+  /* line 238, ../../templates/parallel/style.scss */
   #container {
-    width: 300px;
-    left: 100px;
+    position: relative;
+    width: 100%;
+    left: 0;
   }
 
-  /* line 197, ../../templates/parallel/style.scss */
+  /* line 244, ../../templates/parallel/style.scss */
+  #markdown-toc {
+    position: relative;
+    top: 0;
+  }
+}
+/*---------------------- Low resolutions (> 320px) ---------------------*/
+@media only screen and (min-width: 320px) {
+  /* line 253, ../../templates/parallel/style.scss */
+  #container {
+    width: 100%;
+  }
+
+  /* line 257, ../../templates/parallel/style.scss */
   .pilwrap {
     display: none;
   }
 
-  /* line 199, ../../templates/parallel/style.scss */
+  /* line 259, ../../templates/parallel/style.scss */
   ul.sections > li > div {
     display: block;
     padding: 5px 10px 0 10px;
   }
 
-  /* line 204, ../../templates/parallel/style.scss */
+  /* line 264, ../../templates/parallel/style.scss */
   ul.sections > li > div.annotation ul, ul.sections > li > div.annotation ol {
     padding-left: 30px;
   }
 
-  /* line 208, ../../templates/parallel/style.scss */
+  /* line 268, ../../templates/parallel/style.scss */
   ul.sections > li > div.content {
     overflow-x: auto;
     -webkit-box-shadow: inset 0 0 5px #e5e5ee;
@@ -262,13 +913,13 @@ ul.sections > li > div {
     padding-bottom: 5px;
   }
 
-  /* line 217, ../../templates/parallel/style.scss */
+  /* line 277, ../../templates/parallel/style.scss */
   ul.sections > li > div.annotation pre {
     margin: 7px 0 7px;
     padding-left: 15px;
   }
 
-  /* line 222, ../../templates/parallel/style.scss */
+  /* line 282, ../../templates/parallel/style.scss */
   ul.sections > li > div.annotation p tt, .annotation code {
     background: #f8f8ff;
     border: 1px solid #dedede;
@@ -278,48 +929,47 @@ ul.sections > li > div {
 }
 /*----------------------  (> 481px) ---------------------*/
 @media only screen and (min-width: 481px) {
-  /* line 232, ../../templates/parallel/style.scss */
+  /* line 292, ../../templates/parallel/style.scss */
   #container {
     position: relative;
-    width: 500px;
+    width: 100%;
     left: 200px;
   }
 
-  /* line 237, ../../templates/parallel/style.scss */
+  /* line 297, ../../templates/parallel/style.scss */
   body {
     background-color: #F5F5FF;
     font-size: 15px;
     line-height: 21px;
   }
 
-  /* line 242, ../../templates/parallel/style.scss */
+  /* line 302, ../../templates/parallel/style.scss */
   pre, tt, code {
     line-height: 18px;
-    max-width: 400px;
   }
 
-  /* line 246, ../../templates/parallel/style.scss */
+  /* line 305, ../../templates/parallel/style.scss */
   p, ul, ol {
     margin: 0 0 15px;
   }
 
-  /* line 251, ../../templates/parallel/style.scss */
+  /* line 310, ../../templates/parallel/style.scss */
   #markdown-toc {
     padding: 5px 10px;
     width: 150px;
   }
 
-  /* line 255, ../../templates/parallel/style.scss */
+  /* line 314, ../../templates/parallel/style.scss */
   #markdown-toc a.large {
     display: inline-block;
   }
 
-  /* line 258, ../../templates/parallel/style.scss */
+  /* line 317, ../../templates/parallel/style.scss */
   #markdown-toc a.small {
     display: none;
   }
 
-  /* line 262, ../../templates/parallel/style.scss */
+  /* line 321, ../../templates/parallel/style.scss */
   #background {
     position: absolute;
     top: 0;
@@ -330,22 +980,22 @@ ul.sections > li > div {
     z-index: -1;
   }
 
-  /* line 271, ../../templates/parallel/style.scss */
+  /* line 330, ../../templates/parallel/style.scss */
   ul.sections > li > div.annotation ul, ul.sections > li > div.annotation ol {
     padding-left: 40px;
   }
 
-  /* line 275, ../../templates/parallel/style.scss */
+  /* line 334, ../../templates/parallel/style.scss */
   ul.sections > li {
     white-space: nowrap;
   }
 
-  /* line 279, ../../templates/parallel/style.scss */
+  /* line 338, ../../templates/parallel/style.scss */
   ul.sections > li > div {
     display: inline-block;
   }
 
-  /* line 283, ../../templates/parallel/style.scss */
+  /* line 342, ../../templates/parallel/style.scss */
   ul.sections > li > div.annotation {
     max-width: 350px;
     min-width: 350px;
@@ -357,13 +1007,13 @@ ul.sections > li > div {
     text-align: left;
   }
 
-  /* line 293, ../../templates/parallel/style.scss */
+  /* line 352, ../../templates/parallel/style.scss */
   ul.sections > li > div.annotation pre {
     margin: 15px 0 15px;
     padding-left: 15px;
   }
 
-  /* line 298, ../../templates/parallel/style.scss */
+  /* line 357, ../../templates/parallel/style.scss */
   ul.sections > li > div.content {
     padding: 13px;
     vertical-align: top;
@@ -372,13 +1022,13 @@ ul.sections > li > div {
     box-shadow: none;
   }
 
-  /* line 306, ../../templates/parallel/style.scss */
+  /* line 365, ../../templates/parallel/style.scss */
   .pilwrap {
     position: relative;
     display: inline;
   }
 
-  /* line 311, ../../templates/parallel/style.scss */
+  /* line 370, ../../templates/parallel/style.scss */
   .pilcrow {
     font: 12px Arial;
     text-decoration: none;
@@ -391,71 +1041,65 @@ ul.sections > li > div {
     -webkit-transition: opacity 0.2s linear;
   }
 
-  /* line 321, ../../templates/parallel/style.scss */
+  /* line 380, ../../templates/parallel/style.scss */
   .for-h1 .pilcrow {
     top: 47px;
   }
 
-  /* line 324, ../../templates/parallel/style.scss */
+  /* line 383, ../../templates/parallel/style.scss */
   .for-h2 .pilcrow, .for-h3 .pilcrow, .for-h4 .pilcrow {
     top: 35px;
   }
 
-  /* line 328, ../../templates/parallel/style.scss */
+  /* line 387, ../../templates/parallel/style.scss */
   ul.sections > li > div.annotation:hover .pilcrow {
     opacity: 1;
   }
 }
 /*---------------------- (> 1025px) ---------------------*/
 @media only screen and (min-width: 1025px) {
-  /* line 337, ../../templates/parallel/style.scss */
+  /* line 396, ../../templates/parallel/style.scss */
   body {
     font-size: 16px;
     line-height: 24px;
   }
 
-  /* line 342, ../../templates/parallel/style.scss */
+  /* line 401, ../../templates/parallel/style.scss */
   #container {
-    left: 400px;
-    width: 850px;
+    left: 28%;
+    width: 72%;
   }
 
-  /* line 347, ../../templates/parallel/style.scss */
+  /* line 406, ../../templates/parallel/style.scss */
   #markdown-toc {
-    width: 300px;
+    width: 24%;
   }
 
-  /* line 351, ../../templates/parallel/style.scss */
+  /* line 410, ../../templates/parallel/style.scss */
   #background {
     width: 525px;
   }
 
-  /* line 354, ../../templates/parallel/style.scss */
+  /* line 414, ../../templates/parallel/style.scss */
   ul.sections > li > div.annotation {
     max-width: 525px;
     min-width: 525px;
     padding: 10px 25px 1px 50px;
   }
 
-  /* line 359, ../../templates/parallel/style.scss */
+  /* line 419, ../../templates/parallel/style.scss */
   ul.sections > li > div.content {
     padding: 9px 15px 16px 25px;
   }
-
-  /* line 362, ../../templates/parallel/style.scss */
-  pre, tt, code {
-    max-width: 800px;
-  }
 }
 /*---------------------- Syntax Highlighting -----------------------------*/
-/* line 370, ../../templates/parallel/style.scss */
+/* line 427, ../../templates/parallel/style.scss */
 .lines td {
   background-color: #f0f0f0;
   padding-right: 10px;
 }
-/* line 374, ../../templates/parallel/style.scss */
+/* line 431, ../../templates/parallel/style.scss */
 .lines span {
-  background-color: #f0f0f0;
   padding: 0 5px 0 5px;
 }
 
@@ -464,396 +1108,388 @@ ul.sections > li > div {
 github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 
 */
-/* line 387, ../../templates/parallel/style.scss */
-pre code {
-  display: block;
-  padding: 0.5em;
-  color: #000;
-  background: #f8f8ff;
-}
-
-/* line 393, ../../templates/parallel/style.scss */
+/* line 443, ../../templates/parallel/style.scss */
 .highlight .hll {
   background-color: #ffffcc;
 }
 
-/* line 394, ../../templates/parallel/style.scss */
+/* line 444, ../../templates/parallel/style.scss */
 .highlight .c {
   color: #60a0b0;
   font-style: italic;
 }
 
 /* Comment */
-/* line 395, ../../templates/parallel/style.scss */
+/* line 445, ../../templates/parallel/style.scss */
 .highlight .err {
   border: 1px solid #FF0000;
 }
 
 /* Error */
-/* line 396, ../../templates/parallel/style.scss */
+/* line 446, ../../templates/parallel/style.scss */
 .highlight .k {
   color: #007020;
   font-weight: bold;
 }
 
 /* Keyword */
-/* line 397, ../../templates/parallel/style.scss */
+/* line 447, ../../templates/parallel/style.scss */
 .highlight .o {
   color: #666666;
 }
 
 /* Operator */
-/* line 398, ../../templates/parallel/style.scss */
+/* line 448, ../../templates/parallel/style.scss */
 .highlight .cm {
   color: #60a0b0;
   font-style: italic;
 }
 
 /* Comment.Multiline */
-/* line 399, ../../templates/parallel/style.scss */
+/* line 449, ../../templates/parallel/style.scss */
 .highlight .cp {
   color: #007020;
 }
 
 /* Comment.Preproc */
-/* line 400, ../../templates/parallel/style.scss */
+/* line 450, ../../templates/parallel/style.scss */
 .highlight .c1 {
   color: #60a0b0;
   font-style: italic;
 }
 
 /* Comment.Single */
-/* line 401, ../../templates/parallel/style.scss */
+/* line 451, ../../templates/parallel/style.scss */
 .highlight .cs {
   color: #60a0b0;
   background-color: #fff0f0;
 }
 
 /* Comment.Special */
-/* line 402, ../../templates/parallel/style.scss */
+/* line 452, ../../templates/parallel/style.scss */
 .highlight .gd {
   color: #A00000;
 }
 
 /* Generic.Deleted */
-/* line 403, ../../templates/parallel/style.scss */
+/* line 453, ../../templates/parallel/style.scss */
 .highlight .ge {
   font-style: italic;
 }
 
 /* Generic.Emph */
-/* line 404, ../../templates/parallel/style.scss */
+/* line 454, ../../templates/parallel/style.scss */
 .highlight .gr {
   color: #FF0000;
 }
 
 /* Generic.Error */
-/* line 405, ../../templates/parallel/style.scss */
+/* line 455, ../../templates/parallel/style.scss */
 .highlight .gh {
   color: #000080;
   font-weight: bold;
 }
 
 /* Generic.Heading */
-/* line 406, ../../templates/parallel/style.scss */
+/* line 456, ../../templates/parallel/style.scss */
 .highlight .gi {
   color: #00A000;
 }
 
 /* Generic.Inserted */
-/* line 407, ../../templates/parallel/style.scss */
+/* line 457, ../../templates/parallel/style.scss */
 .highlight .go {
   color: #808080;
 }
 
 /* Generic.Output */
-/* line 408, ../../templates/parallel/style.scss */
+/* line 458, ../../templates/parallel/style.scss */
 .highlight .gp {
   color: #c65d09;
   font-weight: bold;
 }
 
 /* Generic.Prompt */
-/* line 409, ../../templates/parallel/style.scss */
+/* line 459, ../../templates/parallel/style.scss */
 .highlight .gs {
   font-weight: bold;
 }
 
 /* Generic.Strong */
-/* line 410, ../../templates/parallel/style.scss */
+/* line 460, ../../templates/parallel/style.scss */
 .highlight .gu {
   color: #800080;
   font-weight: bold;
 }
 
 /* Generic.Subheading */
-/* line 411, ../../templates/parallel/style.scss */
+/* line 461, ../../templates/parallel/style.scss */
 .highlight .gt {
   color: #0040D0;
 }
 
 /* Generic.Traceback */
-/* line 412, ../../templates/parallel/style.scss */
+/* line 462, ../../templates/parallel/style.scss */
 .highlight .kc {
   color: #007020;
   font-weight: bold;
 }
 
 /* Keyword.Constant */
-/* line 413, ../../templates/parallel/style.scss */
+/* line 463, ../../templates/parallel/style.scss */
 .highlight .kd {
   color: #007020;
   font-weight: bold;
 }
 
 /* Keyword.Declaration */
-/* line 414, ../../templates/parallel/style.scss */
+/* line 464, ../../templates/parallel/style.scss */
 .highlight .kn {
   color: #007020;
   font-weight: bold;
 }
 
 /* Keyword.Namespace */
-/* line 415, ../../templates/parallel/style.scss */
+/* line 465, ../../templates/parallel/style.scss */
 .highlight .kp {
   color: #007020;
 }
 
 /* Keyword.Pseudo */
-/* line 416, ../../templates/parallel/style.scss */
+/* line 466, ../../templates/parallel/style.scss */
 .highlight .kr {
   color: #007020;
   font-weight: bold;
 }
 
 /* Keyword.Reserved */
-/* line 417, ../../templates/parallel/style.scss */
+/* line 467, ../../templates/parallel/style.scss */
 .highlight .kt {
   color: #902000;
 }
 
 /* Keyword.Type */
-/* line 418, ../../templates/parallel/style.scss */
+/* line 468, ../../templates/parallel/style.scss */
 .highlight .m {
   color: #40a070;
 }
 
 /* Literal.Number */
-/* line 419, ../../templates/parallel/style.scss */
+/* line 469, ../../templates/parallel/style.scss */
 .highlight .s {
   color: #4070a0;
 }
 
 /* Literal.String */
-/* line 420, ../../templates/parallel/style.scss */
+/* line 470, ../../templates/parallel/style.scss */
 .highlight .na {
   color: #4070a0;
 }
 
 /* Name.Attribute */
-/* line 421, ../../templates/parallel/style.scss */
+/* line 471, ../../templates/parallel/style.scss */
 .highlight .nb {
   color: #007020;
 }
 
 /* Name.Builtin */
-/* line 422, ../../templates/parallel/style.scss */
+/* line 472, ../../templates/parallel/style.scss */
 .highlight .nc {
   color: #0e84b5;
   font-weight: bold;
 }
 
 /* Name.Class */
-/* line 423, ../../templates/parallel/style.scss */
+/* line 473, ../../templates/parallel/style.scss */
 .highlight .no {
   color: #60add5;
 }
 
 /* Name.Constant */
-/* line 424, ../../templates/parallel/style.scss */
+/* line 474, ../../templates/parallel/style.scss */
 .highlight .nd {
   color: #555555;
   font-weight: bold;
 }
 
 /* Name.Decorator */
-/* line 425, ../../templates/parallel/style.scss */
+/* line 475, ../../templates/parallel/style.scss */
 .highlight .ni {
   color: #d55537;
   font-weight: bold;
 }
 
 /* Name.Entity */
-/* line 426, ../../templates/parallel/style.scss */
+/* line 476, ../../templates/parallel/style.scss */
 .highlight .ne {
   color: #007020;
 }
 
 /* Name.Exception */
-/* line 427, ../../templates/parallel/style.scss */
+/* line 477, ../../templates/parallel/style.scss */
 .highlight .nf {
   color: #06287e;
 }
 
 /* Name.Function */
-/* line 428, ../../templates/parallel/style.scss */
+/* line 478, ../../templates/parallel/style.scss */
 .highlight .nl {
   color: #002070;
   font-weight: bold;
 }
 
 /* Name.Label */
-/* line 429, ../../templates/parallel/style.scss */
+/* line 479, ../../templates/parallel/style.scss */
 .highlight .nn {
   color: #0e84b5;
   font-weight: bold;
 }
 
 /* Name.Namespace */
-/* line 430, ../../templates/parallel/style.scss */
+/* line 480, ../../templates/parallel/style.scss */
 .highlight .nt {
   color: #062873;
   font-weight: bold;
 }
 
 /* Name.Tag */
-/* line 431, ../../templates/parallel/style.scss */
+/* line 481, ../../templates/parallel/style.scss */
 .highlight .nv {
   color: #bb60d5;
 }
 
 /* Name.Variable */
-/* line 432, ../../templates/parallel/style.scss */
+/* line 482, ../../templates/parallel/style.scss */
 .highlight .ow {
   color: #007020;
   font-weight: bold;
 }
 
 /* Operator.Word */
-/* line 433, ../../templates/parallel/style.scss */
+/* line 483, ../../templates/parallel/style.scss */
 .highlight .w {
   color: #bbbbbb;
 }
 
 /* Text.Whitespace */
-/* line 434, ../../templates/parallel/style.scss */
+/* line 484, ../../templates/parallel/style.scss */
 .highlight .mf {
   color: #40a070;
 }
 
 /* Literal.Number.Float */
-/* line 435, ../../templates/parallel/style.scss */
+/* line 485, ../../templates/parallel/style.scss */
 .highlight .mh {
   color: #40a070;
 }
 
 /* Literal.Number.Hex */
-/* line 436, ../../templates/parallel/style.scss */
+/* line 486, ../../templates/parallel/style.scss */
 .highlight .mi {
   color: #40a070;
 }
 
 /* Literal.Number.Integer */
-/* line 437, ../../templates/parallel/style.scss */
+/* line 487, ../../templates/parallel/style.scss */
 .highlight .mo {
   color: #40a070;
 }
 
 /* Literal.Number.Oct */
-/* line 438, ../../templates/parallel/style.scss */
+/* line 488, ../../templates/parallel/style.scss */
 .highlight .sb {
   color: #4070a0;
 }
 
 /* Literal.String.Backtick */
-/* line 439, ../../templates/parallel/style.scss */
+/* line 489, ../../templates/parallel/style.scss */
 .highlight .sc {
   color: #4070a0;
 }
 
 /* Literal.String.Char */
-/* line 440, ../../templates/parallel/style.scss */
+/* line 490, ../../templates/parallel/style.scss */
 .highlight .sd {
   color: #4070a0;
   font-style: italic;
 }
 
 /* Literal.String.Doc */
-/* line 441, ../../templates/parallel/style.scss */
+/* line 491, ../../templates/parallel/style.scss */
 .highlight .s2 {
   color: #4070a0;
 }
 
 /* Literal.String.Double */
-/* line 442, ../../templates/parallel/style.scss */
+/* line 492, ../../templates/parallel/style.scss */
 .highlight .se {
   color: #4070a0;
   font-weight: bold;
 }
 
 /* Literal.String.Escape */
-/* line 443, ../../templates/parallel/style.scss */
+/* line 493, ../../templates/parallel/style.scss */
 .highlight .sh {
   color: #4070a0;
 }
 
 /* Literal.String.Heredoc */
-/* line 444, ../../templates/parallel/style.scss */
+/* line 494, ../../templates/parallel/style.scss */
 .highlight .si {
   color: #70a0d0;
   font-style: italic;
 }
 
 /* Literal.String.Interpol */
-/* line 445, ../../templates/parallel/style.scss */
+/* line 495, ../../templates/parallel/style.scss */
 .highlight .sx {
   color: #c65d09;
 }
 
 /* Literal.String.Other */
-/* line 446, ../../templates/parallel/style.scss */
+/* line 496, ../../templates/parallel/style.scss */
 .highlight .sr {
   color: #235388;
 }
 
 /* Literal.String.Regex */
-/* line 447, ../../templates/parallel/style.scss */
+/* line 497, ../../templates/parallel/style.scss */
 .highlight .s1 {
   color: #4070a0;
 }
 
 /* Literal.String.Single */
-/* line 448, ../../templates/parallel/style.scss */
+/* line 498, ../../templates/parallel/style.scss */
 .highlight .ss {
   color: #517918;
 }
 
 /* Literal.String.Symbol */
-/* line 449, ../../templates/parallel/style.scss */
+/* line 499, ../../templates/parallel/style.scss */
 .highlight .bp {
   color: #007020;
 }
 
 /* Name.Builtin.Pseudo */
-/* line 450, ../../templates/parallel/style.scss */
+/* line 500, ../../templates/parallel/style.scss */
 .highlight .vc {
   color: #bb60d5;
 }
 
 /* Name.Variable.Class */
-/* line 451, ../../templates/parallel/style.scss */
+/* line 501, ../../templates/parallel/style.scss */
 .highlight .vg {
   color: #bb60d5;
 }
 
 /* Name.Variable.Global */
-/* line 452, ../../templates/parallel/style.scss */
+/* line 502, ../../templates/parallel/style.scss */
 .highlight .vi {
   color: #bb60d5;
 }
 
 /* Name.Variable.Instance */
-/* line 453, ../../templates/parallel/style.scss */
+/* line 503, ../../templates/parallel/style.scss */
 .highlight .il {
   color: #40a070;
 }

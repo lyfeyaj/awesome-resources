@@ -1,9 +1,13 @@
 <!DOCTYPE html>
-<meta charset="utf-8" />
-<link rel="stylesheet" type="text/css" href="style.css" />
-
-<article>
-  <h1 class="no_toc" id="section">开发资源总结 (持续整理中)</h1>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <article id='container'>
+      <h1 class="no_toc" id="kai-fa-zi-yuan-zong-jie--chi-xu-zheng-li-zhong-">开发资源总结 (持续整理中)</h1>
 
 <blockquote>
   <p><em>就像开发一样, 这篇文档如果没有人关心和维护, 里面的内容就会变得老旧, 过时而不再具有参考价值. 所以, 我希望所有看到并喜欢这篇文档的人都来一起维护它. 放心大胆的提交 Pull Request 和 Issue 吧!!</em></p>
@@ -15,11 +19,11 @@
 
 <ul id="markdown-toc">
   <li>
-<a href="#web-" id="markdown-toc-web-">Web 前端</a>    <ul>
+<a href="#web-qian-duan-" id="markdown-toc-web-qian-duan-">Web 前端</a>    <ul>
       <li>
 <a href="#javascript" id="markdown-toc-javascript">Javascript</a>        <ul>
           <li><a href="#polyfills" id="markdown-toc-polyfills">Polyfills</a></li>
-          <li><a href="#html5-" id="markdown-toc-html5-">HTML5 相关</a></li>
+          <li><a href="#html5-xiang-guan-" id="markdown-toc-html5-xiang-guan-">HTML5 相关</a></li>
           <li><a href="#angularjs" id="markdown-toc-angularjs">AngularJS</a></li>
           <li><a href="#react" id="markdown-toc-react">React</a></li>
         </ul>
@@ -29,7 +33,7 @@
     </ul>
   </li>
   <li>
-<a href="#web--1" id="markdown-toc-web--1">Web 后端</a>    <ul>
+<a href="#web-hou-duan-" id="markdown-toc-web-hou-duan-">Web 后端</a>    <ul>
       <li><a href="#ruby" id="markdown-toc-ruby">Ruby</a></li>
       <li><a href="#python" id="markdown-toc-python">Python</a></li>
       <li>
@@ -44,24 +48,24 @@
       <li><a href="#lua" id="markdown-toc-lua">Lua</a></li>
     </ul>
   </li>
-  <li><a href="#ios--osx" id="markdown-toc-ios--osx">IOS 或 OSX</a></li>
+  <li><a href="#ios-huo--osx" id="markdown-toc-ios-huo--osx">IOS 或 OSX</a></li>
   <li><a href="#android" id="markdown-toc-android">Android</a></li>
   <li>
-<a href="#section-1" id="markdown-toc-section-1">代码效率</a>    <ul>
+<a href="#dai-ma-xiao-lu-" id="markdown-toc-dai-ma-xiao-lu-">代码效率</a>    <ul>
       <li><a href="#coffeescript" id="markdown-toc-coffeescript">CoffeeScript</a></li>
       <li><a href="#typescript" id="markdown-toc-typescript">TypeScript</a></li>
       <li><a href="#sublime-text" id="markdown-toc-sublime-text">Sublime Text</a></li>
     </ul>
   </li>
   <li>
-<a href="#section-2" id="markdown-toc-section-2">云计算</a>    <ul>
+<a href="#yun-ji-suan-" id="markdown-toc-yun-ji-suan-">云计算</a>    <ul>
       <li><a href="#docker" id="markdown-toc-docker">Docker</a></li>
       <li><a href="#os" id="markdown-toc-os">OS</a></li>
     </ul>
   </li>
-  <li><a href="#section-3" id="markdown-toc-section-3">开源产品(论坛、在线教育、项目管理等)</a></li>
+  <li><a href="#kai-yuan-chan-pin-lun-tan--zai-xian-jiao-yu--xiang-mu-guan-li-deng-" id="markdown-toc-kai-yuan-chan-pin-lun-tan--zai-xian-jiao-yu--xiang-mu-guan-li-deng-">开源产品(论坛、在线教育、项目管理等)</a></li>
   <li>
-<a href="#section-4" id="markdown-toc-section-4">代码规范&amp;设计模式</a>    <ul>
+<a href="#dai-ma-gui-fan-she-ji-mo-shi-" id="markdown-toc-dai-ma-gui-fan-she-ji-mo-shi-">代码规范&amp;设计模式</a>    <ul>
       <li>
 <a href="#ruby-1" id="markdown-toc-ruby-1">Ruby</a>        <ul>
           <li><a href="#rails" id="markdown-toc-rails">Rails</a></li>
@@ -86,42 +90,42 @@
       <li><a href="#swift" id="markdown-toc-swift">Swift</a></li>
     </ul>
   </li>
-  <li><a href="#section-5" id="markdown-toc-section-5">数据库</a></li>
+  <li><a href="#shu-ju-ku-" id="markdown-toc-shu-ju-ku-">数据库</a></li>
   <li>
-<a href="#section-6" id="markdown-toc-section-6">博客 / 网站</a>    <ul>
-      <li><a href="#section-7" id="markdown-toc-section-7">设计</a></li>
-      <li><a href="#section-8" id="markdown-toc-section-8">技术</a></li>
+<a href="#bo-ke---wang-zhan-" id="markdown-toc-bo-ke---wang-zhan-">博客 / 网站</a>    <ul>
+      <li><a href="#she-ji-" id="markdown-toc-she-ji-">设计</a></li>
+      <li><a href="#ji-zhu-" id="markdown-toc-ji-zhu-">技术</a></li>
     </ul>
   </li>
   <li>
-<a href="#section-9" id="markdown-toc-section-9">书籍 / 阅读 / 学习</a>    <ul>
-      <li><a href="#awesome-" id="markdown-toc-awesome-">Awesome 系列</a></li>
+<a href="#shu-ji---yue-du---xue-xi-" id="markdown-toc-shu-ji---yue-du---xue-xi-">书籍 / 阅读 / 学习</a>    <ul>
+      <li><a href="#awesome-xi-lie-" id="markdown-toc-awesome-xi-lie-">Awesome 系列</a></li>
       <li>
-<a href="#section-10" id="markdown-toc-section-10">前端</a>        <ul>
+<a href="#qian-duan-" id="markdown-toc-qian-duan-">前端</a>        <ul>
           <li><a href="#web" id="markdown-toc-web">Web</a></li>
           <li><a href="#ios-1" id="markdown-toc-ios-1">IOS</a></li>
           <li><a href="#android-2" id="markdown-toc-android-2">Android</a></li>
         </ul>
       </li>
       <li>
-<a href="#section-11" id="markdown-toc-section-11">后端</a>        <ul>
+<a href="#hou-duan-" id="markdown-toc-hou-duan-">后端</a>        <ul>
           <li><a href="#nodejs-1" id="markdown-toc-nodejs-1">Node.js</a></li>
           <li><a href="#ruby-2" id="markdown-toc-ruby-2">Ruby</a></li>
           <li><a href="#php" id="markdown-toc-php">PHP</a></li>
           <li><a href="#go-1" id="markdown-toc-go-1">Go</a></li>
-          <li><a href="#section-12" id="markdown-toc-section-12">接口</a></li>
+          <li><a href="#jie-kou-" id="markdown-toc-jie-kou-">接口</a></li>
         </ul>
       </li>
-      <li><a href="#section-13" id="markdown-toc-section-13">算法 &amp; 论文</a></li>
-      <li><a href="#section-14" id="markdown-toc-section-14">其他</a></li>
+      <li><a href="#suan-fa---lun-wen-" id="markdown-toc-suan-fa---lun-wen-">算法 &amp; 论文</a></li>
+      <li><a href="#qi-ta-" id="markdown-toc-qi-ta-">其他</a></li>
     </ul>
   </li>
-  <li><a href="#section-15" id="markdown-toc-section-15">科学上网</a></li>
-  <li><a href="#git-" id="markdown-toc-git-">Git 相关</a></li>
-  <li><a href="#section-16" id="markdown-toc-section-16">其他</a></li>
+  <li><a href="#ke-xue-shang-wang-" id="markdown-toc-ke-xue-shang-wang-">科学上网</a></li>
+  <li><a href="#git-xiang-guan-" id="markdown-toc-git-xiang-guan-">Git 相关</a></li>
+  <li><a href="#qi-ta--1" id="markdown-toc-qi-ta--1">其他</a></li>
 </ul>
 
-<h2 id="web-">Web 前端</h2>
+<h2 id="web-qian-duan-">Web 前端</h2>
 
 <h4 id="javascript">Javascript</h4>
 
@@ -275,7 +279,7 @@
 <a href="https://github.com/bestiejs/json3">json3</a>: 为旧浏览器添加 JSON 支持</li>
 </ul>
 
-<h6 id="html5-">HTML5 相关</h6>
+<h6 id="html5-xiang-guan-">HTML5 相关</h6>
 
 <ul>
   <li>
@@ -441,7 +445,7 @@
 <a href="https://github.com/google/material-design-icons">material-design-icons</a>: Google 为 Material Design 出品的 ICON</li>
 </ul>
 
-<h2 id="web--1">Web 后端</h2>
+<h2 id="web-hou-duan-">Web 后端</h2>
 
 <h4 id="ruby">Ruby</h4>
 
@@ -848,7 +852,7 @@
 <a href="https://github.com/openresty/lua-nginx-module">lua-nginx-module</a>: 一个 Nginx 组件包, 可以使用 Lua 来开发 Nginx 插件, 将之变成一个全功能的 Web 应用服务器</li>
 </ul>
 
-<h2 id="ios--osx">IOS 或 OSX</h2>
+<h2 id="ios-huo--osx">IOS 或 OSX</h2>
 
 <ul>
   <li>
@@ -971,7 +975,7 @@
 <a href="https://github.com/PhilJay/MPAndroidChart">MPAndroidChart</a>: 强大的图表工具</li>
 </ul>
 
-<h2 id="section-1">代码效率</h2>
+<h2 id="dai-ma-xiao-lu-">代码效率</h2>
 
 <h4 id="coffeescript">CoffeeScript</h4>
 
@@ -1010,7 +1014,7 @@
 <a href="https://github.com/reactjs/sublime-react">sublime-react</a>: React 代码高亮</li>
 </ul>
 
-<h2 id="section-2">云计算</h2>
+<h2 id="yun-ji-suan-">云计算</h2>
 
 <h4 id="docker">Docker</h4>
 
@@ -1030,7 +1034,7 @@
 <a href="https://github.com/joyent/smartos-live">smartos-live</a>: Joyent 出品的用于云平台的智能 OS</li>
 </ul>
 
-<h2 id="section-3">开源产品(论坛、在线教育、项目管理等)</h2>
+<h2 id="kai-yuan-chan-pin-lun-tan--zai-xian-jiao-yu--xiang-mu-guan-li-deng-">开源产品(论坛、在线教育、项目管理等)</h2>
 
 <ul>
   <li>
@@ -1071,7 +1075,7 @@
 <a href="https://github.com/iSimar/HackerNews-React-Native">HackerNews-React-Native</a>: HackerNews 基于 React Native 实现</li>
 </ul>
 
-<h2 id="section-4">代码规范&amp;设计模式</h2>
+<h2 id="dai-ma-gui-fan-she-ji-mo-shi-">代码规范&amp;设计模式</h2>
 
 <h4 id="ruby-1">Ruby</h4>
 
@@ -1145,7 +1149,7 @@
 <a href="https://github.com/raywenderlich/swift-style-guide">swift-style-guide</a>: Swift 代码编写规范</li>
 </ul>
 
-<h2 id="section-5">数据库</h2>
+<h2 id="shu-ju-ku-">数据库</h2>
 
 <ul>
   <li>
@@ -1162,9 +1166,9 @@
 <a href="https://github.com/sequelpro/sequelpro">sequelpro</a>: Mac OSX 的 MySQL 数据库管理软件</li>
 </ul>
 
-<h2 id="section-6">博客 / 网站</h2>
+<h2 id="bo-ke---wang-zhan-">博客 / 网站</h2>
 
-<h4 id="section-7">设计</h4>
+<h4 id="she-ji-">设计</h4>
 
 <ul>
   <li>
@@ -1183,7 +1187,7 @@
 <a href="http://www.wookmark.com/">wookmark</a>: 这上面有分享的各种各样的美图、设计等</li>
 </ul>
 
-<h4 id="section-8">技术</h4>
+<h4 id="ji-zhu-">技术</h4>
 
 <ul>
   <li>
@@ -1208,9 +1212,9 @@
 <a href="http://angularjs.cn/">angularjs</a>: Angularjs 的国内中文社区</li>
 </ul>
 
-<h2 id="section-9">书籍 / 阅读 / 学习</h2>
+<h2 id="shu-ji---yue-du---xue-xi-">书籍 / 阅读 / 学习</h2>
 
-<h4 id="awesome-">Awesome 系列</h4>
+<h4 id="awesome-xi-lie-">Awesome 系列</h4>
 
 <ul>
   <li>
@@ -1247,7 +1251,7 @@
 <a href="https://github.com/davidsonfellipe/awesome-wpo">awesome-wpo</a>: 一系列前端性能优化集合</li>
 </ul>
 
-<h4 id="section-10">前端</h4>
+<h4 id="qian-duan-">前端</h4>
 
 <h6 id="web">Web</h6>
 <ul>
@@ -1302,7 +1306,7 @@
 <a href="https://github.com/kesenhoo/android-training-course-in-chinese">android-training-course-in-chinese</a>: Google Android官方培训课程中文版</li>
 </ul>
 
-<h4 id="section-11">后端</h4>
+<h4 id="hou-duan-">后端</h4>
 
 <h6 id="nodejs-1">Node.js</h6>
 
@@ -1348,14 +1352,14 @@
 <a href="https://github.com/astaxie/build-web-application-with-golang">build-web-application-with-golang</a>: beego 作者写的关于怎么使用 Go 语言开发 web 应用的书</li>
 </ul>
 
-<h6 id="section-12">接口</h6>
+<h6 id="jie-kou-">接口</h6>
 
 <ul>
   <li>
 <a href="https://github.com/interagent/http-api-design">http-api-design</a>: 从 Heroku 接口总结出的，如何更好地设计 API 接口</li>
 </ul>
 
-<h4 id="section-13">算法 &amp; 论文</h4>
+<h4 id="suan-fa---lun-wen-">算法 &amp; 论文</h4>
 
 <ul>
   <li>
@@ -1364,7 +1368,7 @@
 <a href="https://github.com/papers-we-love/papers-we-love">papers-we-love</a>: 计算机科学学术论文的一个集合，内容丰富有深度</li>
 </ul>
 
-<h4 id="section-14">其他</h4>
+<h4 id="qi-ta-">其他</h4>
 
 <ul>
   <li>
@@ -1385,7 +1389,7 @@
 <a href="https://github.com/samsquire/ideas">ideas</a>: 有趣的想法, 更多是一个作者对于编程/软件/工具 的思考和整理</li>
 </ul>
 
-<h2 id="section-15">科学上网</h2>
+<h2 id="ke-xue-shang-wang-">科学上网</h2>
 
 <ul>
   <li>
@@ -1404,7 +1408,7 @@
 <a href="https://github.com/chengr28/RevokeChinaCerts">RevokeChinaCerts</a>: 一次性删除所有 CNNIC 证书的工具</li>
 </ul>
 
-<h2 id="git-">Git 相关</h2>
+<h2 id="git-xiang-guan-">Git 相关</h2>
 
 <ul>
   <li>
@@ -1419,7 +1423,7 @@
 <a href="https://github.com/creationix/js-git">js-git</a>: Git 的 Javascript 实现</li>
 </ul>
 
-<h2 id="section-16">其他</h2>
+<h2 id="qi-ta--1">其他</h2>
 
 <ul>
   <li>
@@ -1438,4 +1442,29 @@
 </ul>
 
 
-</article>
+    </article>
+  </body>
+  <script type="text/javascript">
+    var bodyEl = document.getElementsByTagName('body')[0];
+    var markdownToc = document.getElementById('markdown-toc');
+    bodyEl.appendChild(markdownToc);
+
+    var hash = location.hash.replace('#', '');
+
+    // Set init highlight anchor
+    if (hash) {
+      var activeAnchor = document.getElementById('markdown-toc-' + hash);
+      if (activeAnchor) {
+        activeAnchor.classList.add('active');
+      }
+    }
+
+    markdownToc.onclick = function(e) {
+      var activeAnchor = document.querySelector('a.active');
+      if (activeAnchor) {
+        activeAnchor.classList.remove('active');
+      }
+      e.target.classList.add('active')
+    }
+  </script>
+</html>

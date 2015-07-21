@@ -19,7 +19,7 @@ for file in ./docs/zh-CN/*.md; do
   echo '\n' >> "$ZH_CN_README";
 done;
 
-pretty_doc
+pretty_doc -t parallel
 
 mv README.html index.html
 mv README.en.html index.en.html

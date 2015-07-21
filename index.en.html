@@ -1,8 +1,37 @@
 <!DOCTYPE html>
-<meta charset="utf-8" />
-<link rel="stylesheet" type="text/css" href="style.css" />
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <article id='container'>
+      
 
-<article>
-  
+    </article>
+  </body>
+  <script type="text/javascript">
+    var bodyEl = document.getElementsByTagName('body')[0];
+    var markdownToc = document.getElementById('markdown-toc');
+    bodyEl.appendChild(markdownToc);
 
-</article>
+    var hash = location.hash.replace('#', '');
+
+    // Set init highlight anchor
+    if (hash) {
+      var activeAnchor = document.getElementById('markdown-toc-' + hash);
+      if (activeAnchor) {
+        activeAnchor.classList.add('active');
+      }
+    }
+
+    markdownToc.onclick = function(e) {
+      var activeAnchor = document.querySelector('a.active');
+      if (activeAnchor) {
+        activeAnchor.classList.remove('active');
+      }
+      e.target.classList.add('active')
+    }
+  </script>
+</html>

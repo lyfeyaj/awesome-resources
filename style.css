@@ -614,6 +614,16 @@ body {
 }
 
 /* line 15, ../../templates/parallel/style.scss */
+img, .thumbnail {
+  page-break-inside: avoid;
+}
+
+/* line 19, ../../templates/parallel/style.scss */
+img, video {
+  max-width: 100%;
+}
+
+/* line 23, ../../templates/parallel/style.scss */
 #container {
   position: absolute;
   display: block;
@@ -621,7 +631,7 @@ body {
   overflow-y: auto;
 }
 
-/* line 22, ../../templates/parallel/style.scss */
+/* line 30, ../../templates/parallel/style.scss */
 .highlight {
   width: 96%;
   padding-top: 10px;
@@ -629,22 +639,22 @@ body {
   display: inline-block;
   overflow: hidden;
 }
-/* line 29, ../../templates/parallel/style.scss */
+/* line 37, ../../templates/parallel/style.scss */
 .highlight table {
   width: 100%;
   overflow-x: auto;
   display: block;
   table-layout: fixed;
 }
-/* line 35, ../../templates/parallel/style.scss */
+/* line 43, ../../templates/parallel/style.scss */
 .highlight table tbody {
   width: 100%;
 }
-/* line 38, ../../templates/parallel/style.scss */
+/* line 46, ../../templates/parallel/style.scss */
 .highlight table tbody tr {
   width: 100%;
 }
-/* line 41, ../../templates/parallel/style.scss */
+/* line 49, ../../templates/parallel/style.scss */
 .highlight table tbody tr td {
   -moz-box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1);
   -webkit-box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1);
@@ -652,58 +662,58 @@ body {
   padding: 7px 10px;
   background: #fcfcfc;
 }
-/* line 49, ../../templates/parallel/style.scss */
+/* line 57, ../../templates/parallel/style.scss */
 .highlight table tbody tr .lines {
   width: 5%;
   text-align: right;
 }
-/* line 55, ../../templates/parallel/style.scss */
+/* line 63, ../../templates/parallel/style.scss */
 .highlight table tbody tr pre {
   width: 100%;
 }
-/* line 58, ../../templates/parallel/style.scss */
+/* line 66, ../../templates/parallel/style.scss */
 .highlight table tbody tr pre code {
   width: 100%;
 }
 
-/* line 68, ../../templates/parallel/style.scss */
+/* line 76, ../../templates/parallel/style.scss */
 li {
   list-style: none;
 }
 
-/* line 72, ../../templates/parallel/style.scss */
+/* line 80, ../../templates/parallel/style.scss */
 a {
   text-decoration: none;
   color: #4484C2;
 }
-/* line 76, ../../templates/parallel/style.scss */
+/* line 84, ../../templates/parallel/style.scss */
 a:hover {
   color: #48D848;
 }
 
-/* line 81, ../../templates/parallel/style.scss */
+/* line 89, ../../templates/parallel/style.scss */
 b, strong {
   font-weight: normal;
 }
 
-/* line 85, ../../templates/parallel/style.scss */
+/* line 93, ../../templates/parallel/style.scss */
 p {
   margin: 15px 0 0px;
 }
 
-/* line 88, ../../templates/parallel/style.scss */
+/* line 96, ../../templates/parallel/style.scss */
 .annotation ul, .annotation ol {
   margin: 25px 0;
 }
 
-/* line 91, ../../templates/parallel/style.scss */
+/* line 99, ../../templates/parallel/style.scss */
 .annotation ul li, .annotation ol li {
   font-size: 14px;
   line-height: 18px;
   margin: 10px 0;
 }
 
-/* line 97, ../../templates/parallel/style.scss */
+/* line 105, ../../templates/parallel/style.scss */
 h1, h2, h3, h4, h5, h6 {
   padding-top: 10px;
   color: #112233;
@@ -713,39 +723,39 @@ h1, h2, h3, h4, h5, h6 {
   margin: 30px 0 15px 0;
 }
 
-/* line 108, ../../templates/parallel/style.scss */
+/* line 116, ../../templates/parallel/style.scss */
 h1 {
   margin-top: 40px;
   margin-bottom: 40px;
   font-size: 1.54em;
 }
 
-/* line 114, ../../templates/parallel/style.scss */
+/* line 122, ../../templates/parallel/style.scss */
 h2 {
   font-size: 1.4em;
 }
 
-/* line 118, ../../templates/parallel/style.scss */
+/* line 126, ../../templates/parallel/style.scss */
 h3 {
   font-size: 1.26em;
 }
 
-/* line 122, ../../templates/parallel/style.scss */
+/* line 130, ../../templates/parallel/style.scss */
 h4 {
   font-size: 1.12em;
 }
 
-/* line 126, ../../templates/parallel/style.scss */
+/* line 134, ../../templates/parallel/style.scss */
 h5 {
   font-size: 0.98em;
 }
 
-/* line 130, ../../templates/parallel/style.scss */
+/* line 138, ../../templates/parallel/style.scss */
 h6 {
   font-size: 0.84em;
 }
 
-/* line 134, ../../templates/parallel/style.scss */
+/* line 142, ../../templates/parallel/style.scss */
 hr {
   border: 0;
   background: 1px #ddd;
@@ -753,7 +763,7 @@ hr {
   margin: 20px 0;
 }
 
-/* line 141, ../../templates/parallel/style.scss */
+/* line 149, ../../templates/parallel/style.scss */
 pre, tt, code {
   font-size: 12px;
   line-height: 16px;
@@ -761,13 +771,13 @@ pre, tt, code {
   padding: 0;
 }
 
-/* line 146, ../../templates/parallel/style.scss */
+/* line 154, ../../templates/parallel/style.scss */
 pre {
   display: block;
   margin: 0;
   padding: 4px;
 }
-/* line 151, ../../templates/parallel/style.scss */
+/* line 159, ../../templates/parallel/style.scss */
 pre code {
   border: 0;
   padding: 0;
@@ -776,14 +786,14 @@ pre code {
   color: #000;
 }
 
-/* line 160, ../../templates/parallel/style.scss */
+/* line 168, ../../templates/parallel/style.scss */
 blockquote {
   border-left: 5px solid #ccc;
   margin: 0;
   padding: 1px 0 1px 1em;
 }
 
-/* line 165, ../../templates/parallel/style.scss */
+/* line 173, ../../templates/parallel/style.scss */
 .sections blockquote p {
   font-family: Menlo, Consolas, Monaco, monospace;
   font-size: 12px;
@@ -793,7 +803,7 @@ blockquote {
   white-space: pre-wrap;
 }
 
-/* line 173, ../../templates/parallel/style.scss */
+/* line 181, ../../templates/parallel/style.scss */
 ul.sections {
   list-style: none;
   padding: 0 0 5px 0;
@@ -806,7 +816,7 @@ ul.sections {
 
   More Info : http://www.quirksmode.org/css/box.html
 */
-/* line 185, ../../templates/parallel/style.scss */
+/* line 193, ../../templates/parallel/style.scss */
 ul.sections > li > div {
   -moz-box-sizing: border-box;
   /* firefox */
@@ -820,7 +830,7 @@ ul.sections > li > div {
   /* css3 */
 }
 
-/* line 193, ../../templates/parallel/style.scss */
+/* line 201, ../../templates/parallel/style.scss */
 #markdown-toc {
   z-index: 1000;
   position: fixed;
@@ -836,30 +846,30 @@ ul.sections > li > div {
   -webkit-border-bottom-left-radius: 5px;
   -moz-border-radius-bottomleft: 5px;
 }
-/* line 208, ../../templates/parallel/style.scss */
+/* line 216, ../../templates/parallel/style.scss */
 #markdown-toc li {
   list-style: none;
 }
-/* line 212, ../../templates/parallel/style.scss */
+/* line 220, ../../templates/parallel/style.scss */
 #markdown-toc a {
   color: #333;
   text-decoration: none;
 }
-/* line 215, ../../templates/parallel/style.scss */
+/* line 223, ../../templates/parallel/style.scss */
 #markdown-toc a:hover {
   font-weight: 900;
   color: black;
 }
-/* line 221, ../../templates/parallel/style.scss */
+/* line 229, ../../templates/parallel/style.scss */
 #markdown-toc a.large {
   display: none;
 }
-/* line 225, ../../templates/parallel/style.scss */
+/* line 233, ../../templates/parallel/style.scss */
 #markdown-toc a.active {
   font-weight: 900;
   color: black;
 }
-/* line 230, ../../templates/parallel/style.scss */
+/* line 238, ../../templates/parallel/style.scss */
 #markdown-toc a.small {
   font-size: 22px;
   font-weight: bold;
@@ -867,14 +877,14 @@ ul.sections > li > div {
 }
 
 @media only screen and (max-width: 320px) {
-  /* line 238, ../../templates/parallel/style.scss */
+  /* line 246, ../../templates/parallel/style.scss */
   #container {
     position: relative;
     width: 100%;
     left: 0;
   }
 
-  /* line 244, ../../templates/parallel/style.scss */
+  /* line 252, ../../templates/parallel/style.scss */
   #markdown-toc {
     position: relative;
     top: 0;
@@ -882,28 +892,28 @@ ul.sections > li > div {
 }
 /*---------------------- Low resolutions (> 320px) ---------------------*/
 @media only screen and (min-width: 320px) {
-  /* line 253, ../../templates/parallel/style.scss */
+  /* line 261, ../../templates/parallel/style.scss */
   #container {
     width: 100%;
   }
 
-  /* line 257, ../../templates/parallel/style.scss */
+  /* line 265, ../../templates/parallel/style.scss */
   .pilwrap {
     display: none;
   }
 
-  /* line 259, ../../templates/parallel/style.scss */
+  /* line 267, ../../templates/parallel/style.scss */
   ul.sections > li > div {
     display: block;
     padding: 5px 10px 0 10px;
   }
 
-  /* line 264, ../../templates/parallel/style.scss */
+  /* line 272, ../../templates/parallel/style.scss */
   ul.sections > li > div.annotation ul, ul.sections > li > div.annotation ol {
     padding-left: 30px;
   }
 
-  /* line 268, ../../templates/parallel/style.scss */
+  /* line 276, ../../templates/parallel/style.scss */
   ul.sections > li > div.content {
     overflow-x: auto;
     -webkit-box-shadow: inset 0 0 5px #e5e5ee;
@@ -913,13 +923,13 @@ ul.sections > li > div {
     padding-bottom: 5px;
   }
 
-  /* line 277, ../../templates/parallel/style.scss */
+  /* line 285, ../../templates/parallel/style.scss */
   ul.sections > li > div.annotation pre {
     margin: 7px 0 7px;
     padding-left: 15px;
   }
 
-  /* line 282, ../../templates/parallel/style.scss */
+  /* line 290, ../../templates/parallel/style.scss */
   ul.sections > li > div.annotation p tt, .annotation code {
     background: #f8f8ff;
     border: 1px solid #dedede;
@@ -929,47 +939,47 @@ ul.sections > li > div {
 }
 /*----------------------  (> 481px) ---------------------*/
 @media only screen and (min-width: 481px) {
-  /* line 292, ../../templates/parallel/style.scss */
+  /* line 300, ../../templates/parallel/style.scss */
   #container {
     position: relative;
     width: 100%;
     left: 200px;
   }
 
-  /* line 297, ../../templates/parallel/style.scss */
+  /* line 305, ../../templates/parallel/style.scss */
   body {
     background-color: #F5F5FF;
     font-size: 15px;
     line-height: 21px;
   }
 
-  /* line 302, ../../templates/parallel/style.scss */
+  /* line 310, ../../templates/parallel/style.scss */
   pre, tt, code {
     line-height: 18px;
   }
 
-  /* line 305, ../../templates/parallel/style.scss */
+  /* line 313, ../../templates/parallel/style.scss */
   p, ul, ol {
     margin: 0 0 15px;
   }
 
-  /* line 310, ../../templates/parallel/style.scss */
+  /* line 318, ../../templates/parallel/style.scss */
   #markdown-toc {
     padding: 5px 10px;
     width: 150px;
   }
 
-  /* line 314, ../../templates/parallel/style.scss */
+  /* line 322, ../../templates/parallel/style.scss */
   #markdown-toc a.large {
     display: inline-block;
   }
 
-  /* line 317, ../../templates/parallel/style.scss */
+  /* line 325, ../../templates/parallel/style.scss */
   #markdown-toc a.small {
     display: none;
   }
 
-  /* line 321, ../../templates/parallel/style.scss */
+  /* line 329, ../../templates/parallel/style.scss */
   #background {
     position: absolute;
     top: 0;
@@ -980,22 +990,22 @@ ul.sections > li > div {
     z-index: -1;
   }
 
-  /* line 330, ../../templates/parallel/style.scss */
+  /* line 338, ../../templates/parallel/style.scss */
   ul.sections > li > div.annotation ul, ul.sections > li > div.annotation ol {
     padding-left: 40px;
   }
 
-  /* line 334, ../../templates/parallel/style.scss */
+  /* line 342, ../../templates/parallel/style.scss */
   ul.sections > li {
     white-space: nowrap;
   }
 
-  /* line 338, ../../templates/parallel/style.scss */
+  /* line 346, ../../templates/parallel/style.scss */
   ul.sections > li > div {
     display: inline-block;
   }
 
-  /* line 342, ../../templates/parallel/style.scss */
+  /* line 350, ../../templates/parallel/style.scss */
   ul.sections > li > div.annotation {
     max-width: 350px;
     min-width: 350px;
@@ -1007,13 +1017,13 @@ ul.sections > li > div {
     text-align: left;
   }
 
-  /* line 352, ../../templates/parallel/style.scss */
+  /* line 360, ../../templates/parallel/style.scss */
   ul.sections > li > div.annotation pre {
     margin: 15px 0 15px;
     padding-left: 15px;
   }
 
-  /* line 357, ../../templates/parallel/style.scss */
+  /* line 365, ../../templates/parallel/style.scss */
   ul.sections > li > div.content {
     padding: 13px;
     vertical-align: top;
@@ -1022,13 +1032,13 @@ ul.sections > li > div {
     box-shadow: none;
   }
 
-  /* line 365, ../../templates/parallel/style.scss */
+  /* line 373, ../../templates/parallel/style.scss */
   .pilwrap {
     position: relative;
     display: inline;
   }
 
-  /* line 370, ../../templates/parallel/style.scss */
+  /* line 378, ../../templates/parallel/style.scss */
   .pilcrow {
     font: 12px Arial;
     text-decoration: none;
@@ -1041,64 +1051,64 @@ ul.sections > li > div {
     -webkit-transition: opacity 0.2s linear;
   }
 
-  /* line 380, ../../templates/parallel/style.scss */
+  /* line 388, ../../templates/parallel/style.scss */
   .for-h1 .pilcrow {
     top: 47px;
   }
 
-  /* line 383, ../../templates/parallel/style.scss */
+  /* line 391, ../../templates/parallel/style.scss */
   .for-h2 .pilcrow, .for-h3 .pilcrow, .for-h4 .pilcrow {
     top: 35px;
   }
 
-  /* line 387, ../../templates/parallel/style.scss */
+  /* line 395, ../../templates/parallel/style.scss */
   ul.sections > li > div.annotation:hover .pilcrow {
     opacity: 1;
   }
 }
 /*---------------------- (> 1025px) ---------------------*/
 @media only screen and (min-width: 1025px) {
-  /* line 396, ../../templates/parallel/style.scss */
+  /* line 404, ../../templates/parallel/style.scss */
   body {
     font-size: 16px;
     line-height: 24px;
   }
 
-  /* line 401, ../../templates/parallel/style.scss */
+  /* line 409, ../../templates/parallel/style.scss */
   #container {
     left: 28%;
     width: 72%;
   }
 
-  /* line 406, ../../templates/parallel/style.scss */
+  /* line 414, ../../templates/parallel/style.scss */
   #markdown-toc {
     width: 24%;
   }
 
-  /* line 410, ../../templates/parallel/style.scss */
+  /* line 418, ../../templates/parallel/style.scss */
   #background {
     width: 525px;
   }
 
-  /* line 414, ../../templates/parallel/style.scss */
+  /* line 422, ../../templates/parallel/style.scss */
   ul.sections > li > div.annotation {
     max-width: 525px;
     min-width: 525px;
     padding: 10px 25px 1px 50px;
   }
 
-  /* line 419, ../../templates/parallel/style.scss */
+  /* line 427, ../../templates/parallel/style.scss */
   ul.sections > li > div.content {
     padding: 9px 15px 16px 25px;
   }
 }
 /*---------------------- Syntax Highlighting -----------------------------*/
-/* line 427, ../../templates/parallel/style.scss */
+/* line 435, ../../templates/parallel/style.scss */
 .lines td {
   background-color: #f0f0f0;
   padding-right: 10px;
 }
-/* line 431, ../../templates/parallel/style.scss */
+/* line 439, ../../templates/parallel/style.scss */
 .lines span {
   padding: 0 5px 0 5px;
 }
@@ -1108,388 +1118,388 @@ ul.sections > li > div {
 github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 
 */
-/* line 443, ../../templates/parallel/style.scss */
+/* line 451, ../../templates/parallel/style.scss */
 .highlight .hll {
   background-color: #ffffcc;
 }
 
-/* line 444, ../../templates/parallel/style.scss */
+/* line 452, ../../templates/parallel/style.scss */
 .highlight .c {
   color: #60a0b0;
   font-style: italic;
 }
 
 /* Comment */
-/* line 445, ../../templates/parallel/style.scss */
+/* line 453, ../../templates/parallel/style.scss */
 .highlight .err {
   border: 1px solid #FF0000;
 }
 
 /* Error */
-/* line 446, ../../templates/parallel/style.scss */
+/* line 454, ../../templates/parallel/style.scss */
 .highlight .k {
   color: #007020;
   font-weight: bold;
 }
 
 /* Keyword */
-/* line 447, ../../templates/parallel/style.scss */
+/* line 455, ../../templates/parallel/style.scss */
 .highlight .o {
   color: #666666;
 }
 
 /* Operator */
-/* line 448, ../../templates/parallel/style.scss */
+/* line 456, ../../templates/parallel/style.scss */
 .highlight .cm {
   color: #60a0b0;
   font-style: italic;
 }
 
 /* Comment.Multiline */
-/* line 449, ../../templates/parallel/style.scss */
+/* line 457, ../../templates/parallel/style.scss */
 .highlight .cp {
   color: #007020;
 }
 
 /* Comment.Preproc */
-/* line 450, ../../templates/parallel/style.scss */
+/* line 458, ../../templates/parallel/style.scss */
 .highlight .c1 {
   color: #60a0b0;
   font-style: italic;
 }
 
 /* Comment.Single */
-/* line 451, ../../templates/parallel/style.scss */
+/* line 459, ../../templates/parallel/style.scss */
 .highlight .cs {
   color: #60a0b0;
   background-color: #fff0f0;
 }
 
 /* Comment.Special */
-/* line 452, ../../templates/parallel/style.scss */
+/* line 460, ../../templates/parallel/style.scss */
 .highlight .gd {
   color: #A00000;
 }
 
 /* Generic.Deleted */
-/* line 453, ../../templates/parallel/style.scss */
+/* line 461, ../../templates/parallel/style.scss */
 .highlight .ge {
   font-style: italic;
 }
 
 /* Generic.Emph */
-/* line 454, ../../templates/parallel/style.scss */
+/* line 462, ../../templates/parallel/style.scss */
 .highlight .gr {
   color: #FF0000;
 }
 
 /* Generic.Error */
-/* line 455, ../../templates/parallel/style.scss */
+/* line 463, ../../templates/parallel/style.scss */
 .highlight .gh {
   color: #000080;
   font-weight: bold;
 }
 
 /* Generic.Heading */
-/* line 456, ../../templates/parallel/style.scss */
+/* line 464, ../../templates/parallel/style.scss */
 .highlight .gi {
   color: #00A000;
 }
 
 /* Generic.Inserted */
-/* line 457, ../../templates/parallel/style.scss */
+/* line 465, ../../templates/parallel/style.scss */
 .highlight .go {
   color: #808080;
 }
 
 /* Generic.Output */
-/* line 458, ../../templates/parallel/style.scss */
+/* line 466, ../../templates/parallel/style.scss */
 .highlight .gp {
   color: #c65d09;
   font-weight: bold;
 }
 
 /* Generic.Prompt */
-/* line 459, ../../templates/parallel/style.scss */
+/* line 467, ../../templates/parallel/style.scss */
 .highlight .gs {
   font-weight: bold;
 }
 
 /* Generic.Strong */
-/* line 460, ../../templates/parallel/style.scss */
+/* line 468, ../../templates/parallel/style.scss */
 .highlight .gu {
   color: #800080;
   font-weight: bold;
 }
 
 /* Generic.Subheading */
-/* line 461, ../../templates/parallel/style.scss */
+/* line 469, ../../templates/parallel/style.scss */
 .highlight .gt {
   color: #0040D0;
 }
 
 /* Generic.Traceback */
-/* line 462, ../../templates/parallel/style.scss */
+/* line 470, ../../templates/parallel/style.scss */
 .highlight .kc {
   color: #007020;
   font-weight: bold;
 }
 
 /* Keyword.Constant */
-/* line 463, ../../templates/parallel/style.scss */
+/* line 471, ../../templates/parallel/style.scss */
 .highlight .kd {
   color: #007020;
   font-weight: bold;
 }
 
 /* Keyword.Declaration */
-/* line 464, ../../templates/parallel/style.scss */
+/* line 472, ../../templates/parallel/style.scss */
 .highlight .kn {
   color: #007020;
   font-weight: bold;
 }
 
 /* Keyword.Namespace */
-/* line 465, ../../templates/parallel/style.scss */
+/* line 473, ../../templates/parallel/style.scss */
 .highlight .kp {
   color: #007020;
 }
 
 /* Keyword.Pseudo */
-/* line 466, ../../templates/parallel/style.scss */
+/* line 474, ../../templates/parallel/style.scss */
 .highlight .kr {
   color: #007020;
   font-weight: bold;
 }
 
 /* Keyword.Reserved */
-/* line 467, ../../templates/parallel/style.scss */
+/* line 475, ../../templates/parallel/style.scss */
 .highlight .kt {
   color: #902000;
 }
 
 /* Keyword.Type */
-/* line 468, ../../templates/parallel/style.scss */
+/* line 476, ../../templates/parallel/style.scss */
 .highlight .m {
   color: #40a070;
 }
 
 /* Literal.Number */
-/* line 469, ../../templates/parallel/style.scss */
+/* line 477, ../../templates/parallel/style.scss */
 .highlight .s {
   color: #4070a0;
 }
 
 /* Literal.String */
-/* line 470, ../../templates/parallel/style.scss */
+/* line 478, ../../templates/parallel/style.scss */
 .highlight .na {
   color: #4070a0;
 }
 
 /* Name.Attribute */
-/* line 471, ../../templates/parallel/style.scss */
+/* line 479, ../../templates/parallel/style.scss */
 .highlight .nb {
   color: #007020;
 }
 
 /* Name.Builtin */
-/* line 472, ../../templates/parallel/style.scss */
+/* line 480, ../../templates/parallel/style.scss */
 .highlight .nc {
   color: #0e84b5;
   font-weight: bold;
 }
 
 /* Name.Class */
-/* line 473, ../../templates/parallel/style.scss */
+/* line 481, ../../templates/parallel/style.scss */
 .highlight .no {
   color: #60add5;
 }
 
 /* Name.Constant */
-/* line 474, ../../templates/parallel/style.scss */
+/* line 482, ../../templates/parallel/style.scss */
 .highlight .nd {
   color: #555555;
   font-weight: bold;
 }
 
 /* Name.Decorator */
-/* line 475, ../../templates/parallel/style.scss */
+/* line 483, ../../templates/parallel/style.scss */
 .highlight .ni {
   color: #d55537;
   font-weight: bold;
 }
 
 /* Name.Entity */
-/* line 476, ../../templates/parallel/style.scss */
+/* line 484, ../../templates/parallel/style.scss */
 .highlight .ne {
   color: #007020;
 }
 
 /* Name.Exception */
-/* line 477, ../../templates/parallel/style.scss */
+/* line 485, ../../templates/parallel/style.scss */
 .highlight .nf {
   color: #06287e;
 }
 
 /* Name.Function */
-/* line 478, ../../templates/parallel/style.scss */
+/* line 486, ../../templates/parallel/style.scss */
 .highlight .nl {
   color: #002070;
   font-weight: bold;
 }
 
 /* Name.Label */
-/* line 479, ../../templates/parallel/style.scss */
+/* line 487, ../../templates/parallel/style.scss */
 .highlight .nn {
   color: #0e84b5;
   font-weight: bold;
 }
 
 /* Name.Namespace */
-/* line 480, ../../templates/parallel/style.scss */
+/* line 488, ../../templates/parallel/style.scss */
 .highlight .nt {
   color: #062873;
   font-weight: bold;
 }
 
 /* Name.Tag */
-/* line 481, ../../templates/parallel/style.scss */
+/* line 489, ../../templates/parallel/style.scss */
 .highlight .nv {
   color: #bb60d5;
 }
 
 /* Name.Variable */
-/* line 482, ../../templates/parallel/style.scss */
+/* line 490, ../../templates/parallel/style.scss */
 .highlight .ow {
   color: #007020;
   font-weight: bold;
 }
 
 /* Operator.Word */
-/* line 483, ../../templates/parallel/style.scss */
+/* line 491, ../../templates/parallel/style.scss */
 .highlight .w {
   color: #bbbbbb;
 }
 
 /* Text.Whitespace */
-/* line 484, ../../templates/parallel/style.scss */
+/* line 492, ../../templates/parallel/style.scss */
 .highlight .mf {
   color: #40a070;
 }
 
 /* Literal.Number.Float */
-/* line 485, ../../templates/parallel/style.scss */
+/* line 493, ../../templates/parallel/style.scss */
 .highlight .mh {
   color: #40a070;
 }
 
 /* Literal.Number.Hex */
-/* line 486, ../../templates/parallel/style.scss */
+/* line 494, ../../templates/parallel/style.scss */
 .highlight .mi {
   color: #40a070;
 }
 
 /* Literal.Number.Integer */
-/* line 487, ../../templates/parallel/style.scss */
+/* line 495, ../../templates/parallel/style.scss */
 .highlight .mo {
   color: #40a070;
 }
 
 /* Literal.Number.Oct */
-/* line 488, ../../templates/parallel/style.scss */
+/* line 496, ../../templates/parallel/style.scss */
 .highlight .sb {
   color: #4070a0;
 }
 
 /* Literal.String.Backtick */
-/* line 489, ../../templates/parallel/style.scss */
+/* line 497, ../../templates/parallel/style.scss */
 .highlight .sc {
   color: #4070a0;
 }
 
 /* Literal.String.Char */
-/* line 490, ../../templates/parallel/style.scss */
+/* line 498, ../../templates/parallel/style.scss */
 .highlight .sd {
   color: #4070a0;
   font-style: italic;
 }
 
 /* Literal.String.Doc */
-/* line 491, ../../templates/parallel/style.scss */
+/* line 499, ../../templates/parallel/style.scss */
 .highlight .s2 {
   color: #4070a0;
 }
 
 /* Literal.String.Double */
-/* line 492, ../../templates/parallel/style.scss */
+/* line 500, ../../templates/parallel/style.scss */
 .highlight .se {
   color: #4070a0;
   font-weight: bold;
 }
 
 /* Literal.String.Escape */
-/* line 493, ../../templates/parallel/style.scss */
+/* line 501, ../../templates/parallel/style.scss */
 .highlight .sh {
   color: #4070a0;
 }
 
 /* Literal.String.Heredoc */
-/* line 494, ../../templates/parallel/style.scss */
+/* line 502, ../../templates/parallel/style.scss */
 .highlight .si {
   color: #70a0d0;
   font-style: italic;
 }
 
 /* Literal.String.Interpol */
-/* line 495, ../../templates/parallel/style.scss */
+/* line 503, ../../templates/parallel/style.scss */
 .highlight .sx {
   color: #c65d09;
 }
 
 /* Literal.String.Other */
-/* line 496, ../../templates/parallel/style.scss */
+/* line 504, ../../templates/parallel/style.scss */
 .highlight .sr {
   color: #235388;
 }
 
 /* Literal.String.Regex */
-/* line 497, ../../templates/parallel/style.scss */
+/* line 505, ../../templates/parallel/style.scss */
 .highlight .s1 {
   color: #4070a0;
 }
 
 /* Literal.String.Single */
-/* line 498, ../../templates/parallel/style.scss */
+/* line 506, ../../templates/parallel/style.scss */
 .highlight .ss {
   color: #517918;
 }
 
 /* Literal.String.Symbol */
-/* line 499, ../../templates/parallel/style.scss */
+/* line 507, ../../templates/parallel/style.scss */
 .highlight .bp {
   color: #007020;
 }
 
 /* Name.Builtin.Pseudo */
-/* line 500, ../../templates/parallel/style.scss */
+/* line 508, ../../templates/parallel/style.scss */
 .highlight .vc {
   color: #bb60d5;
 }
 
 /* Name.Variable.Class */
-/* line 501, ../../templates/parallel/style.scss */
+/* line 509, ../../templates/parallel/style.scss */
 .highlight .vg {
   color: #bb60d5;
 }
 
 /* Name.Variable.Global */
-/* line 502, ../../templates/parallel/style.scss */
+/* line 510, ../../templates/parallel/style.scss */
 .highlight .vi {
   color: #bb60d5;
 }
 
 /* Name.Variable.Instance */
-/* line 503, ../../templates/parallel/style.scss */
+/* line 511, ../../templates/parallel/style.scss */
 .highlight .il {
   color: #40a070;
 }

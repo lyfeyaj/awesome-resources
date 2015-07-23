@@ -78,6 +78,8 @@
 + [parallel](https://github.com/grosser/parallel): Ruby 的一个并行运算库
 + [http.rb](https://github.com/httprb/http.rb): Ruby 的一个 HTTP 库, 提供了链式的语法和完全的 Streaming 支持
 + [has_scope](https://github.com/plataformatec/has_scope): 用于在控制器中钩子中使用Scope
++ [linguist](https://github.com/github/linguist): Github 官方出品, 用于识别编程语言, 以及代码高亮
++ [markup](https://github.com/github/markup): Github 官方出品, 用于解析各类 markup 文件
 
 #### Python
 

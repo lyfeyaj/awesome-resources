@@ -411,6 +411,7 @@
 + [blessed](https://github.com/chjj/blessed): Node 的命令行界面工具, 一共一组高级接口支持命令行绘图, 动画等
 + [node-spdy](https://github.com/indutny/node-spdy): Node 的 SPDY 支持
 + [node-fibers](https://github.com/laverdet/node-fibers): Node 的 Fiber 实现
++ [fast.js](https://github.com/codemix/fast.js): 对 JS 的一些方法的重新实现, 提供更高的性能
 
 ###### Express
 

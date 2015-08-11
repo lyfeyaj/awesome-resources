@@ -406,6 +406,10 @@
 + [NativeScript](https://github.com/NativeScript/NativeScript): 使用 Javascript 来编写 IOS / Android 以及更多平台原生软件的库
 + [rosie](https://github.com/bkeepers/rosie): 用于生成 Javascript 对象, 方便测试, 类似于 factory_girl
 + [jsduck](https://github.com/senchalabs/jsduck): javascript 文档生成工具
++ [shelljs](https://github.com/arturadib/shelljs): shell 命令的 Node.js 封装, 支持 local 和 global 两种模式
++ [daemon.node](https://github.com/indexzero/daemon.node): 以后台守护进程启动 node 应用的最小化实现, 可作为学习源码使用
++ [blessed](https://github.com/chjj/blessed): Node 的命令行界面工具, 一共一组高级接口支持命令行绘图, 动画等
++ [node-spdy](https://github.com/indutny/node-spdy): Node 的 SPDY 支持
 
 ###### Express
 

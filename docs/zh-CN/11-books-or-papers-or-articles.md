@@ -18,6 +18,7 @@
 + [awesome-swift)](https://github.com/matteocrippa/awesome-swift): Swift 资源整合
 + [awesome-react](https://github.com/enaqx/awesome-react): React 资源整合
 + [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo): 一系列前端性能优化集合
++ [awesome-angularjs](https://github.com/gianarb/awesome-angularjs): AngularJS 资源整合
 
 #### 前端
 
@@ -47,6 +48,7 @@
 ###### Android
 
 + [android-training-course-in-chinese](https://github.com/kesenhoo/android-training-course-in-chinese): Google Android官方培训课程中文版
++ [AndroidDevTools](https://github.com/inferjay/AndroidDevTools): Android 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等
 
 #### 后端
 

@@ -169,6 +169,7 @@
 + [daemon.node](https://github.com/indexzero/daemon.node): 以后台守护进程启动 node 应用的最小化实现, 可作为学习源码使用
 + [blessed](https://github.com/chjj/blessed): Node 的命令行界面工具, 一共一组高级接口支持命令行绘图, 动画等
 + [node-spdy](https://github.com/indutny/node-spdy): Node 的 SPDY 支持
++ [node-fibers](https://github.com/laverdet/node-fibers): Node 的 Fiber 实现
 
 ###### Express
 

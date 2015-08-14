@@ -171,6 +171,7 @@
 + [node-spdy](https://github.com/indutny/node-spdy): Node 的 SPDY 支持
 + [node-fibers](https://github.com/laverdet/node-fibers): Node 的 Fiber 实现
 + [fast.js](https://github.com/codemix/fast.js): 对 JS 的一些方法的重新实现, 提供更高的性能
++ [log4js-node](https://github.com/nomiddlename/log4js-node): Log4js 的 Node.js 版
 
 ###### Express
 

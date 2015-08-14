@@ -141,6 +141,7 @@
 + [jQuery.countdown](https://github.com/hilios/jQuery.countdown): jQuery 倒计时插件
 + [summernote](https://github.com/summernote/summernote): WYSIWYG 富文本编辑器
 + [awesomplete](https://github.com/LeaVerou/awesomplete): 非常轻型的一个自动补全 JS 库, 没有任何依赖, 配置简单, 美观
++ [switchery](https://github.com/abpetkov/switchery): IOS 7 上 Switch 的 JS 实现, 支持 IE8 及以上浏览器
 
 ###### Polyfills
 
@@ -412,6 +413,7 @@
 + [node-spdy](https://github.com/indutny/node-spdy): Node 的 SPDY 支持
 + [node-fibers](https://github.com/laverdet/node-fibers): Node 的 Fiber 实现
 + [fast.js](https://github.com/codemix/fast.js): 对 JS 的一些方法的重新实现, 提供更高的性能
++ [log4js-node](https://github.com/nomiddlename/log4js-node): Log4js 的 Node.js 版
 
 ###### Express
 

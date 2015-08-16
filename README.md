@@ -415,6 +415,7 @@
 + [fast.js](https://github.com/codemix/fast.js): 对 JS 的一些方法的重新实现, 提供更高的性能
 + [log4js-node](https://github.com/nomiddlename/log4js-node): Log4js 的 Node.js 版
 + [https://github.com/andrewplummer/Sugar](https://github.com/andrewplummer/Sugar): Javascript 原生类型的功能扩充(Monkey Patch), 提供了各种语法糖
++ [shelljs](https://github.com/arturadib/shelljs): 各种 Shell 命令的 Node 实现
 
 ###### Express
 

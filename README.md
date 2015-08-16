@@ -581,6 +581,7 @@
 + [dokku](https://github.com/progrium/dokku): 基于 Docker 的 Mini-Heroku, 最小型的 PAAS 实现
 + [VLC](https://github.com/videolan/vlc): VLC 视频播放器源代码
 + [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native): HackerNews 基于 React Native 实现
++ [spree](https://github.com/spree/spree): 基于 Ruby on Rails 的开源在线电子商务网站
 
 
 ## 代码规范&设计模式
@@ -704,6 +705,7 @@
 + [frontend-guidelines](https://github.com/bendc/frontend-guidelines): 前端指南, 主要讲述 HTML, CSS 和 JS 的最佳实践
 + [es6tutorial](https://github.com/ruanyf/es6tutorial): 《ECMAScript 6入门》是一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性。
 + [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning): AngularJS 学习资源
++ [practical-ui-physics](https://github.com/desandro/practical-ui-physics): 各种前端物理效果的实现原理
 
 ###### IOS
 + [30min_guides](https://github.com/qinjx/30min_guides): 覃健祥的学习笔记，若干个几十分钟入门的文档

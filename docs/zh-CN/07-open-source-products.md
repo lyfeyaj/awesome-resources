@@ -18,3 +18,4 @@
 + [dokku](https://github.com/progrium/dokku): 基于 Docker 的 Mini-Heroku, 最小型的 PAAS 实现
 + [VLC](https://github.com/videolan/vlc): VLC 视频播放器源代码
 + [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native): HackerNews 基于 React Native 实现
++ [spree](https://github.com/spree/spree): 基于 Ruby on Rails 的开源在线电子商务网站

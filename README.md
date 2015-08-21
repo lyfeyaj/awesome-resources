@@ -8,6 +8,15 @@
 
 喜欢么？或者对您有用？那就 Star 一下吧 ^_^
 
+## 贡献方式
+
++ Fork 这个项目
++ 不要直接在 `Readme.md` 中直接添加内容
++ 所有的文档都放在 `docs` 中, 请根据内容找到相应的文件并添加
++ 如果是 Mac 或者 Linux 用户, 请在提交前运行 ./build.sh 来自动生成 `Readme.md` 文件
++ 保存并提交
++ 新建一个 Pull Request
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 

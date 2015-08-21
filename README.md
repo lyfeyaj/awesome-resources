@@ -418,6 +418,8 @@
 + [log4js-node](https://github.com/nomiddlename/log4js-node): Log4js 的 Node.js 版
 + [https://github.com/andrewplummer/Sugar](https://github.com/andrewplummer/Sugar): Javascript 原生类型的功能扩充(Monkey Patch), 提供了各种语法糖
 + [shelljs](https://github.com/arturadib/shelljs): 各种 Shell 命令的 Node 实现
++ [Meteor](https://github.com/meteor/meteor): 一个基于 Node.js 的平台，用于开发实时网页和移动应用
++ [Koa](https://github.com/koajs/koa): Node.js web 框架，Express 原班人马打造，推崇极简，通过 generator 实现异步控制
 
 ###### Express
 

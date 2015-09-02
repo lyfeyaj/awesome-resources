@@ -19,6 +19,10 @@
 + [awesome-react](https://github.com/enaqx/awesome-react): React 资源整合
 + [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo): 一系列前端性能优化集合
 + [awesome-angularjs](https://github.com/gianarb/awesome-angularjs): AngularJS 资源整合
++ [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) : Node.js 资源整合
++ [awesome-php](https://github.com/ziadoz/awesome-php) : PHP 资源整合
++ [awesome-python](https://github.com/vinta/awesome-python) : Python 资源整合
++ [awesome-autoit](https://github.com/J2TeaM/awesome-AutoIt) : 第三方定制开源软件合集
 
 #### 前端
 

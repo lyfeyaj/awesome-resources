@@ -1,5 +1,7 @@
 开发资源总结 (持续整理中)
 =====================
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 
 
 > *就像开发一样, 这篇文档如果没有人关心和维护, 里面的内容就会变得老旧, 过时而不再具有参考价值. 所以, 我希望所有看到并喜欢这篇文档的人都来一起维护它. 放心大胆的提交 Pull Request 和 Issue 吧!!*
@@ -83,6 +85,7 @@
 - [科学上网](#%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91)
 - [Git 相关](#git-%E7%9B%B8%E5%85%B3)
 - [其他](#%E5%85%B6%E4%BB%96-1)
+- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -688,7 +691,6 @@
 + [iOS 学习资料整理](https://github.com/Aufree/trip-to-iOS): IOS 的各种学习资料整理，初学者必备
 + [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries): Android 各种开源库的一个汇总
 + [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui): Android 各种开源UI/UX库的一个汇总
-+ [awesome-autoit](https://github.com/J2TeaM/awesome-AutoIt) : AutoIt
 + [awesome-courses](https://github.com/prakhar1989/awesome-courses): 关于计算机科学的各种大学教学课程
 + [awesome-ruby](https://github.com/markets/awesome-ruby): Ruby 资源集合
 + [awesome-go](https://github.co m/avelino/awesome-go): Go 资源集合
@@ -698,13 +700,14 @@
 + [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks): 前端开发资源的集合, 内容极多
 + [awesome-apple](https://github.com/joeljfischer/awesome-apple): 关于苹果开发的插件/库/文章等资源
 + [frontend-stuff](https://github.com/moklick/frontend-stuff): 前端相关的各种资源, JS 内容居多
-+ [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) : Node.js
-+ [awesome-php](https://github.com/ziadoz/awesome-php) : PHP
-+ [awesome-python](https://github.com/vinta/awesome-python) : Python
 + [awesome-swift)](https://github.com/matteocrippa/awesome-swift): Swift 资源整合
 + [awesome-react](https://github.com/enaqx/awesome-react): React 资源整合
 + [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo): 一系列前端性能优化集合
 + [awesome-angularjs](https://github.com/gianarb/awesome-angularjs): AngularJS 资源整合
++ [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) : Node.js 资源整合
++ [awesome-php](https://github.com/ziadoz/awesome-php) : PHP 资源整合
++ [awesome-python](https://github.com/vinta/awesome-python) : Python 资源整合
++ [awesome-autoit](https://github.com/J2TeaM/awesome-AutoIt) : 第三方定制开源软件合集
 
 #### 前端
 
@@ -813,5 +816,12 @@
 加一张杀马特的照片
 + [github-awesome-autocomplete](https://github.com/algolia/github-awesome-autocomplete): Github 的浏览器插件, 用于辅助搜索, 更加人性化的搜索结果
 + [dotenv](https://github.com/bkeepers/dotenv): 用于配置本地环境, 可以为不同的文件夹设置不同的环境
+
+
+## License
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 

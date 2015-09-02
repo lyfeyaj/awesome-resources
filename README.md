@@ -688,6 +688,7 @@
 + [iOS 学习资料整理](https://github.com/Aufree/trip-to-iOS): IOS 的各种学习资料整理，初学者必备
 + [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries): Android 各种开源库的一个汇总
 + [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui): Android 各种开源UI/UX库的一个汇总
++ [awesome-autoit](https://github.com/J2TeaM/awesome-AutoIt) : AutoIt
 + [awesome-courses](https://github.com/prakhar1989/awesome-courses): 关于计算机科学的各种大学教学课程
 + [awesome-ruby](https://github.com/markets/awesome-ruby): Ruby 资源集合
 + [awesome-go](https://github.co m/avelino/awesome-go): Go 资源集合
@@ -697,6 +698,9 @@
 + [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks): 前端开发资源的集合, 内容极多
 + [awesome-apple](https://github.com/joeljfischer/awesome-apple): 关于苹果开发的插件/库/文章等资源
 + [frontend-stuff](https://github.com/moklick/frontend-stuff): 前端相关的各种资源, JS 内容居多
++ [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) : Node.js
++ [awesome-php](https://github.com/ziadoz/awesome-php) : PHP
++ [awesome-python](https://github.com/vinta/awesome-python) : Python
 + [awesome-swift)](https://github.com/matteocrippa/awesome-swift): Swift 资源整合
 + [awesome-react](https://github.com/enaqx/awesome-react): React 资源整合
 + [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo): 一系列前端性能优化集合

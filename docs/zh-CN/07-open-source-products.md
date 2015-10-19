@@ -19,3 +19,4 @@
 + [VLC](https://github.com/videolan/vlc): VLC 视频播放器源代码
 + [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native): HackerNews 基于 React Native 实现
 + [spree](https://github.com/spree/spree): 基于 Ruby on Rails 的开源在线电子商务网站
++ [v2ex](https://github.com/singro/v2ex): V2EX 的 IOS 源代码

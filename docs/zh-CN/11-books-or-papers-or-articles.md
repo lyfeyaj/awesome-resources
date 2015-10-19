@@ -23,6 +23,7 @@
 + [awesome-php](https://github.com/ziadoz/awesome-php) : PHP 资源整合
 + [awesome-python](https://github.com/vinta/awesome-python) : Python 资源整合
 + [awesome-autoit](https://github.com/J2TeaM/awesome-AutoIt) : 第三方定制开源软件合集
++ [awesome-books](https://github.com/ruby-vietnam/awesome-books): 一些很不错的开发书籍
 
 #### 前端
 
@@ -100,3 +101,4 @@
 + [cocktails_for_programmers](https://github.com/the-teacher/cocktails_for_programmers): 程序员鸡尾酒, 一个特意为专业节日“程序员日”而建立的鸡尾酒项目！“程序员日”在每年的第256天。
 + [Wait but Why?](http://waitbutwhy.com/): 非常有意思的一个网站, 会有一些有趣的观点和文章
 + [ideas](https://github.com/samsquire/ideas): 有趣的想法, 更多是一个作者对于编程/软件/工具 的思考和整理
++ [Developing_iOS_8_Apps_With_Swift](https://github.com/X140Yu/Developing_iOS_8_Apps_With_Swift): 斯坦福大学公开课： 如何使用 Swift 开发 iOS8 应用

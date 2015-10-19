@@ -63,6 +63,7 @@
     - [Objective-C](#objective-c)
         - [IOS](#ios)
     - [Swift](#swift)
+    - [Design](#design)
 - [数据库](#%E6%95%B0%E6%8D%AE%E5%BA%93)
 - [博客 / 网站](#%E5%8D%9A%E5%AE%A2--%E7%BD%91%E7%AB%99)
     - [设计](#%E8%AE%BE%E8%AE%A1)
@@ -155,6 +156,7 @@
 + [summernote](https://github.com/summernote/summernote): WYSIWYG 富文本编辑器
 + [awesomplete](https://github.com/LeaVerou/awesomplete): 非常轻型的一个自动补全 JS 库, 没有任何依赖, 配置简单, 美观
 + [switchery](https://github.com/abpetkov/switchery): IOS 7 上 Switch 的 JS 实现, 支持 IE8 及以上浏览器
++ [trix](https://github.com/basecamp/trix): Basecamp 公司出品的富文本编辑器，简洁小巧
 
 ###### Polyfills
 
@@ -600,6 +602,7 @@
 + [VLC](https://github.com/videolan/vlc): VLC 视频播放器源代码
 + [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native): HackerNews 基于 React Native 实现
 + [spree](https://github.com/spree/spree): 基于 Ruby on Rails 的开源在线电子商务网站
++ [v2ex](https://github.com/singro/v2ex): V2EX 的 IOS 源代码
 
 
 ## 代码规范&设计模式
@@ -644,6 +647,10 @@
 #### Swift
 
 + [swift-style-guide](https://github.com/raywenderlich/swift-style-guide): Swift 代码编写规范
+
+#### Design
+
++ [web-design-standards](https://github.com/18F/web-design-standards): 网站设计标准（美国政府网站）
 
 
 ## 数据库
@@ -707,6 +714,7 @@
 + [awesome-php](https://github.com/ziadoz/awesome-php) : PHP 资源整合
 + [awesome-python](https://github.com/vinta/awesome-python) : Python 资源整合
 + [awesome-autoit](https://github.com/J2TeaM/awesome-AutoIt) : 第三方定制开源软件合集
++ [awesome-books](https://github.com/ruby-vietnam/awesome-books): 一些很不错的开发书籍
 
 #### 前端
 
@@ -784,6 +792,7 @@
 + [cocktails_for_programmers](https://github.com/the-teacher/cocktails_for_programmers): 程序员鸡尾酒, 一个特意为专业节日“程序员日”而建立的鸡尾酒项目！“程序员日”在每年的第256天。
 + [Wait but Why?](http://waitbutwhy.com/): 非常有意思的一个网站, 会有一些有趣的观点和文章
 + [ideas](https://github.com/samsquire/ideas): 有趣的想法, 更多是一个作者对于编程/软件/工具 的思考和整理
++ [Developing_iOS_8_Apps_With_Swift](https://github.com/X140Yu/Developing_iOS_8_Apps_With_Swift): 斯坦福大学公开课： 如何使用 Swift 开发 iOS8 应用
 
 
 ## 科学上网

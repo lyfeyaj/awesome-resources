@@ -64,6 +64,7 @@
 + [summernote](https://github.com/summernote/summernote): WYSIWYG 富文本编辑器
 + [awesomplete](https://github.com/LeaVerou/awesomplete): 非常轻型的一个自动补全 JS 库, 没有任何依赖, 配置简单, 美观
 + [switchery](https://github.com/abpetkov/switchery): IOS 7 上 Switch 的 JS 实现, 支持 IE8 及以上浏览器
++ [trix](https://github.com/basecamp/trix): Basecamp 公司出品的富文本编辑器，简洁小巧
 
 ###### Polyfills
 

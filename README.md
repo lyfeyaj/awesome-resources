@@ -530,6 +530,8 @@
 + [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP): Swift 的 HTTP 封装
 + [VKVideoPlayer](https://github.com/viki-org/VKVideoPlayer): 方便高度自定义视频播放器的库
 + [MagicalRecord](https://github.com/magicalpanda/MagicalRecord): 基于 Core Data 之上的 ORM, 是 Active Record 的 IOS 版实现, 可以精简 Core Data 代码
++ [SQLite.swift](https://github.com/stephencelis/SQLite.swift): SQLite3 的 Swift 层接口实现
++ 
 
 
 ## Android
@@ -736,6 +738,7 @@
 + [es6tutorial](https://github.com/ruanyf/es6tutorial): 《ECMAScript 6入门》是一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性。
 + [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning): AngularJS 学习资源
 + [practical-ui-physics](https://github.com/desandro/practical-ui-physics): 各种前端物理效果的实现原理
++ [understandinges6](https://github.com/nzakas/understandinges6): 电子书： Understanding ES6
 
 ###### IOS
 + [30min_guides](https://github.com/qinjx/30min_guides): 覃健祥的学习笔记，若干个几十分钟入门的文档

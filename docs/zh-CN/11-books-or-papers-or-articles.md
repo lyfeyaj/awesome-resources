@@ -45,6 +45,7 @@
 + [es6tutorial](https://github.com/ruanyf/es6tutorial): 《ECMAScript 6入门》是一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性。
 + [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning): AngularJS 学习资源
 + [practical-ui-physics](https://github.com/desandro/practical-ui-physics): 各种前端物理效果的实现原理
++ [understandinges6](https://github.com/nzakas/understandinges6): 电子书： Understanding ES6
 
 ###### IOS
 + [30min_guides](https://github.com/qinjx/30min_guides): 覃健祥的学习笔记，若干个几十分钟入门的文档

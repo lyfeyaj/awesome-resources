@@ -20,8 +20,73 @@
 
 ## 目录
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Web 前端](#web-%E5%89%8D%E7%AB%AF)
+    - [Javascript](#javascript)
+        - [Polyfills](#polyfills)
+        - [HTML5 相关](#html5-%E7%9B%B8%E5%85%B3)
+        - [React](#react)
+    - [CSS](#css)
+    - [ICON](#icon)
+- [Web 后端](#web-%E5%90%8E%E7%AB%AF)
+    - [Ruby](#ruby)
+    - [Python](#python)
+    - [Node.js](#nodejs)
+        - [Express](#express)
+    - [Erlang](#erlang)
+    - [Java](#java)
+    - [C/C++](#cc)
+    - [Go](#go)
+    - [Lua](#lua)
+- [IOS 或 OSX](#ios-%E6%88%96-osx)
+- [Android](#android)
+- [代码效率](#%E4%BB%A3%E7%A0%81%E6%95%88%E7%8E%87)
+    - [CoffeeScript](#coffeescript)
+    - [TypeScript](#typescript)
+    - [Sublime Text](#sublime-text)
+- [云计算](#%E4%BA%91%E8%AE%A1%E7%AE%97)
+    - [Docker](#docker)
+    - [OS](#os)
+- [开源产品(论坛、在线教育、项目管理等)](#%E5%BC%80%E6%BA%90%E4%BA%A7%E5%93%81%E8%AE%BA%E5%9D%9B%E3%80%81%E5%9C%A8%E7%BA%BF%E6%95%99%E8%82%B2%E3%80%81%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E7%AD%89)
+- [代码规范&设计模式](#%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83&%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
+    - [Ruby](#ruby-1)
+        - [Rails](#rails)
+    - [Javascript](#javascript-1)
+        - [AngularJS](#angularjs)
+    - [Java](#java-1)
+        - [Android](#android-1)
+    - [Bash](#bash)
+    - [Objective-C](#objective-c)
+        - [IOS](#ios)
+    - [Swift](#swift)
+    - [Design](#design)
+- [数据库](#%E6%95%B0%E6%8D%AE%E5%BA%93)
+- [博客 / 网站](#%E5%8D%9A%E5%AE%A2--%E7%BD%91%E7%AB%99)
+    - [设计](#%E8%AE%BE%E8%AE%A1)
+    - [技术](#%E6%8A%80%E6%9C%AF)
+- [书籍 / 阅读 / 学习](#%E4%B9%A6%E7%B1%8D--%E9%98%85%E8%AF%BB--%E5%AD%A6%E4%B9%A0)
+    - [Awesome 系列](#awesome-%E7%B3%BB%E5%88%97)
+    - [前端](#%E5%89%8D%E7%AB%AF)
+        - [Web](#web)
+        - [IOS](#ios-1)
+        - [Android](#android-2)
+    - [后端](#%E5%90%8E%E7%AB%AF)
+        - [Node.js](#nodejs-1)
+        - [Ruby](#ruby-2)
+        - [PHP](#php)
+        - [Go](#go-1)
+        - [接口](#%E6%8E%A5%E5%8F%A3)
+    - [算法 & 论文](#%E7%AE%97%E6%B3%95-&-%E8%AE%BA%E6%96%87)
+    - [其他](#%E5%85%B6%E4%BB%96)
+- [科学上网](#%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91)
+- [Git 相关](#git-%E7%9B%B8%E5%85%B3)
+- [其他](#%E5%85%B6%E4%BB%96-1)
+- [License](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
 ## Web 前端

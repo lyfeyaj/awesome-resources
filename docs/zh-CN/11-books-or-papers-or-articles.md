@@ -24,6 +24,7 @@
 + [awesome-python](https://github.com/vinta/awesome-python) : Python 资源整合
 + [awesome-autoit](https://github.com/J2TeaM/awesome-AutoIt) : 第三方定制开源软件合集
 + [awesome-books](https://github.com/ruby-vietnam/awesome-books): 一些很不错的开发书籍
++ [awesome-npm](https://github.com/sindresorhus/awesome-npm.git): Npm 相关资源整合
 
 #### 前端
 

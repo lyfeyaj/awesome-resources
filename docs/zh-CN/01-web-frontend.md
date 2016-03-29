@@ -66,6 +66,8 @@
 + [switchery](https://github.com/abpetkov/switchery): IOS 7 上 Switch 的 JS 实现, 支持 IE8 及以上浏览器
 + [trix](https://github.com/basecamp/trix): Basecamp 公司出品的富文本编辑器，简洁小巧
 + [greensock](http://greensock.com/): greensock是一個非常強大的動畫庫，網站內也有很完整的API文檔和examples
++ [Moment.js](https://github.com/moment/moment/): 一个功能强大的 JavaScript 日期处理类库，用于解析、检验、操作、以及显示日期
++ [webpack](https://github.com/webpack/webpack): 一个灵活、强大的 JavaScript 模块打包工具
 
 ###### Polyfills
 

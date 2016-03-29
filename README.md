@@ -1,7 +1,79 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [开发资源总结 (持续整理中)](#%E5%BC%80%E5%8F%91%E8%B5%84%E6%BA%90%E6%80%BB%E7%BB%93-%E6%8C%81%E7%BB%AD%E6%95%B4%E7%90%86%E4%B8%AD)
+  - [贡献方式](#%E8%B4%A1%E7%8C%AE%E6%96%B9%E5%BC%8F)
+  - [目录](#%E7%9B%AE%E5%BD%95)
+  - [Web 前端](#web-%E5%89%8D%E7%AB%AF)
+      - [Javascript](#javascript)
+          - [Polyfills](#polyfills)
+          - [HTML5 相关](#html5-%E7%9B%B8%E5%85%B3)
+          - [AngularJS](#angularjs)
+          - [React](#react)
+      - [CSS](#css)
+      - [ICON](#icon)
+  - [Web 后端](#web-%E5%90%8E%E7%AB%AF)
+      - [Ruby](#ruby)
+      - [Python](#python)
+      - [Node.js](#nodejs)
+          - [Express](#express)
+      - [Erlang](#erlang)
+      - [Java](#java)
+      - [C/C++](#cc)
+      - [Go](#go)
+      - [Lua](#lua)
+  - [IOS 或 OSX](#ios-%E6%88%96-osx)
+  - [Android](#android)
+  - [代码效率](#%E4%BB%A3%E7%A0%81%E6%95%88%E7%8E%87)
+      - [CoffeeScript](#coffeescript)
+      - [TypeScript](#typescript)
+      - [Sublime Text](#sublime-text)
+  - [云计算](#%E4%BA%91%E8%AE%A1%E7%AE%97)
+      - [Docker](#docker)
+      - [OS](#os)
+  - [开源产品(论坛、在线教育、项目管理等)](#%E5%BC%80%E6%BA%90%E4%BA%A7%E5%93%81%E8%AE%BA%E5%9D%9B%E3%80%81%E5%9C%A8%E7%BA%BF%E6%95%99%E8%82%B2%E3%80%81%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E7%AD%89)
+  - [代码规范&设计模式](#%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83&%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
+      - [Ruby](#ruby-1)
+          - [Rails](#rails)
+      - [Javascript](#javascript-1)
+          - [AngularJS](#angularjs-1)
+      - [Java](#java-1)
+          - [Android](#android-1)
+      - [Bash](#bash)
+      - [Objective-C](#objective-c)
+          - [IOS](#ios)
+      - [Swift](#swift)
+      - [Design](#design)
+  - [数据库](#%E6%95%B0%E6%8D%AE%E5%BA%93)
+  - [博客 / 网站](#%E5%8D%9A%E5%AE%A2--%E7%BD%91%E7%AB%99)
+      - [设计](#%E8%AE%BE%E8%AE%A1)
+      - [技术](#%E6%8A%80%E6%9C%AF)
+  - [书籍 / 阅读 / 学习](#%E4%B9%A6%E7%B1%8D--%E9%98%85%E8%AF%BB--%E5%AD%A6%E4%B9%A0)
+      - [Awesome 系列](#awesome-%E7%B3%BB%E5%88%97)
+      - [前端](#%E5%89%8D%E7%AB%AF)
+          - [Web](#web)
+          - [IOS](#ios-1)
+          - [Android](#android-2)
+      - [后端](#%E5%90%8E%E7%AB%AF)
+          - [Node.js](#nodejs-1)
+          - [Ruby](#ruby-2)
+          - [PHP](#php)
+          - [Go](#go-1)
+          - [接口](#%E6%8E%A5%E5%8F%A3)
+      - [算法 & 论文](#%E7%AE%97%E6%B3%95-&-%E8%AE%BA%E6%96%87)
+      - [其他](#%E5%85%B6%E4%BB%96)
+  - [科学上网](#%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91)
+  - [Git 相关](#git-%E7%9B%B8%E5%85%B3)
+  - [其他](#%E5%85%B6%E4%BB%96-1)
+  - [License](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 开发资源总结 (持续整理中)
 =====================
 
-
+{:.no_toc}
 
 > *就像开发一样, 这篇文档如果没有人关心和维护, 里面的内容就会变得老旧, 过时而不再具有参考价值. 所以, 我希望所有看到并喜欢这篇文档的人都来一起维护它. 放心大胆的提交 Pull Request 和 Issue 吧!!*
 
@@ -20,75 +92,9 @@
 
 ## 目录
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-
-- [Web 前端](#web-%E5%89%8D%E7%AB%AF)
-    - [Javascript](#javascript)
-        - [Polyfills](#polyfills)
-        - [HTML5 相关](#html5-%E7%9B%B8%E5%85%B3)
-        - [React](#react)
-    - [CSS](#css)
-    - [ICON](#icon)
-- [Web 后端](#web-%E5%90%8E%E7%AB%AF)
-    - [Ruby](#ruby)
-    - [Python](#python)
-    - [Node.js](#nodejs)
-        - [Express](#express)
-    - [Erlang](#erlang)
-    - [Java](#java)
-    - [C/C++](#cc)
-    - [Go](#go)
-    - [Lua](#lua)
-- [IOS 或 OSX](#ios-%E6%88%96-osx)
-- [Android](#android)
-- [代码效率](#%E4%BB%A3%E7%A0%81%E6%95%88%E7%8E%87)
-    - [CoffeeScript](#coffeescript)
-    - [TypeScript](#typescript)
-    - [Sublime Text](#sublime-text)
-- [云计算](#%E4%BA%91%E8%AE%A1%E7%AE%97)
-    - [Docker](#docker)
-    - [OS](#os)
-- [开源产品(论坛、在线教育、项目管理等)](#%E5%BC%80%E6%BA%90%E4%BA%A7%E5%93%81%E8%AE%BA%E5%9D%9B%E3%80%81%E5%9C%A8%E7%BA%BF%E6%95%99%E8%82%B2%E3%80%81%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E7%AD%89)
-- [代码规范&设计模式](#%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83&%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
-    - [Ruby](#ruby-1)
-        - [Rails](#rails)
-    - [Javascript](#javascript-1)
-        - [AngularJS](#angularjs)
-    - [Java](#java-1)
-        - [Android](#android-1)
-    - [Bash](#bash)
-    - [Objective-C](#objective-c)
-        - [IOS](#ios)
-    - [Swift](#swift)
-    - [Design](#design)
-- [数据库](#%E6%95%B0%E6%8D%AE%E5%BA%93)
-- [博客 / 网站](#%E5%8D%9A%E5%AE%A2--%E7%BD%91%E7%AB%99)
-    - [设计](#%E8%AE%BE%E8%AE%A1)
-    - [技术](#%E6%8A%80%E6%9C%AF)
-- [书籍 / 阅读 / 学习](#%E4%B9%A6%E7%B1%8D--%E9%98%85%E8%AF%BB--%E5%AD%A6%E4%B9%A0)
-    - [Awesome 系列](#awesome-%E7%B3%BB%E5%88%97)
-    - [前端](#%E5%89%8D%E7%AB%AF)
-        - [Web](#web)
-        - [IOS](#ios-1)
-        - [Android](#android-2)
-    - [后端](#%E5%90%8E%E7%AB%AF)
-        - [Node.js](#nodejs-1)
-        - [Ruby](#ruby-2)
-        - [PHP](#php)
-        - [Go](#go-1)
-        - [接口](#%E6%8E%A5%E5%8F%A3)
-    - [算法 & 论文](#%E7%AE%97%E6%B3%95-&-%E8%AE%BA%E6%96%87)
-    - [其他](#%E5%85%B6%E4%BB%96)
-- [科学上网](#%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91)
-- [Git 相关](#git-%E7%9B%B8%E5%85%B3)
-- [其他](#%E5%85%B6%E4%BB%96-1)
-- [License](#license)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-
++ toc-list
+{:toc}
+\n
 ## Web 前端
 
 #### Javascript
@@ -258,8 +264,7 @@
 
 + [icono](https://github.com/saeedalipoor/icono): 一款用纯 CSS 实现的图标库
 + [material-design-icons](https://github.com/google/material-design-icons): Google 为 Material Design 出品的 ICON
-
-
+\n
 ## Web 后端
 
 #### Ruby
@@ -481,8 +486,7 @@
 
 + [lua-nginx-module](https://github.com/openresty/lua-nginx-module): 一个 Nginx 组件包, 可以使用 Lua 来开发 Nginx 插件, 将之变成一个全功能的 Web 应用服务器
 + [kong](https://github.com/Mashape/kong): 一个专注于可扩展, 高性能以及可靠性的 Restful API 框架
-
-
+\n
 ## IOS 或 OSX
 
 + [Harpy](https://github.com/ArtSabintsev/Harpy): 用于检测应用更新
@@ -535,8 +539,7 @@
 + [MagicalRecord](https://github.com/magicalpanda/MagicalRecord): 基于 Core Data 之上的 ORM, 是 Active Record 的 IOS 版实现, 可以精简 Core Data 代码
 + [SQLite.swift](https://github.com/stephencelis/SQLite.swift): SQLite3 的 Swift 层接口实现
 + 
-
-
+\n
 ## Android
 
 + [Slidr](https://github.com/r0adkll/Slidr): 一个用于给 Activity 添加滑动消隐效果的库
@@ -548,8 +551,7 @@
 + [picasso](https://github.com/square/picasso): 一款用于下载并缓存图片的库
 + [ArcAnimator](https://github.com/asyl/ArcAnimator): 实现 ARC 动画的库
 + [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart): 强大的图表工具
-
-
+\n
 ## 代码效率
 
 #### CoffeeScript
@@ -571,8 +573,7 @@
 + [ApplySyntax](https://github.com/facelessuser/ApplySyntax/): 辅助检测语法插件
 + [CTags](https://github.com/SublimeText/CTags/): Sublime Text Ctags 支持插件, 需要安装 ctags
 + [sublime-react](https://github.com/reactjs/sublime-react): React 代码高亮
-
-
+\n
 ## 云计算
 
 #### Docker
@@ -584,8 +585,7 @@
 
 + [linux](https://github.com/torvalds/linux): linux 源码，Linus 大神之作，只能膜拜了
 + [smartos-live](https://github.com/joyent/smartos-live): Joyent 出品的用于云平台的智能 OS
-
-
+\n
 ## 开源产品(论坛、在线教育、项目管理等)
 
 + [Edx](https://github.com/edx/edx-platform): 在线教育平台源代码，Edx
@@ -608,8 +608,7 @@
 + [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native): HackerNews 基于 React Native 实现
 + [spree](https://github.com/spree/spree): 基于 Ruby on Rails 的开源在线电子商务网站
 + [v2ex](https://github.com/singro/v2ex): V2EX 的 IOS 源代码
-
-
+\n
 ## 代码规范&设计模式
 
 #### Ruby
@@ -656,8 +655,7 @@
 #### Design
 
 + [web-design-standards](https://github.com/18F/web-design-standards): 网站设计标准（美国政府网站）
-
-
+\n
 ## 数据库
 
 + [postgrest](https://github.com/begriffs/postgrest): PostgreSQL 的 RESTful API
@@ -666,8 +664,7 @@
 + [nedb](https://github.com/louischatriot/nedb): 纯 Javascript 实现，类 MongoDB 的内存型数据库，API 基本和 MongoDB相同，可选同步写入磁盘，小项目数据不太多时性能很强乃至超过MongoDB
 + [TokuMX MongoDB](https://github.com/Tokutek/mongo): TokuMX 版的 MongoDB, MongoDB 的一个分支，支持更快的写速度，完整的事务支持等
 + [sequelpro](https://github.com/sequelpro/sequelpro): Mac OSX 的 MySQL 数据库管理软件
-
-
+\n
 ## 博客 / 网站
 
 #### 设计
@@ -692,8 +689,7 @@
 + [cnodejs](https://cnodejs.org/): 国内最大最火 Node.js 社区
 + [ruby-china](https://ruby-china.org/): 国内最大最火 Ruby 社区
 + [angularjs](http://angularjs.cn/): Angularjs 的国内中文社区
-
-
+\n
 ## 书籍 / 阅读 / 学习
 
 #### Awesome 系列
@@ -800,8 +796,7 @@
 + [Wait but Why?](http://waitbutwhy.com/): 非常有意思的一个网站, 会有一些有趣的观点和文章
 + [ideas](https://github.com/samsquire/ideas): 有趣的想法, 更多是一个作者对于编程/软件/工具 的思考和整理
 + [Developing_iOS_8_Apps_With_Swift](https://github.com/X140Yu/Developing_iOS_8_Apps_With_Swift): 斯坦福大学公开课： 如何使用 Swift 开发 iOS8 应用
-
-
+\n
 ## 科学上网
 
 + [ShadowVPN](https://github.com/clowwindy/ShadowVPN): 科学上网之 VPN
@@ -812,8 +807,7 @@
 + [Google-IPs](https://github.com/justjavac/Google-IPs): Google 全球 IP 地址库
 + [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts): 一次性删除所有 CNNIC 证书的工具
 + [lantern](https://github.com/getlantern/lantern): 新一代翻墙工具, 借助于P2P, 速度很快
-
-
+\n
 ## Git 相关
 
 + [gitolite](https://github.com/sitaramc/gitolite): 用于构建 Git 服务器
@@ -821,8 +815,7 @@
 + [scm_breeze](https://github.com/ndbroadbent/scm_breeze): Git 流程的辅助简化工具
 + [gitlet](https://github.com/maryrosecook/gitlet): Javascript 实现的 Git
 + [js-git](https://github.com/creationix/js-git): Git 的 Javascript 实现
-
-
+\n
 ## 其他
 
 + [retter](https://github.com/maciejczyzewski/retter): 密码学相关的算法库
@@ -832,12 +825,10 @@
 加一张杀马特的照片
 + [github-awesome-autocomplete](https://github.com/algolia/github-awesome-autocomplete): Github 的浏览器插件, 用于辅助搜索, 更加人性化的搜索结果
 + [dotenv](https://github.com/bkeepers/dotenv): 用于配置本地环境, 可以为不同的文件夹设置不同的环境
-
-
+\n
 ## License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-
-
+\n

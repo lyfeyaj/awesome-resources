@@ -19,6 +19,12 @@
 + [awesome-react](https://github.com/enaqx/awesome-react): React 资源整合
 + [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo): 一系列前端性能优化集合
 + [awesome-angularjs](https://github.com/gianarb/awesome-angularjs): AngularJS 资源整合
++ [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) : Node.js 资源整合
++ [awesome-php](https://github.com/ziadoz/awesome-php) : PHP 资源整合
++ [awesome-python](https://github.com/vinta/awesome-python) : Python 资源整合
++ [awesome-autoit](https://github.com/J2TeaM/awesome-AutoIt) : 第三方定制开源软件合集
++ [awesome-books](https://github.com/ruby-vietnam/awesome-books): 一些很不错的开发书籍
++ [awesome-npm](https://github.com/sindresorhus/awesome-npm.git): Npm 相关资源整合
 
 #### 前端
 
@@ -40,6 +46,7 @@
 + [es6tutorial](https://github.com/ruanyf/es6tutorial): 《ECMAScript 6入门》是一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性。
 + [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning): AngularJS 学习资源
 + [practical-ui-physics](https://github.com/desandro/practical-ui-physics): 各种前端物理效果的实现原理
++ [understandinges6](https://github.com/nzakas/understandinges6): 电子书： Understanding ES6
 
 ###### IOS
 + [30min_guides](https://github.com/qinjx/30min_guides): 覃健祥的学习笔记，若干个几十分钟入门的文档
@@ -96,3 +103,4 @@
 + [cocktails_for_programmers](https://github.com/the-teacher/cocktails_for_programmers): 程序员鸡尾酒, 一个特意为专业节日“程序员日”而建立的鸡尾酒项目！“程序员日”在每年的第256天。
 + [Wait but Why?](http://waitbutwhy.com/): 非常有意思的一个网站, 会有一些有趣的观点和文章
 + [ideas](https://github.com/samsquire/ideas): 有趣的想法, 更多是一个作者对于编程/软件/工具 的思考和整理
++ [Developing_iOS_8_Apps_With_Swift](https://github.com/X140Yu/Developing_iOS_8_Apps_With_Swift): 斯坦福大学公开课： 如何使用 Swift 开发 iOS8 应用

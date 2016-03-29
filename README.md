@@ -2,11 +2,23 @@
 =====================
 
 
+
 > *就像开发一样, 这篇文档如果没有人关心和维护, 里面的内容就会变得老旧, 过时而不再具有参考价值. 所以, 我希望所有看到并喜欢这篇文档的人都来一起维护它. 放心大胆的提交 Pull Request 和 Issue 吧!!*
 
 这是对自己这几年开发的一个总结，各种项目、资源、书籍、博客等
 
 喜欢么？或者对您有用？那就 Star 一下吧 ^_^
+
+## 贡献方式
+
++ Fork 这个项目
++ 不要直接在 `Readme.md` 中直接添加内容
++ 所有的文档都放在 `docs` 中, 请根据内容找到相应的文件并添加
++ 如果是 Mac 或者 Linux 用户, 请在提交前运行 ./build.sh 来自动生成 `Readme.md` 文件
++ 保存并提交
++ 新建一个 Pull Request
+
+## 目录
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -16,7 +28,6 @@
     - [Javascript](#javascript)
         - [Polyfills](#polyfills)
         - [HTML5 相关](#html5-%E7%9B%B8%E5%85%B3)
-        - [AngularJS](#angularjs)
         - [React](#react)
     - [CSS](#css)
     - [ICON](#icon)
@@ -44,13 +55,14 @@
     - [Ruby](#ruby-1)
         - [Rails](#rails)
     - [Javascript](#javascript-1)
-        - [AngularJS](#angularjs-1)
+        - [AngularJS](#angularjs)
     - [Java](#java-1)
         - [Android](#android-1)
     - [Bash](#bash)
     - [Objective-C](#objective-c)
         - [IOS](#ios)
     - [Swift](#swift)
+    - [Design](#design)
 - [数据库](#%E6%95%B0%E6%8D%AE%E5%BA%93)
 - [博客 / 网站](#%E5%8D%9A%E5%AE%A2--%E7%BD%91%E7%AB%99)
     - [设计](#%E8%AE%BE%E8%AE%A1)
@@ -72,6 +84,7 @@
 - [科学上网](#%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91)
 - [Git 相关](#git-%E7%9B%B8%E5%85%B3)
 - [其他](#%E5%85%B6%E4%BB%96-1)
+- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -142,6 +155,8 @@
 + [summernote](https://github.com/summernote/summernote): WYSIWYG 富文本编辑器
 + [awesomplete](https://github.com/LeaVerou/awesomplete): 非常轻型的一个自动补全 JS 库, 没有任何依赖, 配置简单, 美观
 + [switchery](https://github.com/abpetkov/switchery): IOS 7 上 Switch 的 JS 实现, 支持 IE8 及以上浏览器
++ [trix](https://github.com/basecamp/trix): Basecamp 公司出品的富文本编辑器，简洁小巧
++ [greensock](http://greensock.com/): greensock是一個非常強大的動畫庫，網站內也有很完整的API文檔和examples
 
 ###### Polyfills
 
@@ -201,7 +216,8 @@
 + [plyr](https://github.com/Selz/plyr): 轻量, 小巧, 美观的 HTML5 视频播放器
 + [timesheet.js](https://github.com/sbstjn/timesheet.js): 基于  HTML5 & CSS3 时间表
 + [slideout](https://github.com/Mango/slideout): 一个非常美观的侧滑菜单
-
++ [pixi.js](https://github.com/pixijs/pixi.js): 非常強大的2d遊戲庫，網站內有許多的examples可以學習
++ [three.js](https://github.com/mrdoob/three.js/): 非常強大的3d遊戲庫
 ###### AngularJS
 
 + [angular-masonry](https://github.com/passy/angular-masonry): Masonry 的 AngularJS 插件，用于瀑布流
@@ -233,8 +249,10 @@
 + [normalize.css](https://github.com/necolas/normalize.css): 一个用于重置浏览器内置样式的库
 + [Skeleton](https://github.com/dhg/Skeleton): 一个 CSS 相关的库，用于构建对手机友好的网站
 + [pure](https://github.com/yahoo/pure): Yahoo 出品的前端样式框架, 支持响应式
-+ [materialize](https://github.com/dogfalo/materialize/): 基于谷歌 Material Design 的响应式 CSS 框架
++ [materialize](https://github.com/dogfalo/materialize/): 基于谷歌 Material Design 的响应式 CSS
+框架
 + [Metro UI](https://github.com/olton/Metro-UI-CSS): 一个 Metro 风格的前端框架
++ [animate](https://daneden.github.io/animate.css): 簡單又好用的動畫庫，網站內有簡單的範例跟demo效果
 
 #### ICON
 
@@ -515,6 +533,8 @@
 + [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP): Swift 的 HTTP 封装
 + [VKVideoPlayer](https://github.com/viki-org/VKVideoPlayer): 方便高度自定义视频播放器的库
 + [MagicalRecord](https://github.com/magicalpanda/MagicalRecord): 基于 Core Data 之上的 ORM, 是 Active Record 的 IOS 版实现, 可以精简 Core Data 代码
++ [SQLite.swift](https://github.com/stephencelis/SQLite.swift): SQLite3 的 Swift 层接口实现
++ 
 
 
 ## Android
@@ -587,6 +607,7 @@
 + [VLC](https://github.com/videolan/vlc): VLC 视频播放器源代码
 + [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native): HackerNews 基于 React Native 实现
 + [spree](https://github.com/spree/spree): 基于 Ruby on Rails 的开源在线电子商务网站
++ [v2ex](https://github.com/singro/v2ex): V2EX 的 IOS 源代码
 
 
 ## 代码规范&设计模式
@@ -631,6 +652,10 @@
 #### Swift
 
 + [swift-style-guide](https://github.com/raywenderlich/swift-style-guide): Swift 代码编写规范
+
+#### Design
+
++ [web-design-standards](https://github.com/18F/web-design-standards): 网站设计标准（美国政府网站）
 
 
 ## 数据库
@@ -690,6 +715,12 @@
 + [awesome-react](https://github.com/enaqx/awesome-react): React 资源整合
 + [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo): 一系列前端性能优化集合
 + [awesome-angularjs](https://github.com/gianarb/awesome-angularjs): AngularJS 资源整合
++ [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) : Node.js 资源整合
++ [awesome-php](https://github.com/ziadoz/awesome-php) : PHP 资源整合
++ [awesome-python](https://github.com/vinta/awesome-python) : Python 资源整合
++ [awesome-autoit](https://github.com/J2TeaM/awesome-AutoIt) : 第三方定制开源软件合集
++ [awesome-books](https://github.com/ruby-vietnam/awesome-books): 一些很不错的开发书籍
++ [awesome-npm](https://github.com/sindresorhus/awesome-npm.git): Npm 相关资源整合
 
 #### 前端
 
@@ -711,6 +742,7 @@
 + [es6tutorial](https://github.com/ruanyf/es6tutorial): 《ECMAScript 6入门》是一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性。
 + [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning): AngularJS 学习资源
 + [practical-ui-physics](https://github.com/desandro/practical-ui-physics): 各种前端物理效果的实现原理
++ [understandinges6](https://github.com/nzakas/understandinges6): 电子书： Understanding ES6
 
 ###### IOS
 + [30min_guides](https://github.com/qinjx/30min_guides): 覃健祥的学习笔记，若干个几十分钟入门的文档
@@ -767,6 +799,7 @@
 + [cocktails_for_programmers](https://github.com/the-teacher/cocktails_for_programmers): 程序员鸡尾酒, 一个特意为专业节日“程序员日”而建立的鸡尾酒项目！“程序员日”在每年的第256天。
 + [Wait but Why?](http://waitbutwhy.com/): 非常有意思的一个网站, 会有一些有趣的观点和文章
 + [ideas](https://github.com/samsquire/ideas): 有趣的想法, 更多是一个作者对于编程/软件/工具 的思考和整理
++ [Developing_iOS_8_Apps_With_Swift](https://github.com/X140Yu/Developing_iOS_8_Apps_With_Swift): 斯坦福大学公开课： 如何使用 Swift 开发 iOS8 应用
 
 
 ## 科学上网
@@ -778,6 +811,7 @@
 + [PPTP VPN 搭建](https://edgepeek.com/articles/144-ubuntu-12-dot-04-shang-pptp-vpn-da-jian): PPTP VPN 搭建教程
 + [Google-IPs](https://github.com/justjavac/Google-IPs): Google 全球 IP 地址库
 + [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts): 一次性删除所有 CNNIC 证书的工具
++ [lantern](https://github.com/getlantern/lantern): 新一代翻墙工具, 借助于P2P, 速度很快
 
 
 ## Git 相关
@@ -798,5 +832,12 @@
 加一张杀马特的照片
 + [github-awesome-autocomplete](https://github.com/algolia/github-awesome-autocomplete): Github 的浏览器插件, 用于辅助搜索, 更加人性化的搜索结果
 + [dotenv](https://github.com/bkeepers/dotenv): 用于配置本地环境, 可以为不同的文件夹设置不同的环境
+
+
+## License
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 

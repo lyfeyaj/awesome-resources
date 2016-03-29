@@ -7,9 +7,9 @@
   </head>
   <body>
     <article id='container'>
-      <h1 class="no_toc" id="kai-fa-zi-yuan-zong-jie--chi-xu-zheng-li-zhong-">开发资源总结 (持续整理中)</h1>
+      <h1 id="kai-fa-zi-yuan-zong-jie--chi-xu-zheng-li-zhong-">开发资源总结 (持续整理中)</h1>
 
-<blockquote>
+<blockquote class="no_toc">
   <p><em>就像开发一样, 这篇文档如果没有人关心和维护, 里面的内容就会变得老旧, 过时而不再具有参考价值. 所以, 我希望所有看到并喜欢这篇文档的人都来一起维护它. 放心大胆的提交 Pull Request 和 Issue 吧!!</em></p>
 </blockquote>
 
@@ -17,112 +17,132 @@
 
 <p>喜欢么？或者对您有用？那就 Star 一下吧 ^_^</p>
 
+<h2 id="gong-xian-fang-shi-">贡献方式</h2>
+
+<ul>
+  <li>Fork 这个项目</li>
+  <li>不要直接在 <code>Readme.md</code> 中直接添加内容</li>
+  <li>所有的文档都放在 <code>docs</code> 中, 请根据内容找到相应的文件并添加</li>
+  <li>如果是 Mac 或者 Linux 用户, 请在提交前运行 ./build.sh 来自动生成 <code>Readme.md</code> 文件</li>
+  <li>保存并提交</li>
+  <li>新建一个 Pull Request</li>
+</ul>
+
+<h2 id="mu-lu-">目录</h2>
+
 <ul id="markdown-toc">
   <li>
-<a href="#web-qian-duan-" id="markdown-toc-web-qian-duan-">Web 前端</a>    <ul>
+<a href="#kai-fa-zi-yuan-zong-jie--chi-xu-zheng-li-zhong-" id="markdown-toc-kai-fa-zi-yuan-zong-jie--chi-xu-zheng-li-zhong-">开发资源总结 (持续整理中)</a>    <ul>
+      <li><a href="#gong-xian-fang-shi-" id="markdown-toc-gong-xian-fang-shi-">贡献方式</a></li>
+      <li><a href="#mu-lu-" id="markdown-toc-mu-lu-">目录</a></li>
       <li>
-<a href="#javascript" id="markdown-toc-javascript">Javascript</a>        <ul>
-          <li><a href="#polyfills" id="markdown-toc-polyfills">Polyfills</a></li>
-          <li><a href="#html5-xiang-guan-" id="markdown-toc-html5-xiang-guan-">HTML5 相关</a></li>
-          <li><a href="#angularjs" id="markdown-toc-angularjs">AngularJS</a></li>
-          <li><a href="#react" id="markdown-toc-react">React</a></li>
+<a href="#web-qian-duan-" id="markdown-toc-web-qian-duan-">Web 前端</a>        <ul>
+          <li>
+<a href="#javascript" id="markdown-toc-javascript">Javascript</a>            <ul>
+              <li><a href="#polyfills" id="markdown-toc-polyfills">Polyfills</a></li>
+              <li><a href="#html5-xiang-guan-" id="markdown-toc-html5-xiang-guan-">HTML5 相关</a></li>
+              <li><a href="#react" id="markdown-toc-react">React</a></li>
+            </ul>
+          </li>
+          <li><a href="#css" id="markdown-toc-css">CSS</a></li>
+          <li><a href="#icon" id="markdown-toc-icon">ICON</a></li>
         </ul>
       </li>
-      <li><a href="#css" id="markdown-toc-css">CSS</a></li>
-      <li><a href="#icon" id="markdown-toc-icon">ICON</a></li>
+      <li>
+<a href="#web-hou-duan-" id="markdown-toc-web-hou-duan-">Web 后端</a>        <ul>
+          <li><a href="#ruby" id="markdown-toc-ruby">Ruby</a></li>
+          <li><a href="#python" id="markdown-toc-python">Python</a></li>
+          <li>
+<a href="#nodejs" id="markdown-toc-nodejs">Node.js</a>            <ul>
+              <li><a href="#express" id="markdown-toc-express">Express</a></li>
+            </ul>
+          </li>
+          <li><a href="#erlang" id="markdown-toc-erlang">Erlang</a></li>
+          <li><a href="#java" id="markdown-toc-java">Java</a></li>
+          <li><a href="#cc" id="markdown-toc-cc">C/C++</a></li>
+          <li><a href="#go" id="markdown-toc-go">Go</a></li>
+          <li><a href="#lua" id="markdown-toc-lua">Lua</a></li>
+        </ul>
+      </li>
+      <li><a href="#ios-huo--osx" id="markdown-toc-ios-huo--osx">IOS 或 OSX</a></li>
+      <li><a href="#android" id="markdown-toc-android">Android</a></li>
+      <li>
+<a href="#dai-ma-xiao-lu-" id="markdown-toc-dai-ma-xiao-lu-">代码效率</a>        <ul>
+          <li><a href="#coffeescript" id="markdown-toc-coffeescript">CoffeeScript</a></li>
+          <li><a href="#typescript" id="markdown-toc-typescript">TypeScript</a></li>
+          <li><a href="#sublime-text" id="markdown-toc-sublime-text">Sublime Text</a></li>
+        </ul>
+      </li>
+      <li>
+<a href="#yun-ji-suan-" id="markdown-toc-yun-ji-suan-">云计算</a>        <ul>
+          <li><a href="#docker" id="markdown-toc-docker">Docker</a></li>
+          <li><a href="#os" id="markdown-toc-os">OS</a></li>
+        </ul>
+      </li>
+      <li><a href="#kai-yuan-chan-pin-lun-tan--zai-xian-jiao-yu--xiang-mu-guan-li-deng-" id="markdown-toc-kai-yuan-chan-pin-lun-tan--zai-xian-jiao-yu--xiang-mu-guan-li-deng-">开源产品(论坛、在线教育、项目管理等)</a></li>
+      <li>
+<a href="#dai-ma-gui-fan-she-ji-mo-shi-" id="markdown-toc-dai-ma-gui-fan-she-ji-mo-shi-">代码规范&amp;设计模式</a>        <ul>
+          <li>
+<a href="#ruby-1" id="markdown-toc-ruby-1">Ruby</a>            <ul>
+              <li><a href="#rails" id="markdown-toc-rails">Rails</a></li>
+            </ul>
+          </li>
+          <li>
+<a href="#javascript-1" id="markdown-toc-javascript-1">Javascript</a>            <ul>
+              <li><a href="#angularjs" id="markdown-toc-angularjs">AngularJS</a></li>
+            </ul>
+          </li>
+          <li>
+<a href="#java-1" id="markdown-toc-java-1">Java</a>            <ul>
+              <li><a href="#android-1" id="markdown-toc-android-1">Android</a></li>
+            </ul>
+          </li>
+          <li><a href="#bash" id="markdown-toc-bash">Bash</a></li>
+          <li>
+<a href="#objective-c" id="markdown-toc-objective-c">Objective-C</a>            <ul>
+              <li><a href="#ios" id="markdown-toc-ios">IOS</a></li>
+            </ul>
+          </li>
+          <li><a href="#swift" id="markdown-toc-swift">Swift</a></li>
+          <li><a href="#design" id="markdown-toc-design">Design</a></li>
+        </ul>
+      </li>
+      <li><a href="#shu-ju-ku-" id="markdown-toc-shu-ju-ku-">数据库</a></li>
+      <li>
+<a href="#bo-ke---wang-zhan-" id="markdown-toc-bo-ke---wang-zhan-">博客 / 网站</a>        <ul>
+          <li><a href="#she-ji-" id="markdown-toc-she-ji-">设计</a></li>
+          <li><a href="#ji-zhu-" id="markdown-toc-ji-zhu-">技术</a></li>
+        </ul>
+      </li>
+      <li>
+<a href="#shu-ji---yue-du---xue-xi-" id="markdown-toc-shu-ji---yue-du---xue-xi-">书籍 / 阅读 / 学习</a>        <ul>
+          <li><a href="#awesome-xi-lie-" id="markdown-toc-awesome-xi-lie-">Awesome 系列</a></li>
+          <li>
+<a href="#qian-duan-" id="markdown-toc-qian-duan-">前端</a>            <ul>
+              <li><a href="#web" id="markdown-toc-web">Web</a></li>
+              <li><a href="#ios-1" id="markdown-toc-ios-1">IOS</a></li>
+              <li><a href="#android-2" id="markdown-toc-android-2">Android</a></li>
+            </ul>
+          </li>
+          <li>
+<a href="#hou-duan-" id="markdown-toc-hou-duan-">后端</a>            <ul>
+              <li><a href="#nodejs-1" id="markdown-toc-nodejs-1">Node.js</a></li>
+              <li><a href="#ruby-2" id="markdown-toc-ruby-2">Ruby</a></li>
+              <li><a href="#php" id="markdown-toc-php">PHP</a></li>
+              <li><a href="#go-1" id="markdown-toc-go-1">Go</a></li>
+              <li><a href="#jie-kou-" id="markdown-toc-jie-kou-">接口</a></li>
+            </ul>
+          </li>
+          <li><a href="#suan-fa---lun-wen-" id="markdown-toc-suan-fa---lun-wen-">算法 &amp; 论文</a></li>
+          <li><a href="#qi-ta-" id="markdown-toc-qi-ta-">其他</a></li>
+        </ul>
+      </li>
+      <li><a href="#ke-xue-shang-wang-" id="markdown-toc-ke-xue-shang-wang-">科学上网</a></li>
+      <li><a href="#git-xiang-guan-" id="markdown-toc-git-xiang-guan-">Git 相关</a></li>
+      <li><a href="#qi-ta--1" id="markdown-toc-qi-ta--1">其他</a></li>
+      <li><a href="#license" id="markdown-toc-license">License</a></li>
     </ul>
   </li>
-  <li>
-<a href="#web-hou-duan-" id="markdown-toc-web-hou-duan-">Web 后端</a>    <ul>
-      <li><a href="#ruby" id="markdown-toc-ruby">Ruby</a></li>
-      <li><a href="#python" id="markdown-toc-python">Python</a></li>
-      <li>
-<a href="#nodejs" id="markdown-toc-nodejs">Node.js</a>        <ul>
-          <li><a href="#express" id="markdown-toc-express">Express</a></li>
-        </ul>
-      </li>
-      <li><a href="#erlang" id="markdown-toc-erlang">Erlang</a></li>
-      <li><a href="#java" id="markdown-toc-java">Java</a></li>
-      <li><a href="#cc" id="markdown-toc-cc">C/C++</a></li>
-      <li><a href="#go" id="markdown-toc-go">Go</a></li>
-      <li><a href="#lua" id="markdown-toc-lua">Lua</a></li>
-    </ul>
-  </li>
-  <li><a href="#ios-huo--osx" id="markdown-toc-ios-huo--osx">IOS 或 OSX</a></li>
-  <li><a href="#android" id="markdown-toc-android">Android</a></li>
-  <li>
-<a href="#dai-ma-xiao-lu-" id="markdown-toc-dai-ma-xiao-lu-">代码效率</a>    <ul>
-      <li><a href="#coffeescript" id="markdown-toc-coffeescript">CoffeeScript</a></li>
-      <li><a href="#typescript" id="markdown-toc-typescript">TypeScript</a></li>
-      <li><a href="#sublime-text" id="markdown-toc-sublime-text">Sublime Text</a></li>
-    </ul>
-  </li>
-  <li>
-<a href="#yun-ji-suan-" id="markdown-toc-yun-ji-suan-">云计算</a>    <ul>
-      <li><a href="#docker" id="markdown-toc-docker">Docker</a></li>
-      <li><a href="#os" id="markdown-toc-os">OS</a></li>
-    </ul>
-  </li>
-  <li><a href="#kai-yuan-chan-pin-lun-tan--zai-xian-jiao-yu--xiang-mu-guan-li-deng-" id="markdown-toc-kai-yuan-chan-pin-lun-tan--zai-xian-jiao-yu--xiang-mu-guan-li-deng-">开源产品(论坛、在线教育、项目管理等)</a></li>
-  <li>
-<a href="#dai-ma-gui-fan-she-ji-mo-shi-" id="markdown-toc-dai-ma-gui-fan-she-ji-mo-shi-">代码规范&amp;设计模式</a>    <ul>
-      <li>
-<a href="#ruby-1" id="markdown-toc-ruby-1">Ruby</a>        <ul>
-          <li><a href="#rails" id="markdown-toc-rails">Rails</a></li>
-        </ul>
-      </li>
-      <li>
-<a href="#javascript-1" id="markdown-toc-javascript-1">Javascript</a>        <ul>
-          <li><a href="#angularjs-1" id="markdown-toc-angularjs-1">AngularJS</a></li>
-        </ul>
-      </li>
-      <li>
-<a href="#java-1" id="markdown-toc-java-1">Java</a>        <ul>
-          <li><a href="#android-1" id="markdown-toc-android-1">Android</a></li>
-        </ul>
-      </li>
-      <li><a href="#bash" id="markdown-toc-bash">Bash</a></li>
-      <li>
-<a href="#objective-c" id="markdown-toc-objective-c">Objective-C</a>        <ul>
-          <li><a href="#ios" id="markdown-toc-ios">IOS</a></li>
-        </ul>
-      </li>
-      <li><a href="#swift" id="markdown-toc-swift">Swift</a></li>
-    </ul>
-  </li>
-  <li><a href="#shu-ju-ku-" id="markdown-toc-shu-ju-ku-">数据库</a></li>
-  <li>
-<a href="#bo-ke---wang-zhan-" id="markdown-toc-bo-ke---wang-zhan-">博客 / 网站</a>    <ul>
-      <li><a href="#she-ji-" id="markdown-toc-she-ji-">设计</a></li>
-      <li><a href="#ji-zhu-" id="markdown-toc-ji-zhu-">技术</a></li>
-    </ul>
-  </li>
-  <li>
-<a href="#shu-ji---yue-du---xue-xi-" id="markdown-toc-shu-ji---yue-du---xue-xi-">书籍 / 阅读 / 学习</a>    <ul>
-      <li><a href="#awesome-xi-lie-" id="markdown-toc-awesome-xi-lie-">Awesome 系列</a></li>
-      <li>
-<a href="#qian-duan-" id="markdown-toc-qian-duan-">前端</a>        <ul>
-          <li><a href="#web" id="markdown-toc-web">Web</a></li>
-          <li><a href="#ios-1" id="markdown-toc-ios-1">IOS</a></li>
-          <li><a href="#android-2" id="markdown-toc-android-2">Android</a></li>
-        </ul>
-      </li>
-      <li>
-<a href="#hou-duan-" id="markdown-toc-hou-duan-">后端</a>        <ul>
-          <li><a href="#nodejs-1" id="markdown-toc-nodejs-1">Node.js</a></li>
-          <li><a href="#ruby-2" id="markdown-toc-ruby-2">Ruby</a></li>
-          <li><a href="#php" id="markdown-toc-php">PHP</a></li>
-          <li><a href="#go-1" id="markdown-toc-go-1">Go</a></li>
-          <li><a href="#jie-kou-" id="markdown-toc-jie-kou-">接口</a></li>
-        </ul>
-      </li>
-      <li><a href="#suan-fa---lun-wen-" id="markdown-toc-suan-fa---lun-wen-">算法 &amp; 论文</a></li>
-      <li><a href="#qi-ta-" id="markdown-toc-qi-ta-">其他</a></li>
-    </ul>
-  </li>
-  <li><a href="#ke-xue-shang-wang-" id="markdown-toc-ke-xue-shang-wang-">科学上网</a></li>
-  <li><a href="#git-xiang-guan-" id="markdown-toc-git-xiang-guan-">Git 相关</a></li>
-  <li><a href="#qi-ta--1" id="markdown-toc-qi-ta--1">其他</a></li>
 </ul>
 
 <h2 id="web-qian-duan-">Web 前端</h2>
@@ -256,6 +276,10 @@
 <a href="https://github.com/LeaVerou/awesomplete">awesomplete</a>: 非常轻型的一个自动补全 JS 库, 没有任何依赖, 配置简单, 美观</li>
   <li>
 <a href="https://github.com/abpetkov/switchery">switchery</a>: IOS 7 上 Switch 的 JS 实现, 支持 IE8 及以上浏览器</li>
+  <li>
+<a href="https://github.com/basecamp/trix">trix</a>: Basecamp 公司出品的富文本编辑器，简洁小巧</li>
+  <li>
+<a href="http://greensock.com/">greensock</a>: greensock是一個非常強大的動畫庫，網站內也有很完整的API文檔和examples</li>
 </ul>
 
 <h6 id="polyfills">Polyfills</h6>
@@ -374,11 +398,12 @@
 <a href="https://github.com/sbstjn/timesheet.js">timesheet.js</a>: 基于  HTML5 &amp; CSS3 时间表</li>
   <li>
 <a href="https://github.com/Mango/slideout">slideout</a>: 一个非常美观的侧滑菜单</li>
-</ul>
-
-<h6 id="angularjs">AngularJS</h6>
-
-<ul>
+  <li>
+<a href="https://github.com/pixijs/pixi.js">pixi.js</a>: 非常強大的2d遊戲庫，網站內有許多的examples可以學習</li>
+  <li>
+    <p><a href="https://github.com/mrdoob/three.js/">three.js</a>: 非常強大的3d遊戲庫<br>
+###### AngularJS</p>
+  </li>
   <li>
 <a href="https://github.com/passy/angular-masonry">angular-masonry</a>: Masonry 的 AngularJS 插件，用于瀑布流</li>
   <li>
@@ -436,6 +461,13 @@
 <a href="https://github.com/dhg/Skeleton">Skeleton</a>: 一个 CSS 相关的库，用于构建对手机友好的网站</li>
   <li>
 <a href="https://github.com/yahoo/pure">pure</a>: Yahoo 出品的前端样式框架, 支持响应式</li>
+  <li>
+<a href="https://github.com/dogfalo/materialize/">materialize</a>: 基于谷歌 Material Design 的响应式 CSS<br>
+框架</li>
+  <li>
+<a href="https://github.com/olton/Metro-UI-CSS">Metro UI</a>: 一个 Metro 风格的前端框架</li>
+  <li>
+<a href="https://daneden.github.io/animate.css">animate</a>: 簡單又好用的動畫庫，網站內有簡單的範例跟demo效果</li>
 </ul>
 
 <h4 id="icon">ICON</h4>
@@ -796,6 +828,10 @@
 <a href="https://github.com/andrewplummer/Sugar">https://github.com/andrewplummer/Sugar</a>: Javascript 原生类型的功能扩充(Monkey Patch), 提供了各种语法糖</li>
   <li>
 <a href="https://github.com/arturadib/shelljs">shelljs</a>: 各种 Shell 命令的 Node 实现</li>
+  <li>
+<a href="https://github.com/meteor/meteor">Meteor</a>: 一个基于 Node.js 的平台，用于开发实时网页和移动应用</li>
+  <li>
+<a href="https://github.com/koajs/koa">Koa</a>: Node.js web 框架，Express 原班人马打造，推崇极简，通过 generator 实现异步控制</li>
 </ul>
 
 <h6 id="express">Express</h6>
@@ -978,6 +1014,9 @@
 <a href="https://github.com/viki-org/VKVideoPlayer">VKVideoPlayer</a>: 方便高度自定义视频播放器的库</li>
   <li>
 <a href="https://github.com/magicalpanda/MagicalRecord">MagicalRecord</a>: 基于 Core Data 之上的 ORM, 是 Active Record 的 IOS 版实现, 可以精简 Core Data 代码</li>
+  <li>
+<a href="https://github.com/stephencelis/SQLite.swift">SQLite.swift</a>: SQLite3 的 Swift 层接口实现</li>
+  <li>
 </ul>
 
 <h2 id="android">Android</h2>
@@ -1103,6 +1142,8 @@
 <a href="https://github.com/iSimar/HackerNews-React-Native">HackerNews-React-Native</a>: HackerNews 基于 React Native 实现</li>
   <li>
 <a href="https://github.com/spree/spree">spree</a>: 基于 Ruby on Rails 的开源在线电子商务网站</li>
+  <li>
+<a href="https://github.com/singro/v2ex">v2ex</a>: V2EX 的 IOS 源代码</li>
 </ul>
 
 <h2 id="dai-ma-gui-fan-she-ji-mo-shi-">代码规范&amp;设计模式</h2>
@@ -1128,7 +1169,7 @@
 <a href="https://github.com/umdjs/umd">umd</a>: 全局模块定义, 提供了几种模块定义规则和模式, 使其可以支持 AMD/CMD/浏览器全局/jQuery插件等</li>
 </ul>
 
-<h6 id="angularjs-1">AngularJS</h6>
+<h6 id="angularjs">AngularJS</h6>
 
 <ul>
   <li>
@@ -1177,6 +1218,13 @@
 <ul>
   <li>
 <a href="https://github.com/raywenderlich/swift-style-guide">swift-style-guide</a>: Swift 代码编写规范</li>
+</ul>
+
+<h4 id="design">Design</h4>
+
+<ul>
+  <li>
+<a href="https://github.com/18F/web-design-standards">web-design-standards</a>: 网站设计标准（美国政府网站）</li>
 </ul>
 
 <h2 id="shu-ju-ku-">数据库</h2>
@@ -1281,6 +1329,16 @@
 <a href="https://github.com/davidsonfellipe/awesome-wpo">awesome-wpo</a>: 一系列前端性能优化集合</li>
   <li>
 <a href="https://github.com/gianarb/awesome-angularjs">awesome-angularjs</a>: AngularJS 资源整合</li>
+  <li>
+<a href="https://github.com/sindresorhus/awesome-nodejs">awesome-nodejs</a> : Node.js 资源整合</li>
+  <li>
+<a href="https://github.com/ziadoz/awesome-php">awesome-php</a> : PHP 资源整合</li>
+  <li>
+<a href="https://github.com/vinta/awesome-python">awesome-python</a> : Python 资源整合</li>
+  <li>
+<a href="https://github.com/J2TeaM/awesome-AutoIt">awesome-autoit</a> : 第三方定制开源软件合集</li>
+  <li>
+<a href="https://github.com/ruby-vietnam/awesome-books">awesome-books</a>: 一些很不错的开发书籍</li>
 </ul>
 
 <h4 id="qian-duan-">前端</h4>
@@ -1321,6 +1379,8 @@
 <a href="https://github.com/jmcunningham/AngularJS-Learning">AngularJS-Learning</a>: AngularJS 学习资源</li>
   <li>
 <a href="https://github.com/desandro/practical-ui-physics">practical-ui-physics</a>: 各种前端物理效果的实现原理</li>
+  <li>
+<a href="https://github.com/nzakas/understandinges6">understandinges6</a>: 电子书： Understanding ES6</li>
 </ul>
 
 <h6 id="ios-1">IOS</h6>
@@ -1423,6 +1483,8 @@
 <a href="http://waitbutwhy.com/">Wait but Why?</a>: 非常有意思的一个网站, 会有一些有趣的观点和文章</li>
   <li>
 <a href="https://github.com/samsquire/ideas">ideas</a>: 有趣的想法, 更多是一个作者对于编程/软件/工具 的思考和整理</li>
+  <li>
+<a href="https://github.com/X140Yu/Developing_iOS_8_Apps_With_Swift">Developing_iOS_8_Apps_With_Swift</a>: 斯坦福大学公开课： 如何使用 Swift 开发 iOS8 应用</li>
 </ul>
 
 <h2 id="ke-xue-shang-wang-">科学上网</h2>
@@ -1442,6 +1504,8 @@
 <a href="https://github.com/justjavac/Google-IPs">Google-IPs</a>: Google 全球 IP 地址库</li>
   <li>
 <a href="https://github.com/chengr28/RevokeChinaCerts">RevokeChinaCerts</a>: 一次性删除所有 CNNIC 证书的工具</li>
+  <li>
+<a href="https://github.com/getlantern/lantern">lantern</a>: 新一代翻墙工具, 借助于P2P, 速度很快</li>
 </ul>
 
 <h2 id="git-xiang-guan-">Git 相关</h2>
@@ -1476,6 +1540,12 @@
   <li>
 <a href="https://github.com/bkeepers/dotenv">dotenv</a>: 用于配置本地环境, 可以为不同的文件夹设置不同的环境</li>
 </ul>
+
+<h2 id="license">License</h2>
+
+<p><a href="http://creativecommons.org/licenses/by/4.0/"><img src="http://i.creativecommons.org/l/by/4.0/88x31.png" alt="Creative Commons License"></a></p>
+
+<p>This work is licensed under a <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
 
 
     </article>

@@ -19,7 +19,11 @@ for file in ./docs/zh-CN/*.md; do
   echo '\n' >> "$ZH_CN_README";
 done;
 
-pretty_doc -t parallel -o .
+if which pretty_doc; then
+  pretty_doc -t parallel -o .
+else
+  echo 'You may want to install `pretty_doc` to generate static files:  `gem install pretty_doc`'
+fi
 
 mv README.html index.html
 mv README.en.html index.en.html
@@ -28,4 +32,8 @@ sed -i "" "s/{:.no_toc}//g" README.md
 sed -i "" "s/+ toc-list/<!-- START doctoc -->/g" README.md
 sed -i "" "s/{:toc}/<!-- END doctoc -->/g" README.md
 
-doctoc README.md
+if which doctoc; then
+  doctoc README.md
+else
+  echo 'You may want to install `doctoc` to generate TOC:  `npm install doctoc`'
+fi

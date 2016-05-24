@@ -154,7 +154,7 @@
 + [jQuery.countdown](https://github.com/hilios/jQuery.countdown): jQuery 倒计时插件
 + [summernote](https://github.com/summernote/summernote): WYSIWYG 富文本编辑器
 + [awesomplete](https://github.com/LeaVerou/awesomplete): 非常轻型的一个自动补全 JS 库, 没有任何依赖, 配置简单, 美观
-+ [switchery](https://github.com/abpetkov/switchery): iOS 7 上 Switch 的 JS 实现, 支持 IE8 及以上浏览器
++ [switchery](https://github.com/abpetkov/switchery): IOS 7 上 Switch 的 JS 实现, 支持 IE8 及以上浏览器
 + [trix](https://github.com/basecamp/trix): Basecamp 公司出品的富文本编辑器，简洁小巧
 + [greensock](http://greensock.com/): greensock是一個非常強大的動畫庫，網站內也有很完整的API文檔和examples
 + [Moment.js](https://github.com/moment/moment/) Moment.js 是一个功能丰富的 JavaScript 日期处理类库，用于解析、检验、操作、以及显示日期
@@ -238,7 +238,7 @@
 ###### React
 
 + [react](https://github.com/facebook/react): React 框架源代码
-+ [react-native](https://github.com/facebook/react-native): Facebook 出品的使用 React 开发 iOS 原生应用的框架
++ [react-native](https://github.com/facebook/react-native): Facebook 出品的使用 React 开发 IOS 原生应用的框架
 + [react-hot-loader](https://github.com/gaearon/react-hot-loader): 实时调整 React 组件效果
 + [grunt-react](https://github.com/ericclemmons/grunt-react): React 的 Grunt 组件, 用于将 JSX 编译成 JS
 + [touchstonejs](https://github.com/JedWatson/touchstonejs): 基于 React 的手机应用前端框架
@@ -286,7 +286,7 @@
 + [devise_invitable](https://github.com/scambra/devise_invitable): Devise 的一个插件，用于邀请用户
 + [mail](https://github.com/mikel/mail): Ruby 的处理邮件的库
 + [commander](https://github.com/tj/commander): Ruby 的命令行辅助库
-+ [helios](https://github.com/helios-framework/helios): 一个为 iOS 提供后端支撑的库
++ [helios](https://github.com/helios-framework/helios): 一个为 IOS 提供后端支撑的库
 + [middleman](https://github.com/middleman/middleman): 一个辅助制作静态网站的工具
 + [pundit](https://github.com/elabs/pundit): 一个处理认证的库
 + [refile](https://github.com/elabs/refile): 一个处理图片上传的库
@@ -429,7 +429,7 @@
 + [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken): JsonWebToken 的 Node.js 实现
 + [js2coffee](https://github.com/js2coffee/js2coffee): 将 Javascript 转换成 CoffeeScript 的一个工具
 + [grunt-injector](https://github.com/klei/grunt-injector): Grunt 的 JS/CSS 自动注入工具, 可以自动将 JS/CSS 的引用注入到 HTML 文件中
-+ [NativeScript](https://github.com/NativeScript/NativeScript): 使用 Javascript 来编写 iOS / Android 以及更多平台原生软件的库
++ [NativeScript](https://github.com/NativeScript/NativeScript): 使用 Javascript 来编写 IOS / Android 以及更多平台原生软件的库
 + [rosie](https://github.com/bkeepers/rosie): 用于生成 Javascript 对象, 方便测试, 类似于 factory_girl
 + [jsduck](https://github.com/senchalabs/jsduck): javascript 文档生成工具
 + [shelljs](https://github.com/arturadib/shelljs): shell 命令的 Node.js 封装, 支持 local 和 global 两种模式
@@ -489,29 +489,29 @@
 + [kong](https://github.com/Mashape/kong): 一个专注于可扩展, 高性能以及可靠性的 Restful API 框架
 
 
-## iOS 或 OSX
+## IOS 或 OSX
 
 + [Harpy](https://github.com/ArtSabintsev/Harpy): 用于检测应用更新
-+ [CRToast](https://github.com/cruffenach/CRToast): 现代、时髦的 iOS 通知提醒库
-+ [Ono](https://github.com/mattt/Ono): iOS 或者 OSX 中用于处理 XML & HTML 的库
-+ [CocoaMarkdown](https://github.com/indragiek/CocoaMarkdown): iOS 或者 OSX 中用于解析或者渲染 Markdown 的库
-+ [Haneke](https://github.com/Haneke/Haneke): 一个用于缓存图片的 iOS 库，无需配置
++ [CRToast](https://github.com/cruffenach/CRToast): 现代、时髦的 IOS 通知提醒库
++ [Ono](https://github.com/mattt/Ono): IOS 或者 OSX 中用于处理 XML & HTML 的库
++ [CocoaMarkdown](https://github.com/indragiek/CocoaMarkdown): IOS 或者 OSX 中用于解析或者渲染 Markdown 的库
++ [Haneke](https://github.com/Haneke/Haneke): 一个用于缓存图片的 IOS 库，无需配置
 + [HanekeSwift](https://github.com/Haneke/HanekeSwift): Haneke 的 swift 版本
-+ [RFQuiltLayout](https://github.com/bryceredd/RFQuiltLayout): 一个用于实现 iOS 端瀑布流的库
-+ [kxmenu](https://github.com/kolyvan/kxmenu): 用于 iOS 上实现垂直菜单，支持上下左右等方向
-+ [peertalk](https://github.com/rsms/peertalk): iOS 或者 OSX 中用于处理 USB 通信
-+ [REMenu](https://github.com/romaonthego/REMenu): iOS 中用于实现下拉菜单效果
-+ [RESideMenu](https://github.com/romaonthego/RESideMenu): iOS 中侧边栏的异步效果实现，类似于 QQ 中的侧边栏
-+ [AwesomeMenu](https://github.com/levey/AwesomeMenu): iOS 中用于实现类似于 Path 应用菜单的效果，各种酷炫
-+ [Alamofire](https://github.com/Alamofire/Alamofire): AFNetworking 的 Swift 版本
++ [RFQuiltLayout](https://github.com/bryceredd/RFQuiltLayout): 一个用于实现 IOS 端瀑布流的库
++ [kxmenu](https://github.com/kolyvan/kxmenu): 用于 IOS 上实现垂直菜单，支持上下左右等方向
++ [peertalk](https://github.com/rsms/peertalk): IOS 或者 OSX 中用于处理 USB 通信
++ [REMenu](https://github.com/romaonthego/REMenu): IOS 中用于实现下拉菜单效果
++ [RESideMenu](https://github.com/romaonthego/RESideMenu): IOS 中侧边栏的异步效果实现，类似于 QQ 中的侧边栏
++ [AwesomeMenu](https://github.com/levey/AwesomeMenu): IOS 中用于实现类似于 Path 应用菜单的效果，各种酷炫
++ [Alamofire](https://github.com/Alamofire/Alamofire): NFNetworking 的 Swift 版本
 + [Alcatraz](https://github.com/supermarin/Alcatraz): Xcode 的包管理工具
-+ [JBChartView](https://github.com/Jawbone/JBChartView): iOS 的图表库
-+ [PNChart](https://github.com/kevinzhow/PNChart): 基于 iOS 的强大图表库
++ [JBChartView](https://github.com/Jawbone/JBChartView): IOS 的图表库
++ [PNChart](https://github.com/kevinzhow/PNChart): 基于 IOS 的强大图表库
 + [GPUImage](https://github.com/BradLarson/GPUImage): 基于 GPU 图片、视频处理库
-+ [shenzhen](https://github.com/nomad/shenzhen): 一个用于构架和发布 iOS 的命令行工具
++ [shenzhen](https://github.com/nomad/shenzhen): 一个用于构架和发布 IOS 的命令行工具
 + [ZXingObjC](https://github.com/TheLevelUp/ZXingObjC): ZXing(二维码、条形码扫描库) 的 Objective-C 实现
-+ [PKRevealController](https://github.com/pkluz/PKRevealController): iOS 上一个非常优秀的，用于实现侧边栏的库
-+ [KIF](https://github.com/kif-framework/KIF): iOS 功能测试框架
++ [PKRevealController](https://github.com/pkluz/PKRevealController): IOS 上一个非常优秀的，用于实现侧边栏的库
++ [KIF](https://github.com/kif-framework/KIF): IOS 功能测试框架
 + [Bolts-iOS](https://github.com/BoltsFramework/Bolts-iOS): 为了加快开发速度的相对低层级的库集合， Parse 和 Facebook 出品
 + [MaterialKit](https://github.com/nghialv/MaterialKit): 基于 Swift 实现的 Google Material Design 效果
 + [Carthage](https://github.com/Carthage/Carthage): 一个简单的、去中心化的 Cocoa 依赖管理库, Swift 编写，仅用于 IOS8.0 及 以后的系统
@@ -522,23 +522,23 @@
 + [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController): 一个优美大方的即时聊天 UI 库
 + [realm-cocoa](https://github.com/realm/realm-cocoa): 一个移动端数据库，提供了丰富的数据支持，快速，且不依赖 SQLite
 + [Surge](https://github.com/mattt/Surge): Swift 的高效数学运算库，基于 [Accelerate](https://developer.apple.com/library/mac/documentation/Accelerate/Reference/AccelerateFWRef/_index.html)
-+ [Masonry](https://github.com/Masonry/Masonry): OSX 和 iOS 上用来简化 Autolayout 约束的一个库
++ [Masonry](https://github.com/Masonry/Masonry): OSX 和 IOS 上用来简化 Autolayout 约束的一个库
 + [Side-Menu.iOS](https://github.com/Yalantis/Side-Menu.iOS): 一款精美的侧边栏实现
-+ [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit): iOS 上的一款异步界面引擎, 非常流畅, Facebook 出品
-+ [Kiwi](https://github.com/kiwi-bdd/Kiwi): iOS 的 BDD 测试框架
-+ [PonyDebugger](https://github.com/square/PonyDebugger): iOS 的远程调试工具, 允许开发者在 Chrome Developer Tool 中调试 iOS 应用
++ [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit): IOS 上的一款异步界面引擎, 非常流畅, Facebook 出品
++ [Kiwi](https://github.com/kiwi-bdd/Kiwi): IOS 的 BDD 测试框架
++ [PonyDebugger](https://github.com/square/PonyDebugger): IOS 的远程调试工具, 允许开发者在 Chrome Developer Tool 中调试 IOS 应用
 + [ObjectiveSugar](https://github.com/supermarin/ObjectiveSugar): 提供一些 Objective-C 的语法糖, 类似于 Ruby 的语法
 + [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON): Swift 的一个处理 JSON 的库
 + [Cartography](https://github.com/robb/Cartography): 在 Swift 中 声明式的使用 Autolayout
 + [HanekeSwift](https://github.com/Haneke/HanekeSwift): Swift 中可用来做缓存的库,对图片的支持尤佳
-+ [RuntimeBrowser](https://github.com/nst/RuntimeBrowser): iOS 和 OSX 的运行时类浏览器, 可以查看运行时的头文件, 允许动态加载新模块
-+ [iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers): iOS 运行时头文件, 从RuntimeBrowser抽出
++ [RuntimeBrowser](https://github.com/nst/RuntimeBrowser): IOS 和 OSX 的运行时类浏览器, 可以查看运行时的头文件, 允许动态加载新模块
++ [iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers): IOS 运行时头文件, 从RuntimeBrowser抽出
 + [WBWebViewConsole](https://github.com/Naituw/WBWebViewConsole): 应用内置用于 Debug 的控制台, 支持 UIWebView & WKWebView
 + [DBCamera](https://github.com/danielebogo/DBCamera): 方便高度自定义相机UI的库
 + [UIImage-Helpers](https://github.com/NZN/UIImage-Helpers): 截图、模糊化图片、生成特定颜色的图片，都可以由这个库完成
 + [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP): Swift 的 HTTP 封装
 + [VKVideoPlayer](https://github.com/viki-org/VKVideoPlayer): 方便高度自定义视频播放器的库
-+ [MagicalRecord](https://github.com/magicalpanda/MagicalRecord): 基于 Core Data 之上的 ORM, 是 Active Record 的 iOS 版实现, 可以精简 Core Data 代码
++ [MagicalRecord](https://github.com/magicalpanda/MagicalRecord): 基于 Core Data 之上的 ORM, 是 Active Record 的 IOS 版实现, 可以精简 Core Data 代码
 + [SQLite.swift](https://github.com/stephencelis/SQLite.swift): SQLite3 的 Swift 层接口实现
 + 
 
@@ -601,7 +601,7 @@
 + [libreboard](http://git.libreboard.com/libreboard/libreboard): [开源看板系统](https://github.com/libreboard/libreboard)，除了配色，长得几乎和 [Trello](https://trello.com) 一模一样
 + [paperwork](https://github.com/twostairs/paperwork): 开源笔记系统，类似于Evernote, Microsoft OneNote & Google Keep
 + [cabot](https://github.com/arachnys/cabot): 开源服务器监控服务
-+ [firefox-ios](https://github.com/mozilla/firefox-ios): iOS 版 Firefox 源代码
++ [firefox-ios](https://github.com/mozilla/firefox-ios): IOS 版 Firefox 源代码
 + [gogs](https://github.com/gogits/gogs): 一款开源 Git 托管服务，基于 GO 语言开发，类似于 Gitlab
 + [huginn](https://github.com/cantino/huginn): 个人代理监控，可以监控天气、Twitter、网站等等，并按照预设的条件发送通知给自己，功能强大！
 + [nodeclub](https://github.com/cnodejs/nodeclub): 社区系统，基于Node.js 和 MongoDB 开发
@@ -613,7 +613,7 @@
 + [VLC](https://github.com/videolan/vlc): VLC 视频播放器源代码
 + [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native): HackerNews 基于 React Native 实现
 + [spree](https://github.com/spree/spree): 基于 Ruby on Rails 的开源在线电子商务网站
-+ [v2ex](https://github.com/singro/v2ex): V2EX 的 iOS 源代码
++ [v2ex](https://github.com/singro/v2ex): V2EX 的 IOS 源代码
 
 
 ## 代码规范&设计模式
@@ -653,7 +653,7 @@
 
 ###### IOS
 
-+ [ios-good-practices](https://github.com/futurice/ios-good-practices): iOS 开发最佳实践
++ [ios-good-practices](https://github.com/futurice/ios-good-practices): IOS 开发最佳实践
 
 #### Swift
 
@@ -683,7 +683,7 @@
 + [Behance](https://www.behance.net/): 创意&设计资源集合，Adobe 旗下网站(应用)
 + [Awwwards](http://www.awwwards.com/): 一家筛选评比互联网上最佳网站设计开发的网站
 + [gooood](http://www.gooood.hk/): 建筑，景观，设计，艺术在线杂志
-+ [ui4app](http://ui4app.com/): 专注于 iOS UI 的一个网站，提供各种设计资源
++ [ui4app](http://ui4app.com/): 专注于 IOS UI 的一个网站，提供各种设计资源
 + [wookmark](http://www.wookmark.com/): 这上面有分享的各种各样的美图、设计等
 
 #### 技术
@@ -705,7 +705,7 @@
 #### Awesome 系列
 
 + [awesome](https://github.com/sindresorhus/awesome): awesome 汇总
-+ [iOS 学习资料整理](https://github.com/Aufree/trip-to-iOS): iOS 的各种学习资料整理，初学者必备
++ [iOS 学习资料整理](https://github.com/Aufree/trip-to-iOS): IOS 的各种学习资料整理，初学者必备
 + [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries): Android 各种开源库的一个汇总
 + [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui): Android 各种开源UI/UX库的一个汇总
 + [awesome-courses](https://github.com/prakhar1989/awesome-courses): 关于计算机科学的各种大学教学课程
@@ -727,6 +727,17 @@
 + [awesome-autoit](https://github.com/J2TeaM/awesome-AutoIt) : 第三方定制开源软件合集
 + [awesome-books](https://github.com/ruby-vietnam/awesome-books): 一些很不错的开发书籍
 + [awesome-npm](https://github.com/sindresorhus/awesome-npm.git): Npm 相关资源整合
++ [awesome-sysadmin-cn](https://github.com/jobbole/awesome-sysadmin-cn): 伯乐出品的系统管理员资源大全
++ [awesome-ios-cn](https://github.com/jobbole/awesome-ios-cn): 伯乐出品的 iOS 资源大全
++ [awesome-java-cn](https://github.com/jobbole/awesome-java-cn): 伯乐出品的 Java 资源大全
++ [awesome-python-cn](https://github.com/jobbole/awesome-python-cn): 伯乐出品的 Python 资源大全
++ [awesome-c-cn](https://github.com/jobbole/awesome-c-cn): 伯乐出品的 C 资源大全
++ [awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn): 伯乐出品的 C++ 资源大全
++ [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn): 伯乐出品的 MySQL 资源大全
++ [awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn): 伯乐出品的机器学习资源大全
++ [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn): 伯乐出品的 JavaScript 资源大全
++ [awesome-css-cn](https://github.com/jobbole/awesome-css-cn): 伯乐出品的 CSS 资源大全
++ [awesome-php-cn](https://github.com/jobbole/awesome-php-cn): 伯乐出品的 PHP 资源大全
 
 #### 前端
 
@@ -753,7 +764,7 @@
 ###### IOS
 + [30min_guides](https://github.com/qinjx/30min_guides): 覃健祥的学习笔记，若干个几十分钟入门的文档
 + [The Swift Programming Language 中文版](http://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/): The Swift Programming Language 中文版, 苹果官方教程的中文翻译
-+ [cocoacontrols](https://www.cocoacontrols.com/): 包含各种 OSX 或者 iOS 的开源 UI 库或者 商业库
++ [cocoacontrols](https://www.cocoacontrols.com/): 包含各种 OSX 或者 IOS 的开源 UI 库或者 商业库
 
 ###### Android
 

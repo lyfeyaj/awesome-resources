@@ -5,7 +5,7 @@
 
 > *就像开发一样, 这篇文档如果没有人关心和维护, 里面的内容就会变得老旧, 过时而不再具有参考价值. 所以, 我希望所有看到并喜欢这篇文档的人都一起来维护它. 放心大胆的提交 Pull Request 和 Issue 吧!!*
 
-这是对自己这几年开发的一个总结，各种项目、资源、书籍、博客等
+这是对自己这些年工作的一个总结，各种项目、资源、书籍、博客等
 
 喜欢么？或者对您有用？那就 Star 一下吧 ^_^
 
@@ -71,6 +71,7 @@
     - [Awesome 系列](#awesome-%E7%B3%BB%E5%88%97)
     - [前端](#%E5%89%8D%E7%AB%AF)
         - [Web](#web)
+        - [React](#react-1)
         - [IOS](#ios-1)
         - [Android](#android-2)
     - [后端](#%E5%90%8E%E7%AB%AF)
@@ -244,6 +245,8 @@
 + [touchstonejs](https://github.com/JedWatson/touchstonejs): 基于 React 的手机应用前端框架
 + [essential-react](https://github.com/pheuter/essential-react): 基于 React, ES6, React-Router的一个应用脚手架
 + [react-router](https://github.com/rackt/react-router): React 路由解决方案
++ [react-redux](https://github.com/reactjs/react-redux): React redux 插件, 提供 React 的 Redux 支持
++ [redux](https://github.com/reactjs/redux): Javascript的可预测状态容器, 主要用于处理数据流向和管理状态
 
 #### CSS
 
@@ -745,6 +748,12 @@
 + [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning): AngularJS 学习资源
 + [practical-ui-physics](https://github.com/desandro/practical-ui-physics): 各种前端物理效果的实现原理
 + [understandinges6](https://github.com/nzakas/understandinges6): 电子书： Understanding ES6
+
+###### React
+
+[React 中文文档](http://reactjs.cn/react/docs/getting-started-zh-CN.html): React 中文文档
+[Redux 英文文档](http://redux.js.org/docs/introduction/): Redux 英文文档, 比较详尽
+[Redux 中文文档](http://cn.redux.js.org/index.html): Redux 中文文档, 比较详尽
 
 ###### IOS
 + [30min_guides](https://github.com/qinjx/30min_guides): 覃健祥的学习笔记，若干个几十分钟入门的文档

@@ -153,6 +153,8 @@
 + [touchstonejs](https://github.com/JedWatson/touchstonejs): 基于 React 的手机应用前端框架
 + [essential-react](https://github.com/pheuter/essential-react): 基于 React, ES6, React-Router的一个应用脚手架
 + [react-router](https://github.com/rackt/react-router): React 路由解决方案
++ [react-redux](https://github.com/reactjs/react-redux): React redux 插件, 提供 React 的 Redux 支持
++ [redux](https://github.com/reactjs/redux): Javascript的可预测状态容器, 主要用于处理数据流向和管理状态
 
 #### CSS
 

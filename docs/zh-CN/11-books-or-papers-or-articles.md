@@ -48,6 +48,12 @@
 + [practical-ui-physics](https://github.com/desandro/practical-ui-physics): 各种前端物理效果的实现原理
 + [understandinges6](https://github.com/nzakas/understandinges6): 电子书： Understanding ES6
 
+###### React
+
+[React 中文文档](http://reactjs.cn/react/docs/getting-started-zh-CN.html): React 中文文档
+[Redux 英文文档](http://redux.js.org/docs/introduction/): Redux 英文文档, 比较详尽
+[Redux 中文文档](http://cn.redux.js.org/index.html): Redux 中文文档, 比较详尽
+
 ###### IOS
 + [30min_guides](https://github.com/qinjx/30min_guides): 覃健祥的学习笔记，若干个几十分钟入门的文档
 + [The Swift Programming Language 中文版](http://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/): The Swift Programming Language 中文版, 苹果官方教程的中文翻译

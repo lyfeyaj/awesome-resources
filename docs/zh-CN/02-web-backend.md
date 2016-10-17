@@ -85,12 +85,15 @@
 
 + [django](https://github.com/django/django): 一个全栈式的 web 框架, 类似于 Rails
 + [django-rest-framework](https://github.com/tomchristie/django-rest-framework): django 的 一个  Rest API 框架
++ [flask](https://github.com/pallets/flask): 一个轻量级的 web 框架
 + [wifiphisher](https://github.com/sophron/wifiphisher): WIFI 中间人钓鱼攻击工具，获取用户名密码
 + [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit): Python 的交互命令行工具，提供代码补全、高亮等
 + [redis-rdb-tools](https://github.com/sripathikrishnan/redis-rdb-tools): Redis 的 dump.rdb 文件解析器，用于分析内存使用、导出 JSON 以及 比较不同 rdb 文件差异
 + [supervisor](https://github.com/Supervisor/supervisor): 类UNIX下用于控制进程的一个开源库，通过配置可以监控、自动重启各种服务
 + [pyenv](https://github.com/yyuu/pyenv): Python 版本管理工具，类似于 RVM
++ [scrapy](https://github.com/scrapy/scrapy): 一个全能型的爬虫框架
 + [pyspider](https://github.com/binux/pyspider): 一个爬虫系统
+
 
 #### Node.js
 
@@ -194,6 +197,7 @@
 #### Java
 
 + [elasticsearch](https://github.com/elasticsearch/elasticsearch): 开源的分布式搜索引擎，社区活跃，支持强大
++ [fastjson](https://github.com/alibaba/fastjson): 阿里开源的一款高效的 JSON 库
 
 #### C/C++
 

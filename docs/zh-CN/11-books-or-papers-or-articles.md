@@ -25,11 +25,23 @@
 + [awesome-autoit](https://github.com/J2TeaM/awesome-AutoIt) : 第三方定制开源软件合集
 + [awesome-books](https://github.com/ruby-vietnam/awesome-books): 一些很不错的开发书籍
 + [awesome-npm](https://github.com/sindresorhus/awesome-npm.git): Npm 相关资源整合
++ [awesome-sysadmin-cn](https://github.com/jobbole/awesome-sysadmin-cn): 伯乐出品的系统管理员资源大全
++ [awesome-ios-cn](https://github.com/jobbole/awesome-ios-cn): 伯乐出品的 iOS 资源大全
++ [awesome-java-cn](https://github.com/jobbole/awesome-java-cn): 伯乐出品的 Java 资源大全
++ [awesome-python-cn](https://github.com/jobbole/awesome-python-cn): 伯乐出品的 Python 资源大全
++ [awesome-c-cn](https://github.com/jobbole/awesome-c-cn): 伯乐出品的 C 资源大全
++ [awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn): 伯乐出品的 C++ 资源大全
++ [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn): 伯乐出品的 MySQL 资源大全
++ [awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn): 伯乐出品的机器学习资源大全
++ [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn): 伯乐出品的 JavaScript 资源大全
++ [awesome-css-cn](https://github.com/jobbole/awesome-css-cn): 伯乐出品的 CSS 资源大全
++ [awesome-php-cn](https://github.com/jobbole/awesome-php-cn): 伯乐出品的 PHP 资源大全
 
 #### 前端
 
 ###### Web
 + [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions): 各种前端面试问题
++ [Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide): 汇集了前端开发的主流学习资源
 + [what-happens-when](https://github.com/alex/what-happens-when): 一篇文章，详细解释了从在浏览器中输入网址之后发生的一切
 + [backbone-fundamentals](https://github.com/addyosmani/backbone-fundamentals): 关于 Backbone 的一本书，初学和高级都适用
 + [http2-spec](https://github.com/http2/http2-spec): HTTP 2 草案

@@ -741,6 +741,8 @@
 + [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn): 伯乐出品的 JavaScript 资源大全
 + [awesome-css-cn](https://github.com/jobbole/awesome-css-cn): 伯乐出品的 CSS 资源大全
 + [awesome-php-cn](https://github.com/jobbole/awesome-php-cn): 伯乐出品的 PHP 资源大全
++ [awesome-graphql](https://github.com/chentsulin/awesome-graphql): Graphql 资源大全
++ [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood): 谬误大全, 懂得谬误, 才能更接近真理~
 
 #### 前端
 

@@ -1,9 +1,9 @@
-开发资源总结 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/lyfyeaj/awesome-resources)
+开发实战资源整合 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/lyfyeaj/awesome-resources)
 =====================
 
 
 
-> *如同开发一样, 这篇文档如果没有人关心和维护, 里面的内容就会过时, 从而不再具有参考价值. 所以, 希望所有喜欢的人都能够一起来维护. 放心大胆的纠错和增加新的内容吧!*
+> *如同开源项目一样, 这篇文档如果没有人关心和维护, 里面的内容就会过时, 从而不再具有参考价值. 所以, 希望所有喜欢的人都能够一起来维护. 放心大胆的纠错和增加新的内容吧!*
 
 喜欢么？或者对您有用？那就 Star 一下吧 ^_^
 

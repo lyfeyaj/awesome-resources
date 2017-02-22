@@ -444,6 +444,7 @@
 + [shelljs](https://github.com/arturadib/shelljs): 各种 Shell 命令的 Node 实现
 + [Meteor](https://github.com/meteor/meteor): 一个基于 Node.js 的平台，用于开发实时网页和移动应用
 + [Koa](https://github.com/koajs/koa): Node.js web 框架，Express 原班人马打造，推崇极简，通过 generator 实现异步控制
++ [Power Assert](https://github.com/power-assert-js/power-assert): 报错信息极其详细的 assert 库
 
 ###### Express
 
@@ -815,6 +816,7 @@
 
 + [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July): 程序员编程艺术：面试和算法心得
 + [papers-we-love](https://github.com/papers-we-love/papers-we-love): 计算机科学学术论文的一个集合，内容丰富有深度
++ [Tensorflow 中文文档](https://github.com/jikexueyuanwiki/tensorflow-zh): 人工智能系统 Tensorflow 的中文文档
 
 #### 其他
 
@@ -827,6 +829,8 @@
 + [Wait but Why?](http://waitbutwhy.com/): 非常有意思的一个网站, 会有一些有趣的观点和文章
 + [ideas](https://github.com/samsquire/ideas): 有趣的想法, 更多是一个作者对于编程/软件/工具 的思考和整理
 + [Developing_iOS_8_Apps_With_Swift](https://github.com/X140Yu/Developing_iOS_8_Apps_With_Swift): 斯坦福大学公开课： 如何使用 Swift 开发 iOS8 应用
++ [Open Source Guide](https://github.com/github/open-source-guide): Github 出品，教你如何做开源项目
++ [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans): 真正给人看的设计模式
 
 
 ## 科学上网
@@ -859,6 +863,7 @@
 加一张杀马特的照片
 + [github-awesome-autocomplete](https://github.com/algolia/github-awesome-autocomplete): Github 的浏览器插件, 用于辅助搜索, 更加人性化的搜索结果
 + [dotenv](https://github.com/bkeepers/dotenv): 用于配置本地环境, 可以为不同的文件夹设置不同的环境
++ [No more secrets](https://github.com/bartobri/no-more-secrets): 科幻电影中的解密效果
 
 
 ## License

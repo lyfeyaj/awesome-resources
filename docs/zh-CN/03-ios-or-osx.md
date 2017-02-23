@@ -49,4 +49,4 @@
 + [VKVideoPlayer](https://github.com/viki-org/VKVideoPlayer): 方便高度自定义视频播放器的库
 + [MagicalRecord](https://github.com/magicalpanda/MagicalRecord): 基于 Core Data 之上的 ORM, 是 Active Record 的 IOS 版实现, 可以精简 Core Data 代码
 + [SQLite.swift](https://github.com/stephencelis/SQLite.swift): SQLite3 的 Swift 层接口实现
-+ 
++ [panelkit](https://github.com/louisdh/panelkit): iOS 面板组件，可以用于创建非常灵活的面板

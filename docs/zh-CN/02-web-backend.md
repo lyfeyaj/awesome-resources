@@ -180,6 +180,7 @@
 + [Meteor](https://github.com/meteor/meteor): 一个基于 Node.js 的平台，用于开发实时网页和移动应用
 + [Koa](https://github.com/koajs/koa): Node.js web 框架，Express 原班人马打造，推崇极简，通过 generator 实现异步控制
 + [Power Assert](https://github.com/power-assert-js/power-assert): 报错信息极其详细的 assert 库
++ [Trevor](https://github.com/vadimdemedes/trevor): 本地的简版 Travis 集成集成测试环境，需要Docker支持
 
 ###### Express
 

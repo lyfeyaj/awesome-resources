@@ -445,6 +445,7 @@
 + [Meteor](https://github.com/meteor/meteor): 一个基于 Node.js 的平台，用于开发实时网页和移动应用
 + [Koa](https://github.com/koajs/koa): Node.js web 框架，Express 原班人马打造，推崇极简，通过 generator 实现异步控制
 + [Power Assert](https://github.com/power-assert-js/power-assert): 报错信息极其详细的 assert 库
++ [Trevor](https://github.com/vadimdemedes/trevor): 本地的简版 Travis 集成集成测试环境，需要Docker支持
 
 ###### Express
 
@@ -542,7 +543,7 @@
 + [VKVideoPlayer](https://github.com/viki-org/VKVideoPlayer): 方便高度自定义视频播放器的库
 + [MagicalRecord](https://github.com/magicalpanda/MagicalRecord): 基于 Core Data 之上的 ORM, 是 Active Record 的 IOS 版实现, 可以精简 Core Data 代码
 + [SQLite.swift](https://github.com/stephencelis/SQLite.swift): SQLite3 的 Swift 层接口实现
-+ 
++ [panelkit](https://github.com/louisdh/panelkit): iOS 面板组件，可以用于创建非常灵活的面板
 
 
 ## Android
@@ -742,6 +743,7 @@
 + [awesome-php-cn](https://github.com/jobbole/awesome-php-cn): 伯乐出品的 PHP 资源大全
 + [awesome-graphql](https://github.com/chentsulin/awesome-graphql): Graphql 资源大全
 + [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood): 谬误大全, 懂得谬误, 才能更接近真理~
++ [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers): 深度学习论文大全
 
 #### 前端
 

@@ -77,6 +77,7 @@
         - [Ruby](#ruby-2)
         - [PHP](#php)
         - [Go](#go-1)
+        - [Bash](#bash-1)
         - [接口](#%E6%8E%A5%E5%8F%A3)
     - [算法 & 论文](#%E7%AE%97%E6%B3%95-&-%E8%AE%BA%E6%96%87)
     - [其他](#%E5%85%B6%E4%BB%96)
@@ -809,6 +810,10 @@
 ###### Go
 
 + [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang): beego 作者写的关于怎么使用 Go 语言开发 web 应用的书
+
+###### Bash
+
++ [bash-handbook](https://github.com/denysdovhan/bash-handbook): Bash 手册，教你如何学习 Bash
 
 ###### 接口
 

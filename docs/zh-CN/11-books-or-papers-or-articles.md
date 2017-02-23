@@ -105,6 +105,10 @@
 
 + [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang): beego 作者写的关于怎么使用 Go 语言开发 web 应用的书
 
+###### Bash
+
++ [bash-handbook](https://github.com/denysdovhan/bash-handbook): Bash 手册，教你如何学习 Bash
+
 ###### 接口
 
 + [http-api-design](https://github.com/interagent/http-api-design): 从 Heroku 接口总结出的，如何更好地设计 API 接口

@@ -133,5 +133,3 @@
 + [Developing_iOS_8_Apps_With_Swift](https://github.com/X140Yu/Developing_iOS_8_Apps_With_Swift): 斯坦福大学公开课： 如何使用 Swift 开发 iOS8 应用
 + [Open Source Guide](https://github.com/github/open-source-guide): Github 出品，教你如何做开源项目
 + [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans): 真正给人看的设计模式
-+ [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation): 中国程序员容易发音错误的单词
-+ [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist): 程序员找工作黑名单，换工作和当技术合伙人需谨慎啊

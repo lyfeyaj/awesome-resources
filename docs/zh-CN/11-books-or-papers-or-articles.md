@@ -39,6 +39,7 @@
 + [awesome-graphql](https://github.com/chentsulin/awesome-graphql): Graphql 资源大全
 + [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood): 谬误大全, 懂得谬误, 才能更接近真理~
 + [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers): 深度学习论文大全
++ [awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn): webpack优秀中文文章
 
 #### 前端
 

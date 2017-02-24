@@ -155,6 +155,7 @@
 + [react-router](https://github.com/rackt/react-router): React 路由解决方案
 + [react-redux](https://github.com/reactjs/react-redux): React redux 插件, 提供 React 的 Redux 支持
 + [redux](https://github.com/reactjs/redux): Javascript的可预测状态容器, 主要用于处理数据流向和管理状态
++ [recharts](https://github.com/recharts/recharts): 基于 React 和 D3 实现的图表工具
 
 #### CSS
 

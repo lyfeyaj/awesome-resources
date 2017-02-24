@@ -246,6 +246,7 @@
 + [react-router](https://github.com/rackt/react-router): React 路由解决方案
 + [react-redux](https://github.com/reactjs/react-redux): React redux 插件, 提供 React 的 Redux 支持
 + [redux](https://github.com/reactjs/redux): Javascript的可预测状态容器, 主要用于处理数据流向和管理状态
++ [recharts](https://github.com/recharts/recharts): 基于 React 和 D3 实现的图表工具
 
 #### CSS
 
@@ -745,6 +746,7 @@
 + [awesome-graphql](https://github.com/chentsulin/awesome-graphql): Graphql 资源大全
 + [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood): 谬误大全, 懂得谬误, 才能更接近真理~
 + [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers): 深度学习论文大全
++ [awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn): webpack优秀中文文章
 
 #### 前端
 

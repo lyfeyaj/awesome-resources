@@ -709,8 +709,7 @@
 
 #### Awesome 系列
 
-+ [awesome](https://github.com/sindresorhus/awesome): awesome 汇总
-+ [iOS 学习资料整理](https://github.com/Aufree/trip-to-iOS): IOS 的各种学习资料整理，初学者必备
++ [awesome](https://github.com/sindresorhus/awesome): awesome系列祖师爷，资源汇总的汇总 😄
 + [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries): Android 各种开源库的一个汇总
 + [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui): Android 各种开源UI/UX库的一个汇总
 + [awesome-courses](https://github.com/prakhar1989/awesome-courses): 关于计算机科学的各种大学教学课程
@@ -719,9 +718,7 @@
 + [awesome-cpp](https://github.com/fffaraz/awesome-cpp): C++ 的资源集合
 + [awesome-elixir](https://github.com/h4cc/awesome-elixir): Elixir 资源集合
 + [awesome-emacs](https://github.com/emacs-tw/awesome-emacs): Emacs 资源整合
-+ [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks): 前端开发资源的集合, 内容极多
 + [awesome-apple](https://github.com/joeljfischer/awesome-apple): 关于苹果开发的插件/库/文章等资源
-+ [frontend-stuff](https://github.com/moklick/frontend-stuff): 前端相关的各种资源, JS 内容居多
 + [awesome-swift)](https://github.com/matteocrippa/awesome-swift): Swift 资源整合
 + [awesome-react](https://github.com/enaqx/awesome-react): React 资源整合
 + [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo): 一系列前端性能优化集合
@@ -770,6 +767,8 @@
 + [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning): AngularJS 学习资源
 + [practical-ui-physics](https://github.com/desandro/practical-ui-physics): 各种前端物理效果的实现原理
 + [understandinges6](https://github.com/nzakas/understandinges6): 电子书： Understanding ES6
++ [frontend-stuff](https://github.com/moklick/frontend-stuff): 前端相关的各种资源, JS 内容居多
++ [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks): 前端开发资源的集合, 内容极多
 
 ###### React
 
@@ -781,6 +780,7 @@
 + [30min_guides](https://github.com/qinjx/30min_guides): 覃健祥的学习笔记，若干个几十分钟入门的文档
 + [The Swift Programming Language 中文版](http://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/): The Swift Programming Language 中文版, 苹果官方教程的中文翻译
 + [cocoacontrols](https://www.cocoacontrols.com/): 包含各种 OSX 或者 IOS 的开源 UI 库或者 商业库
++ [iOS 学习资料整理](https://github.com/Aufree/trip-to-iOS): IOS 的各种学习资料整理，初学者必备
 
 ###### Android
 

@@ -8,3 +8,4 @@
 + [Google-IPs](https://github.com/justjavac/Google-IPs): Google 全球 IP 地址库
 + [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts): 一次性删除所有 CNNIC 证书的工具
 + [lantern](https://github.com/getlantern/lantern): 新一代翻墙工具, 借助于P2P, 速度很快
++ [hosts](https://github.com/racaljk/hosts): 科学上网专用Hosts

@@ -10,3 +10,4 @@
 + [No more secrets](https://github.com/bartobri/no-more-secrets): 科幻电影中的解密效果
 + [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation): 中国程序员容易发音错误的单词
 + [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist): 程序员找工作黑名单，换工作和当技术合伙人需谨慎啊
++ [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 黑客和科幻迷必看电影

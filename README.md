@@ -48,8 +48,8 @@
 - [云计算](#%E4%BA%91%E8%AE%A1%E7%AE%97)
     - [Docker](#docker)
     - [OS](#os)
-- [开源产品(论坛、在线教育、项目管理等)](#%E5%BC%80%E6%BA%90%E4%BA%A7%E5%93%81%E8%AE%BA%E5%9D%9B%E3%80%81%E5%9C%A8%E7%BA%BF%E6%95%99%E8%82%B2%E3%80%81%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E7%AD%89)
-- [代码规范&设计模式](#%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83&%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
+- [开源产品(论坛、在线教育、项目管理等)](#%E5%BC%80%E6%BA%90%E4%BA%A7%E5%93%81%E8%AE%BA%E5%9D%9B%E5%9C%A8%E7%BA%BF%E6%95%99%E8%82%B2%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E7%AD%89)
+- [代码规范&设计模式](#%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
     - [Ruby](#ruby-1)
         - [Rails](#rails)
     - [Javascript](#javascript-1)
@@ -79,7 +79,7 @@
         - [Go](#go-1)
         - [Bash](#bash-1)
         - [接口](#%E6%8E%A5%E5%8F%A3)
-    - [算法 & 论文](#%E7%AE%97%E6%B3%95-&-%E8%AE%BA%E6%96%87)
+    - [算法 & 论文](#%E7%AE%97%E6%B3%95--%E8%AE%BA%E6%96%87)
     - [其他](#%E5%85%B6%E4%BB%96)
 - [科学上网](#%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91)
 - [Git 相关](#git-%E7%9B%B8%E5%85%B3)
@@ -737,6 +737,7 @@
 + [awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn): 伯乐出品的 C++ 资源大全
 + [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn): 伯乐出品的 MySQL 资源大全
 + [awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn): 伯乐出品的机器学习资源大全
++ [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning): 机器学习资源整合
 + [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn): 伯乐出品的 JavaScript 资源大全
 + [awesome-css-cn](https://github.com/jobbole/awesome-css-cn): 伯乐出品的 CSS 资源大全
 + [awesome-php-cn](https://github.com/jobbole/awesome-php-cn): 伯乐出品的 PHP 资源大全
@@ -744,6 +745,8 @@
 + [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood): 谬误大全, 懂得谬误, 才能更接近真理~
 + [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers): 深度学习论文大全
 + [awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn): webpack优秀中文文章
++ [awesome-blockchain](https://github.com/coderplex/awesome-blockchain): 区块链资源整合
++ [awesome-mac](https://github.com/jaywcjlove/awesome-mac): Mac 资源整合
 
 #### 前端
 

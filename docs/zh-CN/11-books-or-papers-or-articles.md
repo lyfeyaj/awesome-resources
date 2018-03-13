@@ -30,6 +30,7 @@
 + [awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn): 伯乐出品的 C++ 资源大全
 + [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn): 伯乐出品的 MySQL 资源大全
 + [awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn): 伯乐出品的机器学习资源大全
++ [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning): 机器学习资源整合
 + [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn): 伯乐出品的 JavaScript 资源大全
 + [awesome-css-cn](https://github.com/jobbole/awesome-css-cn): 伯乐出品的 CSS 资源大全
 + [awesome-php-cn](https://github.com/jobbole/awesome-php-cn): 伯乐出品的 PHP 资源大全
@@ -37,6 +38,8 @@
 + [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood): 谬误大全, 懂得谬误, 才能更接近真理~
 + [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers): 深度学习论文大全
 + [awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn): webpack优秀中文文章
++ [awesome-blockchain](https://github.com/coderplex/awesome-blockchain): 区块链资源整合
++ [awesome-mac](https://github.com/jaywcjlove/awesome-mac): Mac 资源整合
 
 #### 前端
 

@@ -65,6 +65,7 @@
 + [understandinges6](https://github.com/nzakas/understandinges6): 电子书： Understanding ES6
 + [frontend-stuff](https://github.com/moklick/frontend-stuff): 前端相关的各种资源, JS 内容居多
 + [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks): 前端开发资源的集合, 内容极多
++ [Web Components in Action](https://www.manning.com/books/web-components-in-action): Web Components
 
 ###### React
 

@@ -1,8 +1,8 @@
 ## 云计算
 
-#### Docker
+#### 容器相关
 
-+ [kubernetes](https://github.com/GoogleCloudPlatform/kubernetes): Google 开源的 Docker 集中管控系统
++ [kubernetes](https://github.com/kubernetes/kubernetes): Google 开源的 容器编排工具
 + [weave](https://github.com/zettio/weave): 用于为基于不同主机的 Docker Containers 创建一个虚拟网络
 
 #### OS

@@ -47,7 +47,7 @@
     - [Sublime Text](#sublime-text)
     - [Visual Code Studio](#visual-code-studio)
 - [云计算](#%E4%BA%91%E8%AE%A1%E7%AE%97)
-    - [Docker](#docker)
+    - [容器相关](#%E5%AE%B9%E5%99%A8%E7%9B%B8%E5%85%B3)
     - [OS](#os)
 - [开源产品(论坛、在线教育、项目管理等)](#%E5%BC%80%E6%BA%90%E4%BA%A7%E5%93%81%E8%AE%BA%E5%9D%9B%E5%9C%A8%E7%BA%BF%E6%95%99%E8%82%B2%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E7%AD%89)
 - [代码规范&设计模式](#%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
@@ -594,9 +594,9 @@
 
 ## 云计算
 
-#### Docker
+#### 容器相关
 
-+ [kubernetes](https://github.com/GoogleCloudPlatform/kubernetes): Google 开源的 Docker 集中管控系统
++ [kubernetes](https://github.com/kubernetes/kubernetes): Google 开源的 容器编排工具
 + [weave](https://github.com/zettio/weave): 用于为基于不同主机的 Docker Containers 创建一个虚拟网络
 
 #### OS
@@ -874,9 +874,6 @@
 + [scm_breeze](https://github.com/ndbroadbent/scm_breeze): Git 流程的辅助简化工具
 + [gitlet](https://github.com/maryrosecook/gitlet): Javascript 实现的 Git
 + [js-git](https://github.com/creationix/js-git): Git 的 Javascript 实现
-
-
-
 
 
 ## 其他

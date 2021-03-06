@@ -21,11 +21,11 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [Web 前端](#web-%E5%89%8D%E7%AB%AF)
     - [Javascript](#javascript)
         - [Polyfills](#polyfills)
         - [HTML5 相关](#html5-%E7%9B%B8%E5%85%B3)
+        - [AngularJS](#angularjs)
         - [React](#react)
     - [CSS](#css)
     - [ICON](#icon)
@@ -45,6 +45,7 @@
     - [CoffeeScript](#coffeescript)
     - [TypeScript](#typescript)
     - [Sublime Text](#sublime-text)
+    - [Visual Code Studio](#visual-code-studio)
 - [云计算](#%E4%BA%91%E8%AE%A1%E7%AE%97)
     - [Docker](#docker)
     - [OS](#os)
@@ -53,7 +54,7 @@
     - [Ruby](#ruby-1)
         - [Rails](#rails)
     - [Javascript](#javascript-1)
-        - [AngularJS](#angularjs)
+        - [AngularJS](#angularjs-1)
     - [Java](#java-1)
         - [Android](#android-1)
     - [Bash](#bash)
@@ -584,6 +585,13 @@
 + [sublime-react](https://github.com/reactjs/sublime-react): React 代码高亮
 
 
+#### Visual Code Studio
+
++ [Atom Keymap for VS Code](https://github.com/Microsoft/vscode-atom-keybindings): Atom 快捷键映射
++ [Auto Close Tag](https://github.com/formulahendry/vscode-auto-close-tag): HTML/XML 标签自动闭合插件
++ [js-beautify for VS Code](https://github.com/HookyQR/VSCodeBeautify): `Javascript`, `JSON`, `CSS`, `Sass`, and `HTML` 代码格式化工具
+
+
 ## 云计算
 
 #### Docker
@@ -747,6 +755,7 @@
 + [awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn): webpack优秀中文文章
 + [awesome-blockchain](https://github.com/coderplex/awesome-blockchain): 区块链资源整合
 + [awesome-mac](https://github.com/jaywcjlove/awesome-mac): Mac 资源整合
++ [awesome-cto](https://github.com/kuchin/awesome-cto): CTO 资源清单
 
 #### 前端
 
@@ -865,6 +874,9 @@
 + [scm_breeze](https://github.com/ndbroadbent/scm_breeze): Git 流程的辅助简化工具
 + [gitlet](https://github.com/maryrosecook/gitlet): Javascript 实现的 Git
 + [js-git](https://github.com/creationix/js-git): Git 的 Javascript 实现
+
+
+
 
 
 ## 其他

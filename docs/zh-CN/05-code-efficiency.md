@@ -19,3 +19,10 @@
 + [ApplySyntax](https://github.com/facelessuser/ApplySyntax/): 辅助检测语法插件
 + [CTags](https://github.com/SublimeText/CTags/): Sublime Text Ctags 支持插件, 需要安装 ctags
 + [sublime-react](https://github.com/reactjs/sublime-react): React 代码高亮
+
+
+#### Visual Code Studio
+
++ [Atom Keymap for VS Code](https://github.com/Microsoft/vscode-atom-keybindings): Atom 快捷键映射
++ [Auto Close Tag](https://github.com/formulahendry/vscode-auto-close-tag): HTML/XML 标签自动闭合插件
++ [js-beautify for VS Code](https://github.com/HookyQR/VSCodeBeautify): `Javascript`, `JSON`, `CSS`, `Sass`, and `HTML` 代码格式化工具

@@ -40,6 +40,7 @@
 + [awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn): webpack优秀中文文章
 + [awesome-blockchain](https://github.com/coderplex/awesome-blockchain): 区块链资源整合
 + [awesome-mac](https://github.com/jaywcjlove/awesome-mac): Mac 资源整合
++ [awesome-cto](https://github.com/kuchin/awesome-cto): CTO 资源清单
 
 #### 前端
 

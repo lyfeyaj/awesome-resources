@@ -551,6 +551,7 @@
 
 ## Android
 
++ [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Android Library that provide simpler way to start the Activities with multiple arguments.
 + [Slidr](https://github.com/r0adkll/Slidr): 一个用于给 Activity 添加滑动消隐效果的库
 + [material_design_zh](https://github.com/1sters/material_design_zh): Material Design 的中文协同翻译
 + [galgo](https://github.com/inaka/galgo): Android 的日志工具，可以将日志显示在 Activity 的最上端，方便调试

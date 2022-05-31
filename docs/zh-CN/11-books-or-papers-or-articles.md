@@ -137,3 +137,4 @@
 + [Developing_iOS_8_Apps_With_Swift](https://github.com/X140Yu/Developing_iOS_8_Apps_With_Swift): 斯坦福大学公开课： 如何使用 Swift 开发 iOS8 应用
 + [Open Source Guide](https://github.com/github/open-source-guide): Github 出品，教你如何做开源项目
 + [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans): 真正给人看的设计模式
++ [Codementor events](https://www.codementor.io/events): 全年免费, 专门为工程师打造的线上活动平台。

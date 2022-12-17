@@ -21,7 +21,7 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Web 前端](#web-%E5%89%8D%E7%AB%AF)
+- [Web ForntEnd](#web-%E5%89%8D%E7%AB%AF)
     - [Javascript](#javascript)
         - [Polyfills](#polyfills)
         - [HTML5 相关](#html5-%E7%9B%B8%E5%85%B3)
@@ -29,7 +29,7 @@
         - [React](#react)
     - [CSS](#css)
     - [ICON](#icon)
-- [Web 后端](#web-%E5%90%8E%E7%AB%AF)
+- [Web BackEnd](#web-%E5%90%8E%E7%AB%AF)
     - [Ruby](#ruby)
     - [Python](#python)
     - [Node.js](#nodejs)

@@ -1,4 +1,5 @@
 ## 其他
++ [AI Exam Prep Tools](https://github.com/roykim26/ai-exam-prep-tools) - AI考试备考工具合集，包含间隔重复、自适应学习等资源
 
 + [retter](https://github.com/maciejczyzewski/retter): 密码学相关的算法库
 + [uBlock](https://github.com/gorhill/uBlock): Chrome, Firefox, Safari 插件用来屏蔽内容（如广告等），可自定义
